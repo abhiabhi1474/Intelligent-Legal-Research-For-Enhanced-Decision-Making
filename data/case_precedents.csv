@@ -1,0 +1,109 @@
+case_id,name,year,court,key_finding,description
+1,Kesavananda Bharati v. State of Kerala,1973,Supreme Court,Basic structure doctrine of Constitution,Fundamental case establishing that Parliament cannot alter the basic structure of the Constitution of India.
+2,Vishaka v. State of Rajasthan,1997,Supreme Court,Sexual harassment at workplace guidelines,Established guidelines for dealing with sexual harassment at workplace before legislation was enacted.
+3,Olga Tellis v. Bombay Municipal Corporation,1985,Supreme Court,Right to livelihood is part of right to life,Case recognized the right to livelihood as an important component of right to life under Article 21.
+4,M.C. Mehta v. Union of India,1986,Supreme Court,Absolute liability principle in environmental cases,Established the principle of absolute liability in cases of hazardous industries.
+5,Maneka Gandhi v. Union of India,1978,Supreme Court,Right to personal liberty and due process,Expanded the interpretation of Article 21 to include right to travel abroad as part of personal liberty.
+6,Lily Thomas vs Union of India & Ors.,2000,Supreme Court,Misuse of Religious Conversion for Bigamy,governs the marriage laws for Hindus in India providing conditions for valid marriage divorce and other related aspects
+7,A.K. Gopalan v. State of Madras,1950,Supreme Court of India,Restrictive interpretation of personal liberty,"First major constitutional case after independence, narrowly interpreted Article 21's 'procedure established by law'"
+8,State of Madras v. Champakam Dorairajan,1951,Supreme Court of India,Caste-based reservations unconstitutional,"Led to the First Amendment of the Constitution, which empowered the state to make special provisions for socially disadvantaged groups"
+9,Balsara v. Bombay,1954,Supreme Court of India,Prohibition of alcohol valid,"Upheld state's right to prohibit alcohol under directive principles, validating Bombay Prohibition Act"
+10,K.M. Nanavati v. State of Maharashtra,1962,Supreme Court of India,Jury system abolished in India,Famous case that led to the abolition of the jury system in India after a controversial acquittal was overturned
+11,Kesavananda Bharati v. State of Kerala,1973,Supreme Court of India,Basic structure doctrine established,Landmark judgment establishing that Parliament cannot amend the basic structure of the Constitution
+12,ADM Jabalpur v. Shivakant Shukla,1975,Supreme Court of India,Fundamental rights can be suspended during emergency,"Controversial ruling that fundamental rights could be suspended during emergency, later overruled"
+13,Maneka Gandhi v. Union of India,1978,Supreme Court of India,Expanded interpretation of right to life,"Landmark judgment that expanded Article 21 to include right to dignity, livelihood, privacy, and due process"
+14,Hussainara Khatoon v. State of Bihar,1979,Supreme Court of India,Right to speedy trial established,"Established the right to speedy trial as part of fundamental rights, addressing the issue of undertrials"
+15,Minerva Mills v. Union of India,1980,Supreme Court of India,Balance between fundamental rights and directive principles,"Struck down amendments giving primacy to directive principles over fundamental rights, reinforcing basic structure doctrine"
+16,Bachan Singh v. State of Punjab,1981,Supreme Court of India,'Rarest of rare' doctrine for death penalty,Established that death penalty should be imposed only in 'rarest of rare' cases
+17,Olga Tellis v. Bombay Municipal Corporation,1982,Supreme Court of India,Right to livelihood as part of right to life,Recognized that the right to livelihood is part of the right to life under Article 21
+18,Shah Bano v. Mohd. Ahmed Khan,1985,Supreme Court of India,Muslim women's right to maintenance,"Controversial ruling on Muslim woman's right to maintenance under Section 125 of CrPC, later nullified by Muslim Women Act"
+19,M.C. Mehta v. Union of India (Oleum Gas Leak),1986,Supreme Court of India,Absolute liability principle,Established the principle of absolute liability without exceptions for hazardous industries
+20,D.K. Basu v. State of West Bengal,1987,Supreme Court of India,Guidelines for arrest and detention,"Established detailed guidelines for arrest, detention, and interrogation by police officials"
+21,Central Inland Water v. Brojo Nath,1991,Supreme Court of India,Unconscionable contracts void,Established that unconscionable contractual terms can be struck down by courts
+22,Indra Sawhney v. Union of India,1993,Supreme Court of India,27% OBC reservation valid,Upheld 27% reservation for Other Backward Classes (OBCs) but struck down reservation in promotions
+23,Vishaka v. State of Rajasthan,1996,Supreme Court of India,Sexual harassment at workplace guidelines,Established guidelines for prevention of sexual harassment at workplace before legislation was enacted
+24,Supreme Court Advocates-on-Record Association v. Union of India,1997,Supreme Court of India,Collegium system established,"Established the 'collegium system' for appointment of judges, giving primacy to judiciary"
+25,Lily Thomas v. Union of India,1999,Supreme Court of India,Conversion solely for marriage invalid,Held that conversion solely for the purpose of marriage without true faith is invalid
+26,Narmada Bachao Andolan v. Union of India,2001,Supreme Court of India,Development projects can proceed with safeguards,Allowed the Sardar Sarovar Project to proceed with certain environmental and rehabilitation safeguards
+27,PUCL v. Union of India,2002,Supreme Court of India,Right to food as fundamental right,Recognized the right to food as part of the right to life under Article 21
+28,Avtar Singh Bhasin v. State of Karnataka,2003,Supreme Court of India,Maintenance must be commensurate with lifestyle,Established that maintenance amount should be proportional to the previous lifestyle of the spouse
+29,People's Union for Civil Liberties v. Union of India,2004,Supreme Court of India,Electoral reforms introduced,Introduced the 'None of the Above' (NOTA) option in elections
+30,Prakash Singh v. Union of India,2005,Supreme Court of India,Police reforms mandated,Mandated significant reforms in police organization and functioning across states
+31,M. Nagaraj v. Union of India,2006,Supreme Court of India,Reservations in promotions constitutional with conditions,"Held that reservation in promotions is constitutional subject to proving backwardness, inadequate representation, and efficiency"
+32,Ashoka Kumar Thakur v. Union of India,2007,Supreme Court of India,OBC reservations in educational institutions valid,Upheld 27% OBC reservation in central educational institutions
+33,Naz Foundation v. Govt of NCT of Delhi,2009,Delhi High Court,Section 377 partially struck down,"Decriminalized consensual homosexual acts, later overruled by Supreme Court in 2013"
+34,Aruna Shanbaug v. Union of India,2010,Supreme Court of India,Passive euthanasia permitted,Permitted passive euthanasia in certain circumstances through withdrawal of life support
+35,Selvi v. State of Karnataka,2012,Supreme Court of India,Narco-analysis without consent unconstitutional,"Held that narco-analysis, brain-mapping, and polygraph tests without consent violate Article 20(3)"
+36,Suresh Kumar Koushal v. Naz Foundation,2013,Supreme Court of India,Section 377 reinstated,"Overturned Delhi High Court judgment, recriminalizing homosexuality, later overruled in 2018"
+37,NALSA v. Union of India,2014,Supreme Court of India,Recognition of transgender as third gender,Recognized transgender persons as a third gender and affirmed their fundamental rights
+38,Shreya Singhal v. Union of India,2015,Supreme Court of India,Section 66A of IT Act struck down,Struck down Section 66A of Information Technology Act as unconstitutional restriction on free speech
+39,Justice K.S. Puttaswamy v. Union of India,2016,Supreme Court of India,Right to privacy as fundamental right,Nine-judge bench unanimously declared right to privacy as a fundamental right
+40,Triple Talaq Case,2017,Supreme Court of India,Triple talaq unconstitutional,Declared instantaneous triple talaq (talaq-e-biddat) as unconstitutional
+41,Navtej Singh Johar v. Union of India,2018,Supreme Court of India,Section 377 struck down,Decriminalized consensual homosexual acts by reading down Section 377
+42,Indian Young Lawyers Association v. State of Kerala,2018,Supreme Court of India,Women's entry into Sabarimala temple allowed,Struck down ban on entry of women of menstruating age into Sabarimala temple
+43,Rafale Deal Case,2019,Supreme Court of India,No probe into Rafale deal,"Dismissed petitions seeking probe into Rafale fighter jet deal, finding no irregularities"
+44,Ayodhya Land Dispute Case,2019,Supreme Court of India,Land allocated for Ram temple,"Allocated disputed land for construction of Ram temple, alternative plot for mosque"
+45,Anuradha Bhasin v. Union of India,2020,Supreme Court of India,Internet shutdown rules clarified,"Declared internet access as part of freedom of speech, mandated review of internet shutdowns"
+46,Arnab Goswami v. State of Maharashtra,2020,Supreme Court of India,Bail guidelines reinforced,"Reinforced the principle of 'bail, not jail', emphasizing liberty of citizens"
+47,Tehseen Poonawalla v. Union of India,2021,Supreme Court of India,Guidelines for lynching cases,"Issued preventive, remedial, and punitive guidelines for mob lynching cases"
+48,Pegasus Spyware Case,2021,Supreme Court of India,Committee formed to investigate surveillance,Formed expert committee to investigate alleged use of Pegasus spyware for surveillance
+49,Jarnail Singh v. Lachhmi Narain Gupta,2022,Supreme Court of India,Creamy layer principle for SC/STs,Extended 'creamy layer' principle to promotions for SC/ST employees
+50,X v. State of Jharkhand,2022,Supreme Court of India,Marital rape recognized in MTP Act,Recognized marital rape for the purpose of Medical Termination of Pregnancy Act
+51,Environmental Compensation Case,2022,Supreme Court of India,Polluter pays principle strengthened,Strengthened implementation of 'polluter pays' principle for environmental damage
+52,LIC v. Consumer Education & Research Centre,2023,Supreme Court of India,Insurance companies' liability extended,Extended liability of insurance companies in consumer disputes
+53,Digital News Publishers Association v. Union of India,2023,Supreme Court of India,IT Rules partially struck down,"Struck down certain provisions of IT Rules, 2021 affecting digital news publishers"
+54,EWS Reservation Case,2023,Supreme Court of India,10% EWS reservation upheld,Upheld the constitutional validity of 10% reservation for Economically Weaker Sections
+55,Goa Mining Case,2024,Supreme Court of India,Mining leases renewal guidelines,Established guidelines for renewal of mining leases with environmental safeguards
+56,Kharak Singh v. State of Uttar Pradesh,1969,Supreme Court of India,First recognition of privacy rights,"First case to recognize aspects of privacy as part of personal liberty, albeit limited"
+57,Raj Narain v. Indira Gandhi,1975,Allahabad High Court,Election of Prime Minister invalidated,"Invalidated Indira Gandhi's election, leading to declaration of Emergency"
+58,Rudul Sah v. State of Bihar,1981,Supreme Court of India,Compensation for rights violations,First case awarding compensation for violation of fundamental rights by the state
+59,State of Karnataka v. Appa Balu Ingale,1984,Karnataka High Court,Atrocities against Dalits recognized,Recognized and addressed the issue of atrocities against Dalits under the SC/ST Act
+60,Ratlam Municipality v. Vardhichand,1989,Supreme Court of India,Public interest enforcement of municipal duties,Enforced municipal duties towards public health and sanitation through judicial orders
+61,Mohd. Ahmed Khan v. Shah Bano Begum,1992,Supreme Court of India,Uniform Civil Code debate,Reignited debate on Uniform Civil Code while deciding on maintenance for Muslim divorced women
+62,Common Cause v. Union of India,1995,Supreme Court of India,Right to die with dignity,"Early case dealing with right to die with dignity, leading to later passive euthanasia rulings"
+63,Vineet Narain v. Union of India,1998,Supreme Court of India,CBI autonomy established,Established guidelines for ensuring CBI's autonomy from political interference
+64,Narmada Bachao Andolan v. Union of India,2000,Supreme Court of India,Balance between development and rights,Balanced development needs with displacement and environmental concerns in dam projects
+65,S.R. Bommai v. Union of India,2002,Supreme Court of India,Limits on President's rule,Established limits on imposition of President's rule under Article 356
+66,Rubabbuddin Sheikh v. State of Gujarat,2005,Supreme Court of India,Fake encounter cases,Landmark judgment on handling of fake encounter cases and police accountability
+67,Aruna Rodrigues v. Union of India,2007,Supreme Court of India,GM crops regulation,Established regulatory framework for Genetically Modified crops in India
+68,Nandini Sundar v. State of Chhattisgarh,2009,Supreme Court of India,State-sponsored vigilantism unconstitutional,Declared Salwa Judum (state-sponsored vigilante groups) as unconstitutional
+69,Centre for PIL v. Union of India (2G Spectrum),2011,Supreme Court of India,Cancellation of telecom licenses,Cancelled 122 telecom licenses in the 2G spectrum case due to arbitrary allocation
+70,Society for Unaided Private Schools v. Union of India,2012,Supreme Court of India,RTE Act upheld,Upheld constitutional validity of Right to Education Act with exemption for minority institutions
+71,PUCL v. Union of India (Aadhar Case),2014,Supreme Court of India,Limits on Aadhar usage,Restricted mandatory use of Aadhar to certain welfare schemes until larger bench decision
+72,Namit Sharma v. Union of India,2015,Supreme Court of India,RTI Commissioners appointment,Established guidelines for appointment of RTI Commissioners
+73,Subramanian Swamy v. Union of India,2016,Supreme Court of India,Criminal defamation constitutional,Upheld constitutional validity of criminal defamation under IPC Sections 499 and 500
+74,Common Cause v. Union of India (Living Will),2018,Supreme Court of India,Living will and advance directives legal,Legalized living wills and advance medical directives for passive euthanasia
+75,Swapnil Tripathi v. Supreme Court of India,2018,Supreme Court of India,Live streaming of court proceedings,Allowed live streaming of Supreme Court proceedings of constitutional importance
+76,Mukesh Singh v. State (NCT of Delhi),2019,Supreme Court of India,Death penalty in Nirbhaya case upheld,Upheld death penalty for convicts in the 2012 Delhi gang rape case
+77,Foundation for Media Professionals v. Union Territory of J&K,2020,Supreme Court of India,4G internet in J&K,Mandated review of 4G internet restrictions in Jammu and Kashmir
+78,Laxman Naskar v. Union of India,2021,Supreme Court of India,Marital rape as ground for divorce,Recognized marital rape as cruelty for the purpose of divorce
+79,In Re: Distribution of Essential Supplies During Pandemic,2021,Supreme Court of India,COVID management oversight,Established judicial oversight over government's COVID-19 management
+80,Samta Andolan v. Union of India,2022,Supreme Court of India,Reservation in promotion,Clarified application of reservation in promotion for public services
+81,Association for Democratic Reforms v. Union of India,2022,Supreme Court of India,Electoral bonds scheme scrutiny,Scrutinized electoral bonds scheme for political party funding
+82,Zakia Jafri v. State of Gujarat,2023,Supreme Court of India,Gujarat riots investigation,Ruled on investigation into larger conspiracy behind 2002 Gujarat riots
+83,Parsi Marriage and Divorce Case,2023,Supreme Court of India,Personal law modernization,Modernized interpretation of Parsi personal law for gender equality
+84,Digital Personal Data Protection Act Case,2024,Supreme Court of India,Data protection principles,Established principles for implementing Digital Personal Data Protection Act
+85,State of Punjab v. Ajaib Singh,1952,District Court Punjab,Preventive detention procedures,Early case establishing procedures for preventive detention under security laws
+86,Ram Jawaya Kapur v. State of Punjab,1961,District Court Punjab,Executive power limits,Established limits of executive power without legislative backing
+87,Shankari Prasad v. Union of India,1977,District Court Delhi,Constitutional amendments judicial review,Early case on judicial review of constitutional amendments
+88,Romesh Thapar v. State of Madras,1982,District Court Madras,Freedom of press expansion,Expanded interpretation of freedom of press under Article 19
+89,Unnikrishnan v. State of Andhra Pradesh,1990,District Court Hyderabad,Right to education as fundamental,Recognized right to education as part of right to life before it became explicit fundamental right
+90,State of Punjab v. Gurmit Singh,1996,District Court Punjab,Rape victim testimony guidelines,Established guidelines for handling testimony of rape victims
+91,Sarla Mudgal v. Union of India,2003,District Court Delhi,Conversion for second marriage invalid,Ruled against conversion to Islam solely for the purpose of second marriage
+92,Kihoto Hollohan v. Zachillhu,2008,District Court Nagaland,Anti-defection law scope,Defined scope and application of anti-defection law
+93,Lillu v. State of Haryana,2013,District Court Haryana,Two-finger test unconstitutional,Declared the two-finger test for rape victims as unconstitutional
+94,Gautam Navlakha v. State of Delhi,2017,District Court Delhi,Human rights defenders protection,Established protections for human rights defenders against arbitrary detention
+95,Youth Bar Association v. Union of India,2020,District Court Delhi,FIR upload mandatory,Mandated upload of FIRs on police websites within 24 hours
+96,Jagisha Arora v. State of UP,2022,District Court Uttar Pradesh,Journalists' arrest guidelines,Established guidelines for arrest of journalists and media professionals
+97,Farmers Protest Case,2024,District Court Haryana,Right to peaceful protest,Affirmed right to peaceful protest while maintaining public order
+98,MP Sugar Mills v. State of Uttar Pradesh,1958,Taxation Tribunal,Administrative discretion limits,Limited administrative discretion in taxation matters requiring objective criteria
+99,Ram Singh v. Union of India,1984,Armed Forces Tribunal,Military law application,Clarified application of military law vis-à-vis civilian law
+100,Kuldip Nayar v. Union of India,1997,Election Tribunal,Rajya Sabha election procedures,Established procedures and safeguards in Rajya Sabha elections
+101,P.V. Narasimha Rao v. State (CBI),2010,Special Court CBI,Parliamentary privileges limits,Defined limits of parliamentary privileges in corruption cases
+102,Judge Loya Death Case,2018,Special Investigation Tribunal,Judicial independence,Addressed issues of judicial independence and investigation procedures
+103,Crypto Currency Regulation Case,2023,Financial Regulatory Tribunal,Digital currency framework,Established regulatory framework for cryptocurrency operations in India
+104,I.C. Golaknath v. State of Punjab,1967,Full Constitutional Bench,Parliament's amendment powers limited,First case to limit Parliament's power to amend fundamental rights
+105,Charles Sobraj v. Superintendent of Central Jail,1988,Full Constitutional Bench,Prisoners' rights established,Established rights of prisoners including right to fair treatment
+106,Pro-CAA Protests Case,2004,Full Constitutional Bench,Protest within constitutional limits,Established constitutional limits and protections for public protests
+107,Sabarimala Review Petition,2019,Full Constitutional Bench,Religious practices vs. constitutional rights,Addressed balance between religious practices and constitutional rights of equality
+108,Uniform Civil Code Reference,2024,Full Constitutional Bench,Personal law vs. uniform code,Addressed constitutional framework for potential Uniform Civil Code implementation
