@@ -1,0 +1,144 @@
+section_id,law_name,section_number,title,text
+1,Indian Penal Code,Section 302,Punishment for murder,"Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+2,Indian Penal Code,Section 420,Cheating and dishonesty,Whoever cheats and thereby dishonestly induces the person deceived to deliver any property shall be punished with imprisonment and fine.
+3,Code of Criminal Procedure,Section 161,Examination of witnesses by police,Police officer may examine witnesses acquainted with the facts and circumstances of the case.
+4,Code of Criminal Procedure,Section 144,Power to issue order in urgent cases,Magistrate may issue order in urgent cases of nuisance or apprehended danger.
+5,Indian Contract Act,Section 10,What agreements are contracts,"All agreements are contracts if they are made by free consent of parties competent to contract, for a lawful consideration and with a lawful object."
+6,Indian Contract Act,Section 73,Compensation for loss,"When a contract has been broken, the party suffering by such breach is entitled to receive compensation for any loss caused by the breach."
+7,Hindu Marriage Act,Section 13,Divorce,Any marriage may be dissolved by a decree of divorce on grounds specified in the Act.
+8,Hindu Marriage Act,Section 5,Conditions for Hindu marriage,"A marriage may be solemnized between any two Hindus, if the conditions specified in the Act are fulfilled."
+9,Companies Act,Section 149,Company members,The liability of the members of a company limited by shares shall be limited to the amount unpaid on the shares.
+10,Companies Act,Section 447,Punishment for fraud,Any person guilty of fraud shall be punishable with imprisonment and fine.
+11,Sexual Harassment Act,Section 354A,Sexual Harassment,Any person who sexually harass a women is found guilty
+12,Indian penal code,Section 1,Title and extent of operation of the Code,"This section establishes the name of the code as the ""Indian Penal Code"" and defines its geographical scope of application within India."
+13,Indian penal code,Section 2 ,Punishment of offences committed within India,This means if you commit a crime defined by the IPC within India's territory you will be punished according to the IPC
+14,Indian penal code,Section 3,Punishment of offences committed beyond but which by law may be tried within India,This covers situations where Indian law allows for the trial of offenses committed outside India such as certain crimes committed by Indian citizens abroad
+15,Indian penal code,Section 4,Extention of Code to extra-territorial offences,This section enables the Indian Government to prosecute crimes that have an impact on India even if they are commited outside of the geographical borders.
+16,Indian penal code,Section 5,Certain laws not to be affected by this Act,This section clarifies that the IPC does not override specific military laws or other special or local laws that may exist
+17,Indian penal code,Section 6,Definitions in the Code to be understood subject to exceptions,This means that all definitions and punishments in the IPC are subject to the general exceptions such as those related to insanity or self-defense. 
+18,Indian penal code,Section 7,Sense of expression once explained,Once a term is defined in the IPC that definition applies consistently throughout the code.
+19,Indian penal code,Section 8,Gender,This section clarifies that references to the masculine gender in the IPC also include the feminine gender.
+20,Indian penal code,Section 9,Number,This means that singular and plural forms are interchangeable unless the context suggests otherwise.
+21,Indian penal code,Section 10,Man Woman,"The word 'man' denotes a male human being of any age; the word 'woman' denotes a female human being of any age."" This provides basic definitions for these terms."
+22,Indian penal code,Section 11,Person,The word 'person' includes any Company or Association or body of persons whether incorporated or not.
+23,Indian penal code,Section 12,Public,The word 'public' includes any class of the public or any community.
+24,Indian penal code,Section 13,Queen,This section is now obsolete. It refered to the British Queen and is no longer relevant in independent India.
+25,Indian penal code,Section 14,Servant of Government,"This section defines ""servant of Government"" to include any officer or servant continued appointed or employed in India by or under the authority of Government. "
+26,Indian penal code,Section 15,Definition of �India�,"This section defines ""India"" for the purposes of the IPC. It refers to the territory of India excluding the state of Jammu and Kashmir. However after the Jammu and Kashmir Reorganisation Act 2019 the definition of India in the IPC now includes the entire territory of India."
+27,Indian penal code,Section 16,Government of India,"This section defines ""Government of India"" as referring to the Central Government."
+28,Indian penal code,Section 17,Government,"This section defines ""Government"" as the Central Government or the Government of a State. This is important for understanding which government entities are being referenced in various IPC provisions"
+29,Indian penal code,Section 18,India,"As mentioned before this section defines ""India"" for the purposes of the IPC. It refers to the territory of India. After the Jammu and Kashmir Reorganisation Act 2019 the definition of India in the IPC now includes the entire territory of India."
+30,Indian penal code,Section 19,Judge,"Judge"" is defined as not only every person who is officially designated as a Judge but also every person who is empowered by law to give in any legal proceeding civil or criminal a definitive judgment"
+31,Indian penal code,Section 20,Court of Justice,"Court of Justice"" is defined as a Judge empowered by law to act judicially alone or a body of Judges empowered by law to act judicially as a body when such Judge or body of Judges is acting judicially"
+32,Indian penal code,Section 21,Public servant,It includes a wide range of individuals holding public office such as officers in the military judges officers of courts of justice officers of the government and those involved in elections
+33,Indian penal code,Section 22,Movable property,"Movable property"" is defined as including corporeal property of every description except land and things permanently attached to the earth or fastened to anything which is attached to the earth"
+34,Indian penal code,Section 23,Wrongful gain,This highlights the illegality of acquiring property that one does not have a legal right to
+35,Indian penal code,Section 24,Dishonestly,This emphasizes the intent behind an action focusing on the intention to cause illegal gain or loss
+36,Indian penal code,Section 25,Fraudulently,This focuses on the intent to deceive or trick someone and to cause them to lose property or some other legal right.
+37,Indian penal code,Section 26,Reason to believe,This section sets a standard for when a person can be held to have knowledge or awareness of something
+38,Indian penal code,Section 27,Property in possession of wife clerk or servant,When property is in the possession of a person's wife clerk or servant on that person's account it is considered to be in that person's possession
+39,Indian penal code,Section 28,Counterfeit,This defines the act of creating a false copy with the intent to deceive
+40,Indian penal code,Section 29 ,Document,The word 'document' denotes any matter expressed or described upon any substance by means of letters figures or marks or by more than one of those means intended to be used or which may be used as evidence of that matter
+41,Indian penal code,Section 29A,Electronic record,This section defines �electronic record� as assigned to it in clause (t) of sub-section (1) of section 2 of the Information Technology Act 2000. This section links the IPC to definitions within the Information Technology Act
+42,Indian penal code,Section 30,Valuable security,This defines documents that hold legal value
+43,Indian penal code,Section 31,A will,This provides a simple definition related to documents that dictate the distribution of property after death
+44,Indian penal code,Section 32,Words referring to acts include illegal omissions,This means that if something is illegal to not do then that in action can be prosecuted as an act.
+45,Indian penal code,Section 33,Act omission,The word 'act' denotes as well a series of acts as a single act: the word 'omission' denotes as well a series of omissions as a single omission.
+46,Indian penal code,Section 34,Acts done by several persons in furtherance of common intention,When a criminal act is done by several persons in furtherance of the common intention of all each of such persons is liable for that act in the same manner as if it were done by him alone
+47,Indian penal code,Section 35,When such an act is criminal by reason of its being done with a criminal knowledge or intention,When an act which is criminal only by reason of its being done with a criminal knowledge or intention is done by several persons each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention
+48,Indian penal code,Section 36,Effect caused partly by act and partly by omission,This means criminals can't devide up criminal actions in order to try and become less culpable
+49,Indian penal code,Section 37,Co-operation by doing one of several acts constituting an offence,When an offence is committed by means of any one of a series of acts which together constitute that offence every person who intentionally co-operates in the commission of that offence by doing any one of those acts either singly or jointly with any other person commits that offence
+50,Indian penal code,Section 38,Persons concerned in criminal act may be guilty of different offences,This means that even involved in the same act the people involved can be held accountable for different offences.
+51,Indian penal code,Section 39,Voluntarily,A person is said to cause an effect voluntarily when they cause it by means which they intended or knew were likely to cause it.
+52,Indian penal code,Section 40,Offence,An offence is any act or omission made punishable by The Indian Penal Code (IPC) or Any special or local law where the law defines it as an offence.
+53,Indian penal code,Section 41,Special law,A special law is a law enacted for a specific purpose or class of offences that overrides the general law in those cases.
+54,Indian penal code,Section 42,Local law,A local law is a law applicable only to a specific part of India (such as a state or district) unlike IPC which applies to the whole country.
+55,Indian penal code,Section 43,Illegal �legally bound to do�,"The word ""illegal"" applies to everything prohibited by law including Acts that are offences under IPC Acts that are prohibited by law but not necessarily offences Acts that form a reason to sue in a civil court."
+56,Indian penal code,Section 44,Injury,Injury means any harm to a person's body mind reputation or property.
+57,Indian penal code,Section 45,Life,"The word ""life"" refers to the life of a human being unless otherwise specified."
+58,Indian penal code,Section 46,Death,"The term ""death"" refers only to the death of a human being. It does not include the death of an animal."
+59,Indian penal code,Section 47,Animal,"The term ""animal"" means any living creature other than a human being."
+60,Indian penal code,Section 48,Vessel,A vessel refers to anything made for water transportation regardless of how it moves (engine-powered sail or rowboat).
+61,Indian penal code,Section 49,Year and month,In IPC A year means 12 months and A month means 30 days unless stated otherwise.
+62,Indian penal code,Section 50,Section,Denotes a section of the Indian Penal Code
+63,Indian penal code,Section 51,Oath,Includes a solemn affirmation substituted by law for an oath.
+64,Indian penal code,Section 52,Good faith,"Nothing is said to be done or believed in ""good faith"" which is done or believed without due care and attention."
+65,Indian penal code,Section 52A,Harbour,Includes the supply of shelter food drink money clothes arms ammunition or means of conveyance or the assisting a person in any way to evade apprehension.
+66,Indian penal code,Section 53,Punishments,Describes the various punishments to which offenders are liable under the IPC.
+67,Indian penal code,Section 53A,Construction of reference to �transportation�,Explains how references to the former punishment of transportation should be construed.
+68,Indian penal code,Section 54,Commutation of sentence of death,Empowers the appropriate government to commute a sentence of death.
+69,Indian penal code,Section 55,Commutation of sentence of imprisonment for life,Empowers the appropriate government to commute a sentence of imprisonment for life.
+70,Indian penal code,Section 55A,Definition of �appropriate Government�,"Defines the ""appropriate Government"" for the purposes of commuting sentences."
+71,Indian penal code,Section 56,Sentence of Europeans and Americans to penal servitude,This section is now obsolete.
+72,Indian penal code,Section 57,Fractions of terms of punishment,Deals with the calculation of fractions of terms of punishment
+73,Indian penal code,Section 58,Repealed,These sections are repealed.
+74,Indian penal code,Section 59,Repealed,These sections are repealed.
+75,Indian penal code,Section 60,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple,Allows for sentences of imprisonment to be either wholly or partly rigorous (with hard labor) or simple.
+76,Indian penal code,Section 61,Repealed,These sections are repealed.
+77,Indian penal code,Section 62,Repealed,These sections are repealed.
+78,Indian penal code,Section 63,Amount of fine, States that where no sum is expressed to which a fine may extend the amount of fine to which the offender is liable is unlimited but shall not be excessive
+79,Indian penal code,Section 64,Sentence of imprisonment for non-payment of fine,Provides for imprisonment in default of payment of a fine.
+80,Indian penal code,Section 65,Limit to imprisonment for non-payment of fine when imprisonment and fine awardable,Sets the limit for imprisonment in default of payment of a fine when both imprisonment and a fine are imposed.
+81,Indian penal code,Section 66,Description of imprisonment for non-payment of fine,Specifies the nature of the imprisonment imposed for non-payment of a fine.
+82,Indian penal code,Section 67,Imprisonment for non-payment of fine when offence punishable with fine only,Deals with imprisonment for non-payment of a fine when the offence is punishable with a fine only.
+83,Indian penal code,Section 68,Imprisonment to terminate on payment of fine,States that imprisonment terminates upon payment of the fine.
+84,Indian penal code,Section 69,Termination of imprisonment on payment of proportional part of fine, Provides for the termination of imprisonment upon payment of a proportional part of the fine.
+85,Indian penal code,Section 70,Fine leviable within six years or death,Specifies the time limit for levying a fine.
+86,Indian penal code,Section 71,Limit of punishment of offence made up of several offences, Sets the limit of punishment when an offence is made up of several offences.
+87,Indian penal code,Section 72,Punishment of person guilty of one of several offences the judgment stating that it is doubtful of which,Deals with punishment when a person is guilty of one of several offences but it is doubtful which
+88,Indian penal code,Section 73,Solitary confinement, Provides for the imposition of solitary confinement.
+89,Indian penal code,Section 74,Limit of solitary confinement,Sets the limit for solitary confinement.
+90,Indian penal code,Section 75,Enhanced punishment for certain offences under Chapters XII or XVII after previous conviction, Provides for enhanced punishment for repeat offenders of certain property and coin-related offences.
+91,Indian penal code,Section 76,Act done by a person bound or by mistake of fact believing himself bound by law,Provides an exception for acts done under a mistake of fact.
+92,Indian penal code,Section 77,Act of Judge when acting judicially,Provides an exception for acts of a judge when acting judicially.
+93,Indian penal code,Section 78,Act done pursuant to the judgment or order of Court,Provides an exception for acts done pursuant to a court order.
+94,Indian penal code,Section 79,Act justified by law or by mistake of fact believing himself justified by law,Provides exception for acts justified by law or under mistake of fact.
+95,Indian penal code,Section 80,Accident in doing a lawful act,Provides an exception for accidents occurring while doing a lawful act.
+96,Indian penal code,Section 81,Act likely to cause harm but done without criminal intent and to prevent other harm,�Provides an exception for acts done to prevent greater harm.
+97,Indian penal code,Section 82,Act of a child under seven years of age,Provides an exception for acts of children under seven years of age.
+98,Indian penal code,Section 83,Act of a child above seven and under twelve of immature understanding,Provides an exception for acts of children between seven and twelve of immature understanding.
+99,Indian penal code,Section 84,Act of person of unsound mind,Provides an exception for acts of persons of unsound mind.
+100,Indian penal code,Section 85,Act of a person incapable of judgment by reason of intoxication caused against his will, Provides an exception for acts done under involuntary intoxication.
+101,Indian penal code,Section 86,Offence requiring a particular intent or knowledge committed by one who is intoxicated,Deals with offences committed under voluntary intoxication.
+102,Indian penal code,Section 87,Act not intended and not known to be likely to cause death or grievous hurt done by consent,Provides an exception for acts done with consent.
+103,Indian penal code,Section 88,Act not intended to cause death done by consent in good faith for person�s benefit,Provides an exception for acts done with consent for a person's benefit.
+104,Indian penal code,Section 89,Act done in good faith for benefit of child or insane person by or by consent of guardian,Provides an exception for acts done in good faith for the benefit of a child or insane person.
+105,Indian penal code,Section 90,Consent known to be given under fear or misconception,Defines consent when given under fear or misconception.
+106,Indian penal code,Section 91,Consent known to be given under fear or misconception,Deals with acts that are offences regardless of consent.
+107,Indian penal code,Section 92,Act done in good faith for benefit of a person without consent,Provides an exception for acts done in good faith for a person's benefit without consent.
+108,Indian penal code,Section 93,Communication made in good faith,Provides an exception for communications made in good faith.
+109,Indian penal code,Section 94,Act to which a person is compelled by threats, Provides an exception for acts done under compulsion.
+110,Indian penal code,Section 95,Act causing slight harm,Provides an exception for acts causing slight harm.
+111,Indian penal code,Section 96,Things done in private defence, Introduces the right of private defence.
+112,Indian penal code,Section 97,Right of private defence of the body and of property,Defines the right of private defence.
+113,Indian penal code,Section 98,Right of private defence against the act of a person of unsound mind etc.,Deals with the right of private defence against acts of persons of unsound mind.
+114,Indian penal code,Section 99,Acts against which there is no right of private defence,Defines the limitations of the right of private defence.
+115,Indian penal code,Section 100,When the right of private defence of the body extends to causing death, Specifies when the right of private defence of the body extends to causing death.
+116,Indian penal code,Section 101,When such right extends to causing any harm other than death, Specifies when the right of private defence extends to causing harm other than death.
+117,Indian penal code,Section 102,Commencement and continuance of the right of private defence of the body,Defines the commencement and continuance of the right of private defence of the body.
+118,Indian penal code,Section 103,When the right of private defence of property extends to causing death,Specifies when the right of private defence of property extends to causing death.
+119,Indian penal code,Section 104,When such right extends to causing any harm other than death,Specifies when the right of private defence of property extends to causing harm other than death.
+120,Indian penal code,Section 105,Commencement and continuance of the right of private defence of property,Defines the commencement and continuance of the right of private defence of property.
+121,Indian penal code,Section 106,Right of private defence against deadly assault when there is risk of harm to innocent person,Addresses self-defense when innocent bystanders are at risk.
+122,Indian penal code,Section 107,Abetment of a thing,Defines what constitutes abetting a crime.
+123,Indian penal code,Section 108,Abettor,Defines who is considered an abettor.
+124,Indian penal code,Section 108A,Abetment of acts outside India,Addresses abetment of offenses committed in other countries.
+125,Indian penal code,Section 109,Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment,Specifies the punishment for abetment when the act is committed.
+126,Indian penal code,Section 110,Punishment of abetment if person abetted does act with different intention from that of abettor,Addresses punishment when the abettor and principal have different intentions.
+127,Indian penal code,Section 111,Liability of abettor when one act abetted and different act done,Explains liability when a different act than the abetted one is committed.
+128,Indian penal code,Section 112,Abettor when liable to cumulative punishment for act abetted and for act done,Addresses cumulative punishment for the abetted and committed acts.
+129,Indian penal code,Section 113,Liability of abettor for an act caused by the abettor which he intended or knew himself likely to cause,Explains liability when the effect of the act is different from the abettor's intent.
+130,Indian penal code,Section 114,Abettor present when offence is committed,Addresses the liability of an abettor who is present at the commission of the offense.
+131,Indian penal code,Section 115,Abetment of offence punishable with death or imprisonment for life�if offence not committed,Specifies punishment for abetment of serious offenses when the offense is not committed.
+132,Indian penal code,Section 116,Abetment of offence punishable with imprisonment�if offence not committed,Specifies punishment for abetment of other offenses when the offense is not committed.
+133,Indian penal code,Section 117,Abetting commission of offence by the public or by more than ten persons,Addresses abetment of offenses committed by a large group.
+134,Indian penal code,Section 118,Concealing design to commit offence punishable with death or imprisonment for life,Specifies punishment for concealing the intention to commit serious offenses.
+135,Indian penal code,Section 119,Public servant concealing design to commit offence which it is his duty to prevent,Addresses punishment for public servants who conceal plans to commit offenses they should prevent.
+136,Indian penal code,Section 120,Concealing design to commit offence punishable with imprisonment,Specifies punishment for concealing plans to commit other offenses.
+137,Indian penal code,Section 120A,Definition of criminal conspiracy,Defines what constitutes a criminal conspiracy.
+138,Indian penal code,Section 120B,Punishment of criminal conspiracy,Specifies the punishment for criminal conspiracy.
+139,Indian penal code,Section 121,Waging or attempting to wage war or abetting waging of war against the Government of India,Addresses the offense of waging war against the government.
+140,Indian penal code,Section 121A,AConspiracy to commit offences punishable by section ,Addresses conspiracy to commit offenses related to waging war.
+141,Indian penal code,Section 122,Collecting arms etc. with intent to wage war against the Government of India,Addresses the offense of collecting arms to wage war.
+142,Indian penal code,Section 123,Concealing with intent to facilitate design to wage war,Addresses concealing information to aid waging war.
+143,Indian penal code,Section 124,Assaulting President Governor etc. with intent to compel or restrain the exercise of any lawful power,Addresses assault on high officials to influence their duties.
