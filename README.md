@@ -55,6 +55,7 @@ legal-analysis-api/
 |-- models.py           # Machine learning models
 |-- requirements.txt    # Dependencies
 |-- data/               # Folder containing law datasets
+|-- templates/index.html # containting the HTML file
 ```
 
 ## Contributing
