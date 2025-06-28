@@ -58,16 +58,7 @@
         <!-- Results Section -->
         <div class="row result-card" id="results-section">
             <div class="col-lg-12">
-                <div class="card mb-4">
-                    <div class="card-header bg-info text-white">
-                        <h5 class="card-title mb-0">Entity Recognition</h5>
-                    </div>
-                    <div class="card-body">
-                        <div class="row" id="entity-recognition-results">
-                            <!-- Entity results will be inserted here -->
-                        </div>
-                    </div>
-                </div>
+                
                 
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
@@ -140,28 +131,27 @@
         });
         
         function displayResults(data) {
-            // Display entity recognition results
-            const entitySection = document.getElementById('entity-recognition-results');
-            entitySection.innerHTML = '';
-            
-            const entityTypes = {
-                'persons': 'Persons',
-                'organizations': 'Organizations',
-                'locations': 'Locations',
-                'dates': 'Dates'
-            };
-            
-            for (const [key, title] of Object.entries(entityTypes)) {
-                if (data.entityRecognition[key] && data.entityRecognition[key].length > 0) {
-                    const col = document.createElement('div');
-                    col.className = 'col-md-6 mb-3';
-                    col.innerHTML = `
-                        <h6>${title}</h6>
-                        <ul class="list-group">
-                            ${data.entityRecognition[key].map(item => `<li class="list-group-item">${item}</li>`).join('')}
-                        </ul>
-                    `;
-                    entitySection.appendChild(col);
+            // Display entity recognition if available
+            if (data.entities) {
+                const entitiesSection = document.getElementById('entities-results');
+                entitiesSection.innerHTML = '';
+                
+                if (Object.keys(data.entities).length > 0) {
+                    for (const [entityType, entities] of Object.entries(data.entities)) {
+                        if (entities.length > 0) {
+                            const entityCard = document.createElement('div');
+                            entityCard.className = 'card mb-2';
+                            entityCard.innerHTML = `
+                                <div class="card-body">
+                                    <h6 class="card-title">${entityType.replace('_', ' ').toUpperCase()}</h6>
+                                    <p class="card-text">${entities.join(', ')}</p>
+                                </div>
+                            `;
+                            entitiesSection.appendChild(entityCard);
+                        }
+                    }
+                } else {
+                    entitiesSection.innerHTML = '<p>No entities detected.</p>';
                 }
             }
             
@@ -222,12 +212,18 @@
                 
                 <h6>Recommended Strategies:</h6>
                 <ul class="list-group mb-3">
-                    ${outcome.recommendedStrategy.map(strategy => `<li class="list-group-item">${strategy}</li>`).join('')}
+                    ${Array.isArray(outcome.recommendedStrategy) ? 
+                        outcome.recommendedStrategy.map(strategy => `<li class="list-group-item">${strategy}</li>`).join('') :
+                        `<li class="list-group-item">${outcome.recommendedStrategy}</li>`
+                    }
                 </ul>
                 
                 <h6>Potential Challenges:</h6>
                 <ul class="list-group">
-                    ${outcome.potentialChallenges.map(challenge => `<li class="list-group-item">${challenge}</li>`).join('')}
+                    ${Array.isArray(outcome.potentialChallenges) ? 
+                        outcome.potentialChallenges.map(challenge => `<li class="list-group-item">${challenge}</li>`).join('') :
+                        `<li class="list-group-item">${outcome.potentialChallenges}</li>`
+                    }
                 </ul>
             `;
         }
