@@ -1,125 +1,102 @@
-# legal_analyzer.py - NLP and legal analysis functions
 import re
-import spacy
 import pandas as pd
+import numpy as np
+import spacy
 from collections import Counter
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from sentence_transformers import SentenceTransformer
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import accuracy_score, classification_report
 
 class LegalAnalyzer:
     def __init__(self, data_loader):
-        """Initialize the Legal Analyzer with data source"""
+        """Initialize the Legal Analyzer with data source and NLP processing"""
         self.data_loader = data_loader
         
-        # Load NLP model
-        self.nlp = spacy.load('en_core_web_sm')
+        # Load spaCy models
+        try:
+            self.nlp = spacy.load('en_core_web_sm')
+            self.use_spacy = True
+        except:
+            print("Spacy model not found. Basic NLP features will be limited.")
+            self.use_spacy = False
+        
+        # Load Sentence Transformer model
+        self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
         
         # Load datasets
         self.laws_df = data_loader.load_laws_dataset()
         self.cases_df = data_loader.load_precedents_dataset()
         self.sections_df = data_loader.load_sections_dataset()
         
-        # Initialize TF-IDF vectorizer for text similarity
-        # Reduced max_features to avoid overfitting, added bigrams for better matching
-        self.vectorizer = TfidfVectorizer(
-            stop_words='english',
-            max_features=1000,
-            ngram_range=(1, 2)
-        )
+        # Prepare embedded data
+        self._prepare_embedded_data()
         
-        # Prepare vectorized data
-        self._prepare_vectorized_data()
+        # Train ML model
+        self._train_model()
 
-    def _prepare_vectorized_data(self):
-        """Prepare vectorized data for similarity matching"""
-        # Vectorize case descriptions
+    def _prepare_embedded_data(self):
+        """Prepare sentence embeddings for similarity matching"""
+        # Embed case descriptions
         case_descriptions = self.cases_df['description'].fillna('').tolist()
-        self.case_vectors = self.vectorizer.fit_transform(case_descriptions)
+        self.case_embeddings = self.embedding_model.encode(case_descriptions, convert_to_tensor=False)
         
-        # Create a better representation for law sections by combining title and text
-        section_texts = []
-        for _, row in self.sections_df.iterrows():
-            # Combine law name, section number, title and text for better matching
-            combined_text = f"{row['law_name']} {row['section_number']} {row['title']} {row['text']}"
-            section_texts.append(combined_text)
-        
-        # Vectorize the combined law section texts
-        self.law_vectors = self.vectorizer.transform(section_texts)
+        # Embed law sections
+        law_sections = self.sections_df['text'].fillna('').tolist()
+        self.law_embeddings = self.embedding_model.encode(law_sections, convert_to_tensor=False)
 
-    def analyze_scenario(self, scenario_text):
-        """Analyze a legal scenario and return comprehensive results"""
-        # Process the text with spaCy
-        doc = self.nlp(scenario_text)
+    def _train_model(self):
+        """Train a logistic regression model for outcome prediction"""
+        features = self.case_embeddings
+        labels = [1 if outcome == 'win' else 0 for outcome in self.cases_df['outcome']]
         
-        # Extract entities
-        entities = self._extract_entities(doc)
+        X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
         
-        # Find relevant precedents
-        precedents = self._find_relevant_precedents(scenario_text)
+        self.scaler = StandardScaler()
+        X_train = self.scaler.fit_transform(X_train)
+        X_test = self.scaler.transform(X_test)
         
-        # Identify applicable laws
-        applicable_laws = self._identify_applicable_laws(scenario_text)
-        
-        # Generate outcome prediction
-        outcome_analysis = self._predict_outcome(scenario_text, precedents, applicable_laws)
-        
-        # Compile results
-        return {
-            'entityRecognition': entities,
-            'relevantPrecedents': precedents,
-            'applicableLaws': applicable_laws,
-            'outcomeAnalysis': outcome_analysis
-        }
+        self.model = LogisticRegression()
+        self.model.fit(X_train, y_train)
 
-    def _extract_entities(self, doc):
-        """Extract named entities from the text"""
-        persons = []
-        organizations = []
-        locations = []
-        dates = []
+        y_pred = self.model.predict(X_test)
+        self.model_accuracy = accuracy_score(y_test, y_pred)
+        self.classification_report = classification_report(y_test, y_pred)
         
-        for ent in doc.ents:
-            if ent.label_ == 'PERSON':
-                persons.append(ent.text)
-            elif ent.label_ == 'ORG':
-                organizations.append(ent.text)
-            elif ent.label_ == 'GPE' or ent.label_ == 'LOC':
-                locations.append(ent.text)
-            elif ent.label_ == 'DATE':
-                dates.append(ent.text)
+        print(f"Model Accuracy: {self.model_accuracy:.2%}")
+        print("Classification Report:")
+        print(self.classification_report)
+
+    def _calculate_similarity(self, query_embedding, corpus_embeddings):
+        """Calculate similarity between query and corpus using dot product"""
+        # Normalize embeddings
+        query_norm = query_embedding / np.linalg.norm(query_embedding)
+        corpus_norms = corpus_embeddings / np.linalg.norm(corpus_embeddings, axis=1, keepdims=True)
         
-        # Count and get unique entities
-        persons = [item for item, count in Counter(persons).most_common()]
-        organizations = [item for item, count in Counter(organizations).most_common()]
-        locations = [item for item, count in Counter(locations).most_common()]
-        dates = [item for item, count in Counter(dates).most_common()]
-        
-        return {
-            'persons': persons,
-            'organizations': organizations,
-            'locations': locations,
-            'dates': dates
-        }
+        # Calculate dot product similarities
+        similarities = np.dot(corpus_norms, query_norm)
+        return similarities
 
     def _find_relevant_precedents(self, scenario_text):
         """Find relevant case precedents based on scenario similarity"""
-        # Vectorize input text
-        scenario_vector = self.vectorizer.transform([scenario_text])
+        # Embed input scenario
+        scenario_embedding = self.embedding_model.encode([scenario_text], convert_to_tensor=False)[0]
         
         # Calculate similarity with case precedents
-        similarities = cosine_similarity(scenario_vector, self.case_vectors)[0]
+        similarities = self._calculate_similarity(scenario_embedding, self.case_embeddings)
         
         # Get top 3 most similar cases
         top_indices = similarities.argsort()[-3:][::-1]
         
         relevant_precedents = []
         for idx in top_indices:
-            if similarities[idx] > 0.05:  # Lower threshold for more matches
+            if similarities[idx] > 0.1:  # Threshold for relevance
                 case = self.cases_df.iloc[idx]
                 relevant_precedents.append({
                     'case': case['name'],
                     'year': int(case['year']),
-                    'relevance': 'High' if similarities[idx] > 0.4 else 'Medium',
+                    'relevance': 'High' if similarities[idx] > 0.5 else 'Medium',
                     'keyFindings': case['key_finding'],
                     'similarityScore': float(similarities[idx])
                 })
@@ -128,93 +105,137 @@ class LegalAnalyzer:
 
     def _identify_applicable_laws(self, scenario_text):
         """Identify applicable laws and sections based on scenario text"""
-        # Vectorize input text
-        scenario_vector = self.vectorizer.transform([scenario_text])
+        # Embed input scenario
+        scenario_embedding = self.embedding_model.encode([scenario_text], convert_to_tensor=False)[0]
         
         # Calculate similarity with law sections
-        similarities = cosine_similarity(scenario_vector, self.law_vectors)[0]
+        similarities = self._calculate_similarity(scenario_embedding, self.law_embeddings)
         
-        # Lower the threshold significantly to get more matches
-        threshold = 0.03
-        
-        # Get all indices above threshold or top 5, whichever is more
-        min_matches = 5
-        indices_above_threshold = [i for i, sim in enumerate(similarities) if sim > threshold]
-        
-        if len(indices_above_threshold) < min_matches:
-            # If we don't have enough matches, take top 5 regardless of threshold
-            top_indices = similarities.argsort()[-min_matches:][::-1]
-        else:
-            # Sort the indices by similarity score
-            top_indices = sorted(indices_above_threshold, key=lambda i: similarities[i], reverse=True)
+        # Get top 5 most similar sections
+        top_indices = similarities.argsort()[-5:][::-1]
         
         applicable_laws = []
         seen_laws = set()
         
         for idx in top_indices:
-            section = self.sections_df.iloc[idx]
-            law_name = section['law_name']
-            
-            # Avoid duplicate laws
-            if law_name in seen_laws:
-                # Find existing law and add section
-                for law in applicable_laws:
-                    if law['law'] == law_name:
-                        if section['section_number'] not in law['sections']:
-                            law['sections'].append(section['section_number'])
-            
-                seen_laws.add(law_name)
-        
-        # Always return at least one law (the most relevant) if available
-        if not applicable_laws and len(self.sections_df) > 0:
-            # Find the most relevant law section
-            top_idx = similarities.argmax()
-            section = self.sections_df.iloc[top_idx]
-            applicable_laws.append({
-                'law': section['law_name'],
-                'sections': [section['section_number']],
-                'applicability': 'Potential Match'
-            })
+            if similarities[idx] > 0.1:  # Threshold for relevance
+                section = self.sections_df.iloc[idx]
+                law_name = section['law_name']
+                
+                # Avoid duplicate laws
+                if law_name in seen_laws:
+                    # Find existing law and add section
+                    for law in applicable_laws:
+                        if law['law'] == law_name:
+                            if section['section_number'] not in law['sections']:
+                                law['sections'].append(section['section_number'])
+                else:
+                    # Add new law with section
+                    applicable_laws.append({
+                        'law': law_name,
+                        'sections': [section['section_number']],
+                        'applicability': 'Direct' if similarities[idx] > 0.5 else 'Indirect'
+                    })
+                    seen_laws.add(law_name)
         
         return applicable_laws
 
-    def _predict_outcome(self, scenario_text, precedents, applicable_laws):
-        """Predict case outcome based on precedents and applicable laws"""
-        # This would use a trained ML model in production
-        # For demo, we'll use a simple heuristic
+    def _predict_outcome(self, scenario_text):
+        """Predict case outcome using trained model"""
+        # Embed scenario
+        scenario_embedding = self.embedding_model.encode([scenario_text], convert_to_tensor=False)
+        scenario_embedding = self.scaler.transform(scenario_embedding)
         
-        # Calculate base probability from precedent similarity
-        precedent_score = 0
-        if precedents:
-            precedent_score = sum(p.get('similarityScore', 0) for p in precedents) / len(precedents)
+        # Predict probability
+        probability = self.model.predict_proba(scenario_embedding)[0][1] * 100
         
-        # Adjust based on number of applicable laws
-        law_factor = min(len(applicable_laws) / 5, 1.0)
-        
-        # Generate probability (simplified)
-        probability = 50 + (precedent_score * 30) + (law_factor * 20)
-        probability = min(max(probability, 10), 90)  # Keep between 10% and 90%
-        
-        # Generate strategies based on probability
-        strategies = []
-        challenges = []
-        
+        # Generate appropriate recommendations based on probability
         if probability > 70:
-            strategies.append("Proceed with litigation")
-            strategies.append("Prepare comprehensive documentation")
-            challenges.append("Establish burden of proof")
+            recommendations = ['Proceed with litigation', 'Gather additional supporting evidence', 'Prepare for possible settlement offers']
+            challenges = ['Potential delays in court proceedings', 'Possibility of appeal by opposing party']
         elif probability > 50:
-            strategies.append("Consider settlement negotiation")
-            strategies.append("Gather additional evidence")
-            challenges.append("Ambiguous legal interpretation")
+            recommendations = ['Proceed with litigation', 'Consider settlement negotiations', 'Strengthen case with expert testimony']
+            challenges = ['Moderate case complexity', 'Some precedent inconsistencies']
+        elif probability > 30:
+            recommendations = ['Explore settlement options', 'Strengthen weak areas of the case', 'Consider alternative dispute resolution']
+            challenges = ['Insufficient precedent support', 'Legal ambiguities in similar cases']
         else:
-            strategies.append("Explore alternative dispute resolution")
-            strategies.append("Reassess legal position")
-            challenges.append("Weak precedent support")
-            challenges.append("Jurisdiction complexities")
+            recommendations = ['Consider settlement', 'Evaluate alternative legal strategies', 'Reassess case merits']
+            challenges = ['Weak legal foundation', 'Strong opposing precedents', 'High risk of adverse outcome']
         
         return {
             'probabilityOfSuccess': float(probability),
-            'recommendedStrategy': strategies,
+            'recommendedStrategy': recommendations,
             'potentialChallenges': challenges
+        }
+
+    def extract_semantic_meaning(self, scenario_text):
+        """Extract semantic meaning and key entities from scenario"""
+        if not self.use_spacy:
+            return {
+                'entities': [],
+                'noun_chunks': [],
+                'lemmatized_text': scenario_text
+            }
+
+        # Process the scenario text with spaCy
+        doc = self.nlp(scenario_text)
+
+        # Extract key semantic information
+        semantic_analysis = {
+            'entities': [(ent.text, ent.label_) for ent in doc.ents],
+            'noun_chunks': [chunk.text for chunk in doc.noun_chunks],
+            'lemmatized_text': ' '.join([token.lemma_ for token in doc]),
+            'pos_tags': [(token.text, token.pos_) for token in doc],
+            'dependencies': [(token.text, token.dep_) for token in doc]
+        }
+
+        return semantic_analysis
+
+    def find_synonyms_and_semantically_similar_terms(self, scenario_text):
+        """Find synonyms and semantically similar terms"""
+        if not self.use_spacy:
+            return {'synonyms': [], 'similar_terms': []}
+
+        # Process the scenario text
+        doc = self.nlp(scenario_text)
+
+        # Find synonyms and similar terms
+        similar_terms = {}
+        for token in doc:
+            # Skip stop words and punctuation
+            if not token.is_stop and token.pos_ in ['NOUN', 'VERB', 'ADJ']:
+                try:
+                    # Find similar words based on word vectors
+                    similar_words = [w for w in token.vocab if w.is_lower and w.has_vector and w.is_oov == token.is_oov]
+                    similar_words = sorted(similar_words, key=lambda w: token.similarity(w), reverse=True)[:3]
+                    
+                    similar_terms[token.text] = [w.text for w in similar_words]
+                except:
+                    similar_terms[token.text] = []
+
+        return {
+            'lemmatized_text': ' '.join([token.lemma_ for token in doc]),
+            'semantically_similar_terms': similar_terms
+        }
+
+    def analyze_scenario(self, scenario_text):
+        """Enhanced scenario analysis with NLP-powered insights"""
+        # Extract semantic meaning
+        semantic_meaning = self.extract_semantic_meaning(scenario_text)
+        
+        # Find synonyms and similar terms
+        semantic_similarity = self.find_synonyms_and_semantically_similar_terms(scenario_text)
+        
+        # Existing analysis methods
+        precedents = self._find_relevant_precedents(scenario_text)
+        applicable_laws = self._identify_applicable_laws(scenario_text)
+        outcome_analysis = self._predict_outcome(scenario_text)
+        
+        return {
+            'semanticMeaning': semantic_meaning,
+            'semanticSimilarity': semantic_similarity,
+            'relevantPrecedents': precedents,
+            'applicableLaws': applicable_laws,
+            'outcomeAnalysis': outcome_analysis
         }
