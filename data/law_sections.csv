@@ -1,0 +1,586 @@
+section_id,law_name,section_number,title,text
+1,Indian Penal Code,Section 302,Punishment for murder,"Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+2,Indian Penal Code,Section 420,Cheating and dishonesty,Whoever cheats and thereby dishonestly induces the person deceived to deliver any property shall be punished with imprisonment and fine.
+3,Code of Criminal Procedure,Section 161,Examination of witnesses by police,Police officer may examine witnesses acquainted with the facts and circumstances of the case.
+4,Code of Criminal Procedure,Section 144,Power to issue order in urgent cases,Magistrate may issue order in urgent cases of nuisance or apprehended danger.
+5,Indian Contract Act,Section 10,What agreements are contracts,"All agreements are contracts if they are made by free consent of parties competent to contract, for a lawful consideration and with a lawful object."
+6,Indian Contract Act,Section 73,Compensation for loss,"When a contract has been broken, the party suffering by such breach is entitled to receive compensation for any loss caused by the breach."
+7,Hindu Marriage Act,Section 13,Divorce,Any marriage may be dissolved by a decree of divorce on grounds specified in the Act.
+8,Hindu Marriage Act,Section 5,Conditions for Hindu marriage,"A marriage may be solemnized between any two Hindus, if the conditions specified in the Act are fulfilled."
+9,Companies Act,Section 149,Company members,The liability of the members of a company limited by shares shall be limited to the amount unpaid on the shares.
+10,Companies Act,Section 447,Punishment for fraud,Any person guilty of fraud shall be punishable with imprisonment and fine.
+11,Sexual Harassment Act,Section 354A,Sexual Harassment,Any person who sexually harass a women is found guilty
+12,Indian penal code,Section 1,Title and extent of operation of the Code,"This section establishes the name of the code as the ""Indian Penal Code"" and defines its geographical scope of application within India."
+13,Indian penal code,Section 2 ,Punishment of offences committed within India,This means if you commit a crime defined by the IPC within India's territory you will be punished according to the IPC
+14,Indian penal code,Section 3,Punishment of offences committed beyond but which by law may be tried within India,This covers situations where Indian law allows for the trial of offenses committed outside India such as certain crimes committed by Indian citizens abroad
+15,Indian penal code,Section 4,Extention of Code to extra-territorial offences,This section enables the Indian Government to prosecute crimes that have an impact on India even if they are commited outside of the geographical borders.
+16,Indian penal code,Section 5,Certain laws not to be affected by this Act,This section clarifies that the IPC does not override specific military laws or other special or local laws that may exist
+17,Indian penal code,Section 6,Definitions in the Code to be understood subject to exceptions,This means that all definitions and punishments in the IPC are subject to the general exceptions such as those related to insanity or self-defense. 
+18,Indian penal code,Section 7,Sense of expression once explained,Once a term is defined in the IPC that definition applies consistently throughout the code.
+19,Indian penal code,Section 8,Gender,This section clarifies that references to the masculine gender in the IPC also include the feminine gender.
+20,Indian penal code,Section 9,Number,This means that singular and plural forms are interchangeable unless the context suggests otherwise.
+21,Indian penal code,Section 10,Man Woman,"The word 'man' denotes a male human being of any age; the word 'woman' denotes a female human being of any age."" This provides basic definitions for these terms."
+22,Indian penal code,Section 11,Person,The word 'person' includes any Company or Association or body of persons whether incorporated or not.
+23,Indian penal code,Section 12,Public,The word 'public' includes any class of the public or any community.
+24,Indian penal code,Section 13,Queen,This section is now obsolete. It refered to the British Queen and is no longer relevant in independent India.
+25,Indian penal code,Section 14,Servant of Government,"This section defines ""servant of Government"" to include any officer or servant continued appointed or employed in India by or under the authority of Government. "
+26,Indian penal code,Section 15,Definition of �India�,"This section defines ""India"" for the purposes of the IPC. It refers to the territory of India excluding the state of Jammu and Kashmir. However after the Jammu and Kashmir Reorganisation Act 2019 the definition of India in the IPC now includes the entire territory of India."
+27,Indian penal code,Section 16,Government of India,"This section defines ""Government of India"" as referring to the Central Government."
+28,Indian penal code,Section 17,Government,"This section defines ""Government"" as the Central Government or the Government of a State. This is important for understanding which government entities are being referenced in various IPC provisions"
+29,Indian penal code,Section 18,India,"As mentioned before this section defines ""India"" for the purposes of the IPC. It refers to the territory of India. After the Jammu and Kashmir Reorganisation Act 2019 the definition of India in the IPC now includes the entire territory of India."
+30,Indian penal code,Section 19,Judge,"Judge"" is defined as not only every person who is officially designated as a Judge but also every person who is empowered by law to give in any legal proceeding civil or criminal a definitive judgment"
+31,Indian penal code,Section 20,Court of Justice,"Court of Justice"" is defined as a Judge empowered by law to act judicially alone or a body of Judges empowered by law to act judicially as a body when such Judge or body of Judges is acting judicially"
+32,Indian penal code,Section 21,Public servant,It includes a wide range of individuals holding public office such as officers in the military judges officers of courts of justice officers of the government and those involved in elections
+33,Indian penal code,Section 22,Movable property,"Movable property"" is defined as including corporeal property of every description except land and things permanently attached to the earth or fastened to anything which is attached to the earth"
+34,Indian penal code,Section 23,Wrongful gain,This highlights the illegality of acquiring property that one does not have a legal right to
+35,Indian penal code,Section 24,Dishonestly,This emphasizes the intent behind an action focusing on the intention to cause illegal gain or loss
+36,Indian penal code,Section 25,Fraudulently,This focuses on the intent to deceive or trick someone and to cause them to lose property or some other legal right.
+37,Indian penal code,Section 26,Reason to believe,This section sets a standard for when a person can be held to have knowledge or awareness of something
+38,Indian penal code,Section 27,Property in possession of wife clerk or servant,When property is in the possession of a person's wife clerk or servant on that person's account it is considered to be in that person's possession
+39,Indian penal code,Section 28,Counterfeit,This defines the act of creating a false copy with the intent to deceive
+40,Indian penal code,Section 29 ,Document,The word 'document' denotes any matter expressed or described upon any substance by means of letters figures or marks or by more than one of those means intended to be used or which may be used as evidence of that matter
+41,Indian penal code,Section 29A,Electronic record,This section defines �electronic record� as assigned to it in clause (t) of sub-section (1) of section 2 of the Information Technology Act 2000. This section links the IPC to definitions within the Information Technology Act
+42,Indian penal code,Section 30,Valuable security,This defines documents that hold legal value
+43,Indian penal code,Section 31,A will,This provides a simple definition related to documents that dictate the distribution of property after death
+44,Indian penal code,Section 32,Words referring to acts include illegal omissions,This means that if something is illegal to not do then that in action can be prosecuted as an act.
+45,Indian penal code,Section 33,Act omission,The word 'act' denotes as well a series of acts as a single act: the word 'omission' denotes as well a series of omissions as a single omission.
+46,Indian penal code,Section 34,Acts done by several persons in furtherance of common intention,When a criminal act is done by several persons in furtherance of the common intention of all each of such persons is liable for that act in the same manner as if it were done by him alone
+47,Indian penal code,Section 35,When such an act is criminal by reason of its being done with a criminal knowledge or intention,When an act which is criminal only by reason of its being done with a criminal knowledge or intention is done by several persons each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention
+48,Indian penal code,Section 36,Effect caused partly by act and partly by omission,This means criminals can't devide up criminal actions in order to try and become less culpable
+49,Indian penal code,Section 37,Co-operation by doing one of several acts constituting an offence,When an offence is committed by means of any one of a series of acts which together constitute that offence every person who intentionally co-operates in the commission of that offence by doing any one of those acts either singly or jointly with any other person commits that offence
+50,Indian penal code,Section 38,Persons concerned in criminal act may be guilty of different offences,This means that even involved in the same act the people involved can be held accountable for different offences.
+51,Indian penal code,Section 39,Voluntarily,A person is said to cause an effect voluntarily when they cause it by means which they intended or knew were likely to cause it.
+52,Indian penal code,Section 40,Offence,An offence is any act or omission made punishable by The Indian Penal Code (IPC) or Any special or local law where the law defines it as an offence.
+53,Indian penal code,Section 41,Special law,A special law is a law enacted for a specific purpose or class of offences that overrides the general law in those cases.
+54,Indian penal code,Section 42,Local law,A local law is a law applicable only to a specific part of India (such as a state or district) unlike IPC which applies to the whole country.
+55,Indian penal code,Section 43,Illegal legally bound to do,"The word ""illegal"" applies to everything prohibited by law including Acts that are offences under IPC Acts that are prohibited by law but not necessarily offences Acts that form a reason to sue in a civil court."
+56,Indian penal code,Section 44,Injury,Injury means any harm or torture to a person's body mind reputation or property.
+57,Indian penal code,Section 45,Life,"The word ""life"" refers to the life of a human being unless otherwise specified."
+58,Indian penal code,Section 46,Death,"The term ""death"" refers only to the death of a human being. It does not include the death of an animal."
+59,Indian penal code,Section 47,Animal,"The term ""animal"" means any living creature other than a human being."
+60,Indian penal code,Section 48,Vessel,A vessel refers to anything made for water transportation regardless of how it moves (engine-powered sail or rowboat).
+61,Indian penal code,Section 49,Year and month,In IPC A year means 12 months and A month means 30 days unless stated otherwise.
+62,Indian penal code,Section 50,Section,Denotes a section of the Indian Penal Code
+63,Indian penal code,Section 51,Oath,Includes a solemn affirmation substituted by law for an oath.
+64,Indian penal code,Section 52,Good faith,"Nothing is said to be done or believed in ""good faith"" which is done or believed without due care and attention."
+65,Indian penal code,Section 52A,Harbour,Includes the supply of shelter food drink money clothes arms ammunition or means of conveyance or the assisting a person in any way to evade apprehension.
+66,Indian penal code,Section 53,Punishments,Describes the various punishments to which offenders are liable under the IPC.
+67,Indian penal code,Section 53A,Construction of reference to �transportation�,Explains how references to the former punishment of transportation should be construed.
+68,Indian penal code,Section 54,Commutation of sentence of death,Empowers the appropriate government to commute a sentence of death.
+69,Indian penal code,Section 55,Commutation of sentence of imprisonment for life,Empowers the appropriate government to commute a sentence of imprisonment for life.
+70,Indian penal code,Section 55A,Definition of �appropriate Government�,"Defines the ""appropriate Government"" for the purposes of commuting sentences."
+71,Indian penal code,Section 56,Sentence of Europeans and Americans to penal servitude,This section is now obsolete.
+72,Indian penal code,Section 57,Fractions of terms of punishment,Deals with the calculation of fractions of terms of punishment
+73,Indian penal code,Section 58,Repealed,These sections are repealed.
+74,Indian penal code,Section 59,Repealed,These sections are repealed.
+75,Indian penal code,Section 60,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple,Allows for sentences of imprisonment to be either wholly or partly rigorous (with hard labor) or simple.
+76,Indian penal code,Section 61,Repealed,These sections are repealed.
+77,Indian penal code,Section 62,Repealed,These sections are repealed.
+78,Indian penal code,Section 63,Amount of fine, States that where no sum is expressed to which a fine may extend the amount of fine to which the offender is liable is unlimited but shall not be excessive
+79,Indian penal code,Section 64,Sentence of imprisonment for non-payment of fine,Provides for imprisonment in default of payment of a fine.
+80,Indian penal code,Section 65,Limit to imprisonment for non-payment of fine when imprisonment and fine awardable,Sets the limit for imprisonment in default of payment of a fine when both imprisonment and a fine are imposed.
+81,Indian penal code,Section 66,Description of imprisonment for non-payment of fine,Specifies the nature of the imprisonment imposed for non-payment of a fine.
+82,Indian penal code,Section 67,Imprisonment for non-payment of fine when offence punishable with fine only,Deals with imprisonment for non-payment of a fine when the offence is punishable with a fine only.
+83,Indian penal code,Section 68,Imprisonment to terminate on payment of fine,States that imprisonment terminates upon payment of the fine.
+84,Indian penal code,Section 69,Termination of imprisonment on payment of proportional part of fine, Provides for the termination of imprisonment upon payment of a proportional part of the fine.
+85,Indian penal code,Section 70,Fine leviable within six years or death,Specifies the time limit for levying a fine.
+86,Indian penal code,Section 71,Limit of punishment of offence made up of several offences, Sets the limit of punishment when an offence is made up of several offences.
+87,Indian penal code,Section 72,Punishment of person guilty of one of several offences the judgment stating that it is doubtful of which,Deals with punishment when a person is guilty of one of several offences but it is doubtful which
+88,Indian penal code,Section 73,Solitary confinement, Provides for the imposition of solitary confinement.
+89,Indian penal code,Section 74,Limit of solitary confinement,Sets the limit for solitary confinement.
+90,Indian penal code,Section 75,Enhanced punishment for certain offences under Chapters XII or XVII after previous conviction, Provides for enhanced punishment for repeat offenders of certain property and coin-related offences.
+91,Indian penal code,Section 76,Act done by a person bound or by mistake of fact believing himself bound by law,Provides an exception for acts done under a mistake of fact.
+92,Indian penal code,Section 77,Act of Judge when acting judicially,Provides an exception for acts of a judge when acting judicially.
+93,Indian penal code,Section 78,Act done pursuant to the judgment or order of Court,Provides an exception for acts done pursuant to a court order.
+94,Indian penal code,Section 79,Act justified by law or by mistake of fact believing himself justified by law,Provides exception for acts justified by law or under mistake of fact.
+95,Indian penal code,Section 80,Accident in doing a lawful act,Provides an exception for accidents occurring while doing a lawful act.
+96,Indian penal code,Section 81,Act likely to cause harm but done without criminal intent and to prevent other harm,�Provides an exception for acts done to prevent greater harm.
+97,Indian penal code,Section 82,Act of a child under seven years of age,Provides an exception for acts of children under seven years of age.
+98,Indian penal code,Section 83,Act of a child above seven and under twelve of immature understanding,Provides an exception for acts of children between seven and twelve of immature understanding.
+99,Indian penal code,Section 84,Act of person of unsound mind,Provides an exception for acts of persons of unsound mind.
+100,Indian penal code,Section 85,Act of a person incapable of judgment by reason of intoxication caused against his will, Provides an exception for acts done under involuntary intoxication.
+101,Indian penal code,Section 86,Offence requiring a particular intent or knowledge committed by one who is intoxicated,Deals with offences committed under voluntary intoxication.
+102,Indian penal code,Section 87,Act not intended and not known to be likely to cause death or grievous hurt done by consent,Provides an exception for acts done with consent.
+103,Indian penal code,Section 88,Act not intended to cause death done by consent in good faith for person�s benefit,Provides an exception for acts done with consent for a person's benefit.
+104,Indian penal code,Section 89,Act done in good faith for benefit of child or insane person by or by consent of guardian,Provides an exception for acts done in good faith for the benefit of a child or insane person.
+105,Indian penal code,Section 90,Consent known to be given under fear or misconception,Defines consent when given under fear or misconception.
+106,Indian penal code,Section 91,Consent known to be given under fear or misconception,Deals with acts that are offences regardless of consent.
+107,Indian penal code,Section 92,Act done in good faith for benefit of a person without consent,Provides an exception for acts done in good faith for a person's benefit without consent.
+108,Indian penal code,Section 93,Communication made in good faith,Provides an exception for communications made in good faith.
+109,Indian penal code,Section 94,Act to which a person is compelled by threats, Provides an exception for acts done under compulsion.
+110,Indian penal code,Section 95,Act causing slight harm,Provides an exception for acts causing slight harm.
+111,Indian penal code,Section 96,Things done in private defence, Introduces the right of private defence.
+112,Indian penal code,Section 97,Right of private defence of the body and of property,Defines the right of private defence.
+113,Indian penal code,Section 98,Right of private defence against the act of a person of unsound mind etc.,Deals with the right of private defence against acts of persons of unsound mind.
+114,Indian penal code,Section 99,Acts against which there is no right of private defence,Defines the limitations of the right of private defence.
+115,Indian penal code,Section 100,When the right of private defence of the body extends to causing death, Specifies when the right of private defence of the body extends to causing death.
+116,Indian penal code,Section 101,When such right extends to causing any harm other than death, Specifies when the right of private defence extends to causing harm other than death.
+117,Indian penal code,Section 102,Commencement and continuance of the right of private defence of the body,Defines the commencement and continuance of the right of private defence of the body.
+118,Indian penal code,Section 103,When the right of private defence of property extends to causing death,Specifies when the right of private defence of property extends to causing death.
+119,Indian penal code,Section 104,When such right extends to causing any harm other than death,Specifies when the right of private defence of property extends to causing harm other than death.
+120,Indian penal code,Section 105,Commencement and continuance of the right of private defence of property,Defines the commencement and continuance of the right of private defence of property.
+121,Indian penal code,Section 106,Right of private defence against deadly assault when there is risk of harm to innocent person,Addresses self-defense when innocent bystanders are at risk.
+122,Indian penal code,Section 107,Abetment of a thing,Defines what constitutes abetting a crime.
+123,Indian penal code,Section 108,Abettor,Defines who is considered an abettor.
+124,Indian penal code,Section 108A,Abetment of acts outside India,Addresses abetment of offenses committed in other countries.
+125,Indian penal code,Section 109,Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment,Specifies the punishment for abetment when the act is committed.
+126,Indian penal code,Section 110,Punishment of abetment if person abetted does act with different intention from that of abettor,Addresses punishment when the abettor and principal have different intentions.
+127,Indian penal code,Section 111,Liability of abettor when one act abetted and different act done,Explains liability when a different act than the abetted one is committed.
+128,Indian penal code,Section 112,Abettor when liable to cumulative punishment for act abetted and for act done,Addresses cumulative punishment for the abetted and committed acts.
+129,Indian penal code,Section 113,Liability of abettor for an act caused by the abettor which he intended or knew himself likely to cause,Explains liability when the effect of the act is different from the abettor's intent.
+130,Indian penal code,Section 114,Abettor present when offence is committed,Addresses the liability of an abettor who is present at the commission of the offense.
+131,Indian penal code,Section 115,Abetment of offence punishable with death or imprisonment for life�if offence not committed,Specifies punishment for abetment of serious offenses when the offense is not committed.
+132,Indian penal code,Section 116,Abetment of offence punishable with imprisonment�if offence not committed,Specifies punishment for abetment of other offenses when the offense is not committed.
+133,Indian penal code,Section 117,Abetting commission of offence by the public or by more than ten persons,Addresses abetment of offenses committed by a large group.
+134,Indian penal code,Section 118,Concealing design to commit offence punishable with death or imprisonment for life,Specifies punishment for concealing the intention to commit serious offenses.
+135,Indian penal code,Section 119,Public servant concealing design to commit offence which it is his duty to prevent,Addresses punishment for public servants who conceal plans to commit offenses they should prevent.
+136,Indian penal code,Section 120,Concealing design to commit offence punishable with imprisonment,Specifies punishment for concealing plans to commit other offenses.
+137,Indian penal code,Section 120A,Definition of criminal conspiracy,Defines what constitutes a criminal conspiracy.
+138,Indian penal code,Section 120B,Punishment of criminal conspiracy,Specifies the punishment for criminal conspiracy like gold smuggling or Insurance fraud or human trafficking or money laundering or financial scam or financial fraud or bribery or corruption.
+139,Indian penal code,Section 121,Waging or attempting to wage war or abetting waging of war against the Government of India,Addresses the offense of waging war against the government.
+140,Indian penal code,Section 121A,AConspiracy to commit offences punishable by section ,Addresses conspiracy to commit offenses related to waging war.
+141,Indian penal code,Section 122,Collecting arms etc. with intent to wage war against the Government of India,Addresses the offense of collecting arms to wage war.
+142,Indian penal code,Section 123,Concealing with intent to facilitate design to wage war,Addresses concealing information to aid waging war.
+143,Indian penal code,Section 124,Assaulting President Governor etc. with intent to compel or restrain the exercise of any lawful power,Addresses assault on high officials to influence their duties.
+144,Indian penal code,Section 356,Theft or Robbery, if someone assaults or uses criminal force against another person while attempting to steal something that person is wearing or carrying or chain snatching they can be punished with imprisonment for up to two years or a fine or both."Assault or criminal force in attempt to commit theft or to rob of property worn or carried by a person 2 Years or Fine 
+145,Indian penal code,124A,Sedition,Defines sedition as acts or speeches that incite hatred or contempt against the Government of India punishable with imprisonment or death.
+146,Indian penal code,125,Waging war against any Asiatic power in alliance with the Government of India,Punishes the waging of war against any Asiatic power in alliance with India treating it as an act against the Government of India.
+147,Indian penal code,126,Committing depredation on territories of power at peace with the Government of India,Punishes anyone who attacks or commits depredations on territories of a foreign power that is at peace with India.
+148,Indian penal code,127,Receiving property taken by war or depredation mentioned in sections 125 and 126,Punishes individuals who receive property stolen or taken during a war or depredation against foreign powers allied or at peace with India.
+149,Indian penal code,128,Public servant voluntarily allowing prisoner of State or war to escape,Punishes a public servant who willingly allows a prisoner of state or a war prisoner to escape.
+150,Indian penal code,129,Public servant negligently suffering such prisoner to escape,Punishes a public servant for negligence in allowing a prisoner of state or war to escape.
+151,Indian penal code,130,"Aiding escape of, rescuing, or harbouring such prisoner",Punishes anyone who aids the escape rescues or harbors a prisoner of state or war.
+152,Indian penal code,131,"Abetting mutiny, or attempting to seduce a soldier, sailor, or airman from his duty",Punishes anyone who abets mutiny or attempts to seduce a soldier sailor or airman from their duty.
+153,Indian penal code,132,"Abetment of mutiny, if mutiny is committed in consequence thereof",Punishes those who abet mutiny and as a result mutiny is actually committed.
+154,Indian penal code,133,"Abetment of assault by soldier, sailor, or airman on his superior officer, when in execution of his office",Punishes the abetment of an assault on a superior officer by a soldier sailor or airman while they are executing their duties.
+155,Indian penal code,134,"Abetment of such assault, if the assault is committed",Punishes the abetment of an assault on a superior officer if the assault is actually carried out.
+156,Indian penal code,135,"Abetment of desertion of soldier, sailor, or airman",Punishes anyone who abets the desertion of a soldier sailor or airman from their duties.
+157,Indian penal code,136,Harbouring deserter,Punishes anyone who harbors a soldier sailor or airman who has deserted their post.
+158,Indian penal code,137,Deserter concealed on board merchant vessel through negligence of master,Punishes the master of a merchant vessel who negligently allows a deserter (soldier sailor or airman) to be concealed aboard.
+159,Indian penal code,138,"Abetment of act of insubordination by soldier, sailor, or airman",Punishes anyone who abets an act of insubordination by a soldier sailor or airman.
+160,Indian penal code,139,Persons subject to certain Acts,Defines the persons subject to certain military and naval laws including soldiers sailors and airmen.
+161,Indian penal code,140,"Wearing garb or carrying token used by soldier, sailor, or airman",Punishes the act of wearing military or naval garb or carrying military tokens without proper authorization.
+162,Indian penal code,141,Unlawful assembly,Defines an unlawful assembly as one where the persons have a common object to commit a criminal act.
+163,Indian penal code,142,Being member of unlawful assembly,Punishes anyone who is a member of an unlawful assembly.
+164,Indian penal code,143,Punishment,Specifies the punishment for being part of an unlawful assembly.
+165,Indian penal code,144,Joining unlawful assembly armed with deadly weapon,Punishes those who join an unlawful assembly while carrying a deadly weapon.
+166,Indian penal code,145,"Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",Punishes anyone who joins or stays in an unlawful assembly after it has been ordered to disperse.
+167,Indian penal code,146,Rioting,Defines rioting as the use of violence by a group of people with a common object usually in furtherance of an unlawful assembly.
+168,Indian penal code,147,Punishment for rioting,Specifies the punishment for rioting.
+169,Indian penal code,148,"Rioting, armed with deadly weapon",Punishes rioting when the participants are armed with deadly weapons.
+170,Indian penal code,149,Every member of unlawful assembly guilty of offence committed in prosecution of common object,States that every member of an unlawful assembly is guilty of any offence committed in pursuit of the assembly's common objective.
+171,Indian penal code,150,"Hiring, or conniving at hiring, of persons to join unlawful assembly",Punishes the act of hiring or assisting in hiring people to join an unlawful assembly.
+172,Indian penal code,151,Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse,Punishes the act of knowingly joining or remaining in an assembly of five or more persons after being ordered to disperse.
+173,Indian penal code,152,"Assaulting or obstructing public servant when suppressing riot, etc.",Punishes anyone who assaults or obstructs a public servant while they are suppressing a riot or unlawful assembly.
+174,Indian penal code,153,"Want only giving provocation, with intent to cause riot",Defines giving provocation with intent to cause a riot specifying punishment if a riot occurs or not.
+175,Indian penal code,153A,"Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",Punishes promoting hostility between groups based on religion race etc. and committing acts harmful to social harmony.
+176,Indian penal code,153AA,"Punishment for knowingly carrying arms in any procession or organizing, or holding or taking part in any mass drill or mass training with arms",Specifies punishment for carrying arms in a procession or taking part in mass drills or training with arms.
+177,Indian penal code,153B,Imputation or assertions prejudicial to national integration,Punishes anyone making false or malicious statements that harm national unity or integration.
+178,Indian penal code,154,Owner or occupier of land on which an unlawful assembly is held,Holds the owner or occupier of land responsible if an unlawful assembly is held on their property.
+179,Indian penal code,155,Liability of person for whose benefit riot is committed,Punishes the person for whose benefit a riot is committed.
+180,Indian penal code,156,Liability of agent of owner or occupier for whose benefit riot is committed,Holds the agent (such as a manager or representative) of the property owner accountable if a riot occurs on the property.
+181,Indian penal code,157,Harbouring persons hired for an unlawful assembly,Punishes anyone who harbors individuals hired to participate in an unlawful assembly.
+182,Indian penal code,158,"Being hired to take part in an unlawful assembly or riot, or to go armed",Punishes anyone who is hired to participate in an unlawful assembly or riot or to go armed with a weapon for such purposes.
+183,Indian penal code,159,Affray,Defines affray as a situation where two or more people fight in a public place in a way that disturbs the peace.
+184,Indian penal code,160,Punishment for committing affray,Specifies the punishment for committing an affray which is typically a fine or imprisonment.
+185,Indian penal code,166,"Public servant disobeying law, with intent to cause injury to any person",Punishes a public servant who willfully disobeys the law with the intention of causing harm to any individual.
+186,Indian penal code,166A,Public servant disobeying direction under law,Punishes a public servant who disobeys a lawful direction given under the law.
+187,Indian penal code,166B,Punishment for non-treatment of victim,Specifies the punishment for a public servant who fails to provide treatment to a victim when required.
+188,Indian penal code,167,Public servant framing an incorrect document with intent to cause injury,Punishes a public servant who intentionally frames a false document with the intent to cause injury to someone.
+189,Indian penal code,168,Public servant unlawfully engaging in trade,Punishes a public servant who unlawfully engages in any form of trade or business violating their official duties.
+190,Indian penal code,169,Public servant unlawfully buying or bidding for property,Punishes a public servant who unlawfully buys or bids for property in a manner that breaches their duties.
+191,Indian penal code,170,Personating a public servant,Punishes anyone who impersonates a public servant with fraudulent intent.
+192,Indian penal code,171,Wearing garb or carrying token used by public servant with fraudulent intent,Punishes anyone who wears the clothing or carries the token of a public servant fraudulently intending to deceive.
+193,Indian penal code,171A,"�Candidate�, �Electoral right� defined","Defines the terms ""candidate"" and ""electoral right"" in the context of elections."
+194,Indian penal code,171B,Bribery,Defines bribery in the context of elections specifying the act of giving or receiving any kind of bribe to influence an election.
+195,Indian penal code,171C,Undue influence at elections,Defines undue influence at elections including the use of threats or pressure to sway a person's vote.
+196,Indian penal code,171D,Personation at elections,Defines personation at elections i.e. the act of falsely pretending to be someone else to vote on their behalf.
+197,Indian penal code,171E,Punishment for bribery,Specifies the punishment for engaging in bribery during an election.
+198,Indian penal code,171F,Punishment for undue influence or personation at an election,Specifies the punishment for exerting undue influence or engaging in personation during an election.
+199,Indian penal code,171G,False statement in connection with an election,Punishes anyone who makes false statements regarding the election process candidates or results.
+200,Indian penal code,171H,Illegal payments in connection with an election,Defines and punishes illegal payments made in connection with an election including inducements or bribes.
+201,Indian penal code,171-I,Failure to keep election accounts,Specifies the punishment for failure to maintain proper accounts of election expenses as required by law.
+202,Indian penal code,172,Absconding to avoid service or summons or other proceedings,Punishes any person who absconds to avoid the service of summons or any other legal proceeding.
+203,Indian penal code,173,"Preventing service of summons or other proceedings, or preventing publication thereof",Punishes anyone who prevents the service of a summons or other legal proceedings or prevents their publication.
+204,Indian penal code,174,Non-attendance in obedience to an order from a public servant,Punishes a person who fails to attend when ordered by a public servant.
+205,Indian penal code,174A,Non-appearance in response to a proclamation under section 82 of Act 2 of 1974,Punishes the failure to appear in response to a proclamation issued under section 82 of the CrPC (Indian Penal Code).
+206,Indian penal code,175,Omission to produce document to public servant by person legally bound to produce it,Punishes a person who is legally required to produce a document but fails to do so when requested by a public servant.
+207,Indian penal code,176,Omission to give notice or information to public servant by person legally bound to give it,Punishes the failure to give required notice or information to a public servant.
+208,Indian penal code,177,Furnishing false information,Punishes the act of providing false information to a public servant.
+209,Indian penal code,178,Refusing oath or affirmation when duly required by public servant to make it,Punishes anyone who refuses to take an oath or affirmation when required by a public servant.
+210,Indian penal code,179,Refusing to answer public servant authorised to question,Punishes a person who refuses to answer questions from a public servant who is legally authorized to ask.
+211,Indian penal code,180,Refusing to sign statement,Punishes a person who refuses to sign a statement when legally required to do so by a public servant.
+212,Indian penal code,181,False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation,Punishes the act of making a false statement under oath or affirmation to a public servant or any person authorized to administer such oaths.
+213,Indian penal code,182,"False information, with intent to cause public servant to use his lawful power to the injury of another person",Punishes anyone who provides false information intending to cause a public servant to misuse their power to harm someone else.
+214,Indian penal code,183,Resistance to the taking of property by lawful authority of a public servant,Punishes resistance to the taking of property by a public servant executing their lawful authority.
+215,Indian penal code,184,Obstructing sale of property offered for sale by authority of public servant,Punishes obstruction of the sale of property by a public servant under lawful authority.
+216,Indian penal code,185,Illegal purchase or bid for property offered for sale by authority of public servant,Punishes anyone who illegally buys or bids for property being sold by a public servant under lawful authority.
+217,Indian penal code,186,Obstructing public servant in discharge of public functions,Punishes anyone who obstructs a public servant from carrying out their lawful duties.
+218,Indian penal code,187,Omission to assist public servant when bound by law to give assistance,Punishes a person who fails to assist a public servant when they are legally obligated to do so.
+219,Indian penal code,188,Disobedience to order duly promulgated by public servant,Punishes anyone who disobeys an order that has been properly issued by a public servant.
+220,Indian penal code,189,Threat of injury to public servant,Punishes anyone who threatens injury to a public servant in order to prevent them from performing their duties.
+221,Indian penal code,190,Threat of injury to induce person to refrain from applying for protection to public servant,Punishes anyone who threatens injury to induce another person to refrain from seeking protection from a public servant.
+222,Indian penal code,191,Giving false evidence,Punishes a person who gives false evidence in any judicial proceeding including falsely testifying or providing false information under oath. This is a serious offence as it undermines the integrity of the justice system.
+223,Indian penal code,192,Fabricating false evidence,Punishes anyone who fabricates evidence including making or altering documents to mislead a judicial proceeding.
+224,Indian penal code,193,Punishment for false evidence,Specifies the punishment for giving false evidence in judicial proceedings.
+225,Indian penal code,194,Giving or fabricating false evidence with intent to procure conviction of capital offence,Punishes fabricating false evidence with the intent to procure the conviction of a capital offence and the consequences if an innocent person is convicted and executed.
+226,Indian penal code,195,Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment,Punishes the fabrication of false evidence intended to procure the conviction of an offence punishable by life imprisonment or imprisonment.
+227,Indian penal code,195A,Threatening any person to give false evidence,Punishes anyone who threatens another person to induce them to give false evidence.
+228,Indian penal code,196,Using evidence known to be false,Punishes the use of evidence that is known to be false with the intent to deceive a judicial proceeding.
+229,Indian penal code,197,Issuing or signing false certificate,Punishes the act of issuing or signing a certificate knowing it is false.
+230,Indian penal code,198,Using as true a certificate known to be false,Punishes using a certificate as true when the person knows it is false.
+231,Indian penal code,199,False statement made in declaration which is by law receivable as evidence,Punishes anyone making a false statement in a legally receivable declaration intended to be used as evidence.
+232,Indian penal code,200,Using as true such declaration knowing it to be false,Punishes the use of a false declaration as true by a person who knows it is false.
+233,Indian penal code,201,"Causing disappearance of evidence of offence, or giving false information, to screen offender",Punishes the act of causing the disappearance of evidence or providing false information to protect an offender.
+234,Indian penal code,202,Intentional omission to give information of offence by person bound to inform,Punishes anyone who intentionally omits to inform authorities about an offence they are legally required to report.
+235,Indian penal code,203,Giving false information respecting an offence committed,Punishes the act of providing false information regarding a crime that has been committed.
+236,Indian penal code,204,Destruction of document to prevent its production as evidence,Punishes the intentional destruction of documents to prevent them from being used as evidence.
+237,Indian penal code,205,False personation for purpose of act or proceeding in suit or prosecution,Punishes the act of impersonating someone for the purpose of a suit or legal proceeding.
+238,Indian penal code,206,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution,Punishes fraudulent acts to hide or remove property to prevent its seizure.
+239,Indian penal code,207,Fraudulent claim to property to prevent its seizure as forfeited or in execution,Punishes making fraudulent claims to property to prevent its seizure by authorities.
+240,Indian penal code,208,Fraudulently suffering decree for sum not due,Punishes fraudulent actions taken to obtain a decree for an amount that is not actually due.
+241,Indian penal code,209,Dishonestly making false claim in Court,Punishes anyone who makes a false or dishonest claim in a court of law.
+242,Indian penal code,210,Fraudulently obtaining decree for sum not due,Punishes the act of fraudulently obtaining a court decree for a sum not legally due.
+243,Indian penal code,211,False charge of offence made with intent to injure,Punishes anyone who falsely charges another person with an offence to cause harm or injury.
+244,Indian penal code,212,Harbouring offender,Punishes the act of harbouring a criminal offender with specific penalties depending on the nature of the crime committed.
+245,Indian penal code,213,"Taking gift, etc., to screen an offender from punishment",Punishes the act of accepting a gift or any other consideration to help an offender avoid punishment.
+246,Indian penal code,214,Offering gift or restoration of property in consideration of screening offender,Punishes the act of offering a gift or restoring property to help an offender avoid punishment.
+247,Indian penal code,215,"Taking gift to help to recover stolen property, etc.",Punishes the acceptance of a gift or bribe to help recover stolen property or conceal it.
+248,Indian penal code,216,Harbouring offender who has escaped from custody or whose apprehension has been ordered,Punishes harbouring an offender who has escaped custody or whose arrest has been ordered by authorities.
+249,Indian penal code,216A,Penalty for harbouring robbers or dacoits,Imposes a penalty for harbouring robbers or dacoits (bandits).
+250,Indian penal code,217,Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture,Punishes public servants who disobey the law with the intent to save someone from punishment or property from seizure.
+251,Indian penal code,218,Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture,Punishes public servants who frame incorrect records or documents with the intention to protect a person from punishment or forfeiture.
+252,Indian penal code,219,"Public servant in judicial proceeding corruptly making report, etc., contrary to law",Punishes public servants who make corrupt or illegal reports during judicial proceedings.
+253,Indian penal code,220,Commitment for trial or confinement by person having authority who knows that he is acting contrary to law,Punishes anyone who commits or confines someone knowing they are acting contrary to law.
+254,Indian penal code,221,Intentional omission to apprehend on the part of public servant bound to apprehend,Punishes a public servant who intentionally omits to apprehend a person when legally bound to do so.
+255,Indian penal code,222,Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed,Punishes public servants who intentionally omit to apprehend someone under a sentence or legal commitment.
+256,Indian penal code,223,Escape from confinement or custody negligently suffered by public servant,Punishes negligence by public servants that allows an offender to escape from confinement or custody.
+257,Indian penal code,224,Resistance or obstruction by a person to his lawful apprehension,Punishes anyone who resists or obstructs their lawful apprehension by authorities.
+258,Indian penal code,225,Resistance or obstruction to lawful apprehension of another person,Punishes anyone who resists or obstructs the lawful apprehension of another person.
+259,Indian penal code,225A,"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",Punishes public servants for failing to apprehend or negligently allowing an escape in cases not covered by other sections.
+260,Indian penal code,225B,"Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for",Punishes resistance or obstruction in cases not covered by other sections including escape or rescue.
+261,Indian penal code,227,Violation of condition of remission of punishment,Punishes the violation of any condition attached to a remission of punishment.
+262,Indian penal code,228,Intentional insult or interruption to public servant sitting in judicial proceeding,Punishes anyone who insults or interrupts a public servant during a judicial proceeding.
+263,Indian penal code,228A,"Disclosure of identity of the victim of certain offences, etc.",Punishes the disclosure of the identity of victims of certain crimes like rape where their identity is protected by law.
+264,Indian penal code,229,Personation of a juror or assessor,Punishes impersonation of a juror or assessor in a court proceeding.
+265,Indian penal code,229A,Failure by person released on bail or bond to appear in Court,Punishes a person who has been released on bail or bond but fails to appear in court when required.
+266,Indian penal code,230,�Coin� defined,"Defines what constitutes ""coin"" in the context of the Indian Penal Code."
+267,Indian penal code,231,Indian coin,"Defines ""Indian coin"" under the Indian Penal Code."
+268,Indian penal code,232,Counterfeiting coin,Punishes the act of counterfeiting any coin making fake coins with the intent to defraud.
+269,Indian penal code,233,Counterfeiting Indian coin,Punishes the counterfeiting of Indian coins specifically including making fake Indian coins.
+270,Indian penal code,234,Making or selling instrument for counterfeiting coin,Punishes the act of making or selling instruments used for counterfeiting any coin.
+271,Indian penal code,235,Making or selling instrument for counterfeiting Indian coin,Punishes the act of making or selling instruments for counterfeiting Indian coins.
+272,Indian penal code,236,Possession of instrument or material for the purpose of counterfeiting coin,Punishes possessing instruments or materials for the purpose of counterfeiting coins including Indian coins.
+273,Indian penal code,237,Abetting in India the counterfeiting out of India of coin,Punishes abetting the counterfeiting of coin outside India with an emphasis on Indian coins.
+274,Indian penal code,238,Import or export of counterfeit coin,Punishes the act of importing or exporting counterfeit coins.
+275,Indian penal code,239,Import or export of counterfeit Indian coin,Punishes the act of importing or exporting counterfeit Indian coins.
+276,Indian penal code,240,"Delivery of coin, possessed with knowledge that it is counterfeit",Punishes delivering a coin when the deliverer knows that it is counterfeit.
+277,Indian penal code,241,"Delivery of Indian coin, possessed with knowledge that it is counterfeit",Punishes delivering an Indian coin that the deliverer knows is counterfeit.
+278,Indian penal code,242,"Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit",Punishes delivering a coin that the deliverer did not know was counterfeit when first obtained.
+279,Indian penal code,243,Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof,Punishes the possession of a counterfeit coin when the possessor knew it was counterfeit at the time of possession.
+280,Indian penal code,244,Possession of Indian coin by person who knew it to be counterfeit when he became possessed thereof,Punishes the possession of an Indian coin that the possessor knew to be counterfeit.
+281,Indian penal code,245,Person employed in mint causing coin to be of different weight or composition from that fixed by law,Punishes mint employees who cause coins to be of different weight or composition than what is prescribed by law.
+282,Indian penal code,246,Unlawfully taking coining instrument from mint,Punishes the unlawful removal of coining instruments from the mint.
+283,Indian penal code,247,Fraudulently or dishonestly diminishing weight or altering composition of coin,Punishes the fraudulent or dishonest act of diminishing the weight or altering the composition of any coin.
+284,Indian penal code,248,Fraudulently or dishonestly diminishing weight or altering composition of Indian coin,Punishes fraudulent or dishonest acts that alter the weight or composition of Indian coins.
+285,Indian penal code,249,Altering appearance of coin with intent that it shall pass as coin of different description,Punishes altering the appearance of a coin with the intent to make it pass as a different type of coin.
+286,Indian penal code,250,Altering appearance of Indian coin with intent that it shall pass as coin of different description,Punishes altering the appearance of an Indian coin with the intent to make it pass as a different type of coin.
+287,Indian penal code,251,"Delivery of coin, possessed with knowledge that it is altered",Punishes delivering a coin when the deliverer knows it has been altered.
+288,Indian penal code,252,"Delivery of Indian coin, possessed with knowledge that it is altered",Punishes delivering an Indian coin that the deliverer knows has been altered.
+289,Indian penal code,253,Possession of coin by person who knew it to be altered when he became possessed thereof,Punishes possession of a coin that the possessor knew to have been altered at the time of possession.
+290,Indian penal code,254,Possession of Indian coin by person who knew it to be altered when he became possessed thereof,Punishes the possession of an altered Indian coin when the possessor knew of the alteration at the time of possession.
+291,Indian penal code,255,Counterfeiting Government stamp,Punishes the counterfeiting of a Government stamp used for official purposes.
+292,Indian penal code,256,Having possession of instrument or material for counterfeiting Government stamp,Punishes the possession of instruments or materials intended for counterfeiting Government stamps.
+293,Indian penal code,257,Making or selling instrument for counterfeiting Government stamp,Punishes the act of making or selling instruments used for counterfeiting Government stamps.
+294,Indian penal code,258,Sale of counterfeit Government stamp,Punishes the sale of counterfeit Government stamps.
+295,Indian penal code,259,Having possession of counterfeit Government stamp,Punishes the possession of counterfeit Government stamps.
+296,Indian penal code,260,Using as genuine a Government stamp known to be counterfeit,Punishes using a counterfeit Government stamp as genuine.
+297,Indian penal code,261,"Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government",Punishes anyone who effaces writing from or removes a Government stamp from a document with the intent to cause financial loss to the Government.
+298,Indian penal code,262,Using Government stamp known to have been before used,Punishes the use of a Government stamp that the person knows has been used previously.
+299,Indian penal code,263,Erasure of mark denoting that stamp has been used,Punishes the act of erasing marks that indicate a stamp has been used.
+300,Indian penal code,263A,Prohibition of fictitious stamps,Prohibits the creation or use of fictitious stamps that are not authorized by the Government.
+301,Indian penal code,264,Fraudulent use of false instrument for weighing,Punishes the fraudulent use of a false instrument for weighing with the intent to deceive or defraud.
+302,Indian penal code,265,Fraudulent use of false weight or measure,Punishes the fraudulent use of false weights or measures with the intent to deceive or cause loss.
+303,Indian penal code,266,Being in possession of false weight or measure,Punishes the possession of false weights or measures knowing them to be false with the intent to deceive.
+304,Indian penal code,267,Making or selling false weight or measure,Punishes the act of making or selling false weights or measures which are intended to deceive or defraud.
+305,Indian penal code,268,Public nuisance,Defines and punishes acts that cause a public nuisance affecting the comfort health or safety of the public.
+306,Indian penal code,269,Negligent act likely to spread infection of disease dangerous to life,Punishes negligent acts that could spread dangerous infectious diseases endangering life.
+307,Indian penal code,270,Malignant act likely to spread infection of disease dangerous to life,Punishes willful or malicious acts that are likely to spread dangerous infections endangering life.
+308,Indian penal code,271,Disobedience to quarantine rule,Punishes the violation of quarantine rules intended to prevent the spread of diseases.
+309,Indian penal code,272,Adulteration of food or drink intended for sale,Punishes the adulteration of food or drink that is intended for sale which could harm consumers.
+310,Indian penal code,273,Sale of noxious food or drink,Punishes the sale of food or drink that is harmful or dangerous to health.
+311,Indian penal code,274,Adulteration of drugs,Punishes the adulteration of drugs which could be harmful or dangerous for consumers.
+312,Indian penal code,275,Sale of adulterated drugs,Punishes the sale of adulterated drugs that are harmful or do not meet the required standards for use.
+313,Indian penal code,276,Sale of drug as a different drug or preparation,Punishes the sale of one drug being misrepresented as a different drug or preparation.
+314,Indian penal code,277,Fouling water of public spring or reservoir,Punishes the act of polluting or fouling the water of public springs or reservoirs.
+315,Indian penal code,278,Making atmosphere noxious to health,Punishes the act of releasing substances into the atmosphere that are harmful to health.
+316,Indian penal code,279,Rash driving or riding on a public way,Punishes rash or negligent driving or riding on public roads that endangers safety.
+317,Indian penal code,280,Rash navigation of vessel,Punishes rash or negligent navigation of a vessel that endangers safety.
+318,Indian penal code,281,"Exhibition of false light, mark, or buoy",Punishes the exhibition of false lights marks or buoys which can mislead or cause accidents.
+319,Indian penal code,282,Conveying person by water for hire in unsafe or overloaded vessel,Punishes the conveyance of passengers in an unsafe or overloaded vessel for hire.
+320,Indian penal code,283,Danger or obstruction in public way or line of navigation,Punishes acts that create danger or obstructions on public ways or navigational routes.
+321,Indian penal code,284,Negligent conduct with respect to poisonous substance,Punishes negligent conduct related to poisonous substances that can cause harm.
+322,Indian penal code,285,Negligent conduct with respect to fire or combustible matter,Punishes negligent conduct involving fire or combustible materials that can cause danger.
+323,Indian penal code,286,Negligent conduct with respect to explosive substance,Punishes negligent conduct involving explosives that can endanger public safety.
+324,Indian penal code,287,Negligent conduct with respect to machinery,Punishes negligent conduct involving machinery that endangers safety.
+325,Indian penal code,288,Negligent conduct with respect to pulling down or repairing buildings,Punishes negligent conduct related to the demolition or repair of buildings that creates danger.
+326,Indian penal code,289,Negligent conduct with respect to animal,Punishes negligent conduct involving animals that causes harm or injury.
+327,Indian penal code,290,Punishment for public nuisance in cases not otherwise provided for,Punishes public nuisance that is not specifically covered in other sections.
+328,Indian penal code,291,Continuance of nuisance after injunction to discontinue,Punishes the continuation of a public nuisance after an injunction has been issued to stop it.
+329,Indian penal code,292,"Sale, etc., of obscene books, etc.",Punishes the sale or distribution of obscene books drawings or other materials.
+330,Indian penal code,293,"Sale, etc., of obscene objects to young person",Punishes the sale or distribution of obscene objects to young persons under the age of 20.
+331,Indian penal code,294,Obscene acts and songs,Punishes the public performance or singing of obscene acts or songs.
+332,Indian penal code,294A,Keeping lottery office,Punishes the act of keeping a lottery office which is generally prohibited under law.
+333,Indian penal code,295,Injuring or defiling place of worship with intent to insult the religion of any class,Punishes the act of injuring or defiling a place of worship with the intent to insult the religion of any class.
+334,Indian penal code,295A,Deliberate and malicious acts intended to outrage religious feelings of any class by insulting its religion or religious beliefs,Punishes acts that deliberately and maliciously insult or outrage the religious feelings of any class of people.
+335,Indian penal code,296,Disturbing religious assembly,Punishes the act of disturbing a religious assembly or congregation.
+336,Indian penal code,297,"Trespassing on burial places, etc.",Punishes the act of trespassing on burial grounds cemeteries or places of religious significance.
+337,Indian penal code,298,"Uttering words, etc., with deliberate intent to wound the religious feelings",Punishes the utterance of words sounds or gestures with the deliberate intent to hurt religious feelings.
+338,Indian penal code,299,Culpable homicide,"Defines ""culpable homicide"" as causing death with the intent to cause death or with knowledge that death is likely."
+339,Indian penal code,300,Murder,"Defines ""murder"" as a more severe form of culpable homicide where the intention or knowledge is more deliberate and malicious."
+340,Indian penal code,301,Culpable homicide by causing death of person other than person whose death was intended,Punishes situations where a person unintentionally causes the death of someone other than their intended target.
+341,Indian penal code,302,Punishment for murder,Specifies the punishment for murder or killing a person which may be the death penalty or life imprisonment along with a fine.
+342,Indian penal code,303,Punishment for murder by life-convict,Punishes a life-convict who commits murder with the death penalty.
+343,Indian penal code,304,Punishment for culpable homicide not amounting to murder,Specifies punishment for culpable homicide that is not considered murder including varying degrees of imprisonment.
+344,Indian penal code,304A,Causing death by negligence,Punishes the causing of death by negligent or rash acts without any intention to kill.
+345,Indian penal code,304B,Dowry death,Defines dowry death as a death occurring due to dowry-related harassment or violence and specifies punishment.
+346,Indian penal code,305,Abetment of suicide of child or insane person,Punishes the act of abetting or encouraging the suicide of a child or insane person.
+347,Indian penal code,306,Abetment of suicide,Punishes anyone who abets or encourages another person to commit suicide.
+348,Indian penal code,307,Attempt to murder,Punishes the act of attempting to commit murder with the same severity as a completed murder.
+349,Indian penal code,308,Attempt to commit culpable homicide,Punishes the act of attempting to commit culpable homicide which is a lesser offense than murder.
+350,Indian penal code,309,Attempt to commit suicide,Punishes the attempt to commit suicide.
+351,Indian penal code,310,Thug,"Defines the offense of ""thug"" as a person who engages in criminal acts of strangulation or other violent acts as part of a gang."
+352,Indian penal code,311,Punishment,Specifies the punishment for the offense of being a thug.
+353,Indian penal code,312,Causing miscarriage,Defines the offense of causing a miscarriage either by a person or by a woman herself. The punishment varies depending on intent and circumstances.
+354,Indian penal code,313,Causing miscarriage without woman's consent,Specifies punishment for causing miscarriage without the woman's consent including scenarios where the act is done intentionally or recklessly.
+355,Indian penal code,314,Death caused by act done with intent to cause miscarriage,Punishes causing death as a result of an act intended to cause miscarriage especially if done without the woman's consent.
+356,Indian penal code,315,Act done with intent to prevent child being born alive or to cause it to die after birth,Punishes acts intended to prevent a child from being born alive or to cause the death of the child after birth either before or after birth.
+357,Indian penal code,316,Causing death of quick unborn child by act amounting to culpable homicide,"Punishes causing the death of a ""quick"" unborn child (a child that has reached a stage where its movements can be felt by the mother) by an act of culpable homicide."
+358,Indian penal code,317,"Exposure and abandonment of child under twelve years, by parent or person having care of it",Punishes the act of a parent or person who has care of a child under twelve years of age for abandoning or exposing the child which could lead to harm or danger to the child's life or well-being.
+359,Indian penal code,318,Concealment of birth by secret disposal of dead body,This section deals with the concealment of a child's birth by secretly disposing of the dead body which includes situations where a mother or anyone involved in the birth disposes of the body in secrecy to avoid detection.
+360,Indian penal code,319,Hurt,"Defines the term ""hurt"" as any bodily injury that causes pain harm or injury to a person but does not cause serious damage."
+361,Indian penal code,320,Grievous hurt,"Lists specific injuries that qualify as ""grievous"" such as the destruction of a limb permanent disfiguration etc."
+362,Indian penal code,321,Voluntarily causing hurt,Punishes the act of deliberately inflicting hurt on someone.
+363,Indian penal code,322,Voluntarily causing grievous hurt,Punishes the intentional infliction of grievous hurt.
+364,Indian penal code,323,Punishment for voluntarily causing hurt,Specifies punishment for causing hurt intentionally.
+365,Indian penal code,324,Voluntarily causing hurt by dangerous weapons or means,Punishes the deliberate act of causing hurt using dangerous weapons or harmful means.
+366,Indian penal code,325,Punishment for voluntarily causing grievous hurt,Provides punishment for the intentional infliction of grievous hurt.
+367,Indian penal code,326,Voluntarily causing grievous hurt by dangerous weapons or means,Punishes causing grievous hurt with dangerous weapons or means.
+368,Indian penal code,326A,"Voluntarily causing grievous hurt by use of acid, etc.",Specifically punishes the act of causing grievous hurt by the use of acid or similar corrosive substances.
+369,Indian penal code,326B,Voluntarily throwing or attempting to throw acid,Punishes the act of throwing acid or attempting to do so with intent to cause harm.
+370,Indian penal code,327,"Voluntarily causing hurt to extort property, or to constrain to an illegal act",Punishes causing hurt with the intent to extort property or force someone into an illegal act.
+371,Indian penal code,328,"Causing hurt by means of poison, etc., with intent to commit an offence",Punishes causing harm through poison or similar means to commit a crime.
+372,Indian penal code,329,"Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act",Punishes causing grievous hurt with intent to extort property or force someone into an illegal act.
+373,Indian penal code,330,"Voluntarily causing hurt to extort confession, or to compel restoration of property",Punishes causing hurt to force someone to confess or restore property.
+374,Indian penal code,331,"Voluntarily causing grievous hurt to extort confession, or to compel restoration of property",Punishes causing grievous hurt for the purpose of extorting a confession or forcing the return of property.
+375,Indian penal code,332,Voluntarily causing hurt to deter public servant from his duty,Punishes causing hurt to prevent or deter a public servant from performing their duties.
+376,Indian penal code,333,Voluntarily causing grievous hurt to deter public servant from his duty,Punishes causing grievous hurt to stop a public servant from performing their official duties.
+377,Indian penal code,334,Voluntarily causing hurt on provocation,Punishes causing hurt in response to provocation.
+378,Indian penal code,335,Voluntarily causing grievous hurt on provocation,Punishes causing grievous hurt in response to provocation.
+379,Indian penal code,336,Act endangering life or personal safety of others,Defines the act of endangering life or personal safety of others.
+380,Indian penal code,337,Causing hurt by act endangering life or personal safety of others,Punishes causing hurt through an act that endangers the life or personal safety of others.
+381,Indian penal code,338,Causing grievous hurt by act endangering life or personal safety of others,Punishes causing grievous hurt through an act that endangers the life or personal safety of others.
+382,Indian penal code,339,Wrongful restraint,Defines wrongful restraint as preventing someone from moving in any direction in which they have a right to move.
+383,Indian penal code,340,Wrongful confinement,Defines wrongful confinement as intentionally detaining a person in such a manner that they cannot leave the place.
+384,Indian penal code,341,Punishment for wrongful restraint,Specifies the punishment for wrongful restraint which can include imprisonment or a fine.
+385,Indian penal code,342,Punishment for wrongful confinement,Specifies the punishment for wrongful confinement which can include imprisonment or a fine.
+386,Indian penal code,343,Wrongful confinement for three or more days,Punishes wrongful confinement that lasts for three or more days with a more severe penalty.
+387,Indian penal code,344,Wrongful confinement for ten or more days,Punishes wrongful confinement that lasts for ten or more days with an even more severe penalty.
+388,Indian penal code,345,Wrongful confinement of person for whose liberation writ has been issued,Punishes wrongful confinement of a person when a writ of liberation (a court order for release) has been issued.
+389,Indian penal code,346,Wrongful confinement in secret,Punishes wrongful confinement in secret places where the person is confined in such a way that they cannot be found.
+390,Indian penal code,347,"Wrongful confinement to extort property, or constrain to illegal act",Punishes wrongful confinement if it is done to extort property or compel a person to perform an illegal act.
+391,Indian penal code,348,"Wrongful confinement to extort confession, or compel restoration of property",Punishes wrongful confinement used to force a confession or compel the return of property.
+392,Indian penal code,349,Force,"Defines ""force"" as any physical exertion against a person which could include physical pressure or coercion."
+393,Indian penal code,350,Criminal force,"Defines ""criminal force"" as the use of force with the intent to commit an offense such as causing harm or injury."
+394,Indian penal code,351,Assault,"Defines ""assault"" as the intentional act of attempting or threatening to use criminal force on someone."
+395,Indian penal code,352,Punishment for assault or criminal force otherwise than on grave provocation,Specifies the punishment for assault or criminal force unless the act was provoked severely.
+396,Indian penal code,353,Assault or criminal force to deter public servant from discharge of his duty,Punishes assault or criminal force used to prevent or deter a public servant from performing their lawful duties.
+397,Indian penal code,354,Assault or criminal force to woman with intent to outrage her modesty,Punishes assault or criminal force against a woman with the intent to outrage her modesty.
+398,Indian penal code,354A,Sexual harassment and punishment for sexual harassment,Defines sexual harassment and outlines punishments for such acts which may involve unwanted physical contact or advances.
+399,Indian penal code,354B,Assault or use of criminal force to woman with intent to disrobe,Punishes assault or criminal force used to remove or disrobe a woman against her will.
+400,Indian penal code,354C,Voyeurism,Defines voyeurism as observing a woman in a private place without her consent with the intent to satisfy sexual desires.
+401,Indian penal code,354D,Stalking,Defines stalking and provides punishment for the act of following contacting or monitoring someone persistently.
+402,Indian penal code,355,"Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",Punishes assault or criminal force with the intent to dishonor someone unless provoked in a grave manner.
+403,Indian penal code,356,Assault or criminal force in attempt to commit theft of property carried by a person,Punishes assault or criminal force used to try to steal property from someone.
+404,Indian penal code,357,Assault or criminal force in attempt wrongfully to confine a person,Punishes assault or criminal force used to attempt to wrongfully confine someone.
+405,Indian penal code,358,Assault or criminal force on grave provocation,Provides the punishment for assault or criminal force when it is committed on grave provocation.
+406,Indian penal code,359,Kidnapping,"Defines ""kidnapping"" as the unlawful taking or enticing away of a person without their consent typically for illegal purposes."
+407,Indian penal code,360,Kidnapping from India,Defines the offense of kidnapping a person from the territory of India and carrying them away to a foreign country.
+408,Indian penal code,361,Kidnapping from lawful guardianship,Defines the offense of kidnapping a person under 16 years of age (if a male) or under 18 years of age (if a female) from the lawful guardianship of their parent or guardian.
+409,Indian penal code,362,Abduction,"Defines ""abduction"" as the act of forcibly or deceitfully taking someone away either with or without their consent often with a specific intent."
+410,Indian penal code,363,Punishment for kidnapping,Provides punishment for the crime of kidnapping which can include imprisonment or a fine depending on the nature of the offense.
+411,Indian penal code,363A,Kidnapping or maiming a minor for purposes of begging,Provides punishment for the act of kidnapping or maiming a minor with the intent to use them for begging purposes.
+412,Indian penal code,364,Kidnapping or abducting in order to murder,Provides punishment for kidnapping or abduction committed with the intent to murder the kidnapped or abducted person.
+413,Indian penal code,364A,"Kidnapping for ransom, etc.",Punishment for kidnapping or abducting someone for the purpose of ransom or extortion or with the intent to cause harm.
+414,Indian penal code,365,Kidnapping or abducting with intent secretly and wrongfully to confine person,Punishment for kidnapping or abducting someone with the intent to secretly and wrongfully confine the person.
+415,Indian penal code,366,"Kidnapping, abducting or inducing woman to compel her marriage, etc.",Punishment for kidnapping or abducting a woman or inducing her to marry or engage in sexual activity against her will.
+416,Indian penal code,366A,Procuration of minor girl,Punishment for inducing or procuring a minor girl (under 18) to engage in illegal activities often for exploitation or prostitution.
+417,Indian penal code,366B,Importation of girl from foreign country,Punishment for bringing a minor girl (under 21) from outside India for the purposes of forced marriage or sexual exploitation.
+418,Indian penal code,367,"Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc.",Punishment for kidnapping or abducting a person with the intent to subject them to grievous hurt slavery or other severe forms of exploitation.
+419,Indian penal code,368,"Wrongfully concealing or keeping in confinement, kidnapped or abducted person",Punishment for illegally concealing or keeping a kidnapped or abducted person in confinement.
+420,Indian penal code,369,Kidnapping or abducting child under ten years with intent to steal from its person,Punishment for kidnapping or abducting a child under ten years old with the intent to steal from them typically for theft or exploitation.
+421,Indian penal code,370,Trafficking of person,Punishment for trafficking a person meaning their recruitment transportation or transfer for the purpose of exploitation.
+422,Indian penal code,370A,Exploitation of a trafficked person,Punishment for exploiting a trafficked person including forced labor sexual exploitation or any other form of abuse.
+423,Indian penal code,371,Habitual dealing in slaves,Punishment for the habitual act of dealing in slaves or engaging in slavery-related activities.
+424,Indian penal code,372,"Selling minor for purposes of prostitution, etc.",Punishment for selling or trafficking a minor (under 18) for the purposes of prostitution or any other illegal exploitation.
+425,Indian penal code,373,"Buying minor for purposes of prostitution, etc.",Punishment for buying or procuring a minor (under 18) for the purposes of prostitution or other forms of exploitation.
+426,Indian penal code,374,Unlawful compulsory labour,Punishment for forcing someone to do compulsory labor without their consent under unlawful circumstances.
+427,Indian penal code,375,Rape,Defines the offense of rape including sexual intercourse without consent and under various conditions such as coercion or manipulation.
+428,Indian penal code,376,Punishment for rape,Specifies the punishment for rape which can include imprisonment for a term of 7 years to life and in certain cases the death penalty.
+429,Indian penal code,376A,Punishment for causing death or resulting in persistent vegetative state of victim,Provides the punishment (death or life imprisonment) for causing the victim's death or a persistent vegetative state as a result of rape.
+430,Indian penal code,376AB,Punishment for rape on woman under twelve years of age,Provides stringent punishment (life imprisonment or death) for the rape of a woman under twelve years of age.
+431,Indian penal code,376B,Sexual intercourse by husband upon his wife during separation,Punishes sexual intercourse by a husband with his wife when they are living separately even if consent is not given.
+432,Indian penal code,376C,Sexual intercourse by a person in authority,Defines punishment for sexual intercourse by a person in authority (like a teacher guardian etc.) with a subordinate or dependent.
+433,Indian penal code,376D,Gang rape,Punishes gang rape where a woman is raped by two or more persons. The punishment can be imprisonment for life or a term of 20 years.
+434,Indian penal code,376DA,Punishment for gang rape on woman under sixteen years of age,Provides stricter punishment (life imprisonment or death) for gang rape of a woman under the age of sixteen.
+435,Indian penal code,376DB,Punishment for gang rape on woman under twelve years of age,Prescribes the highest penalty (death or life imprisonment) for gang rape of a woman under the age of twelve.
+436,Indian penal code,376E,Punishment for repeat offenders,Provides life imprisonment or the death penalty for repeat offenders of rape who have been previously convicted of similar offenses.
+437,Indian penal code,377,Unnatural Offences,This section criminalizes sexual acts considered unnatural such as sodomy (anal sex) and bestiality (sexual acts involving animals). It originally penalized both consensual and non-consensual unnatural acts.
+438,Indian penal code,378,Theft,Defines theft as the dishonest taking of movable property out of the possession of another without their consent with the intent to permanently deprive them of it.
+439,Indian penal code,379,Punishment for theft,Provides the punishment for the offense of theft which may involve imprisonment (up to 3 years) or a fine or both.
+440,Indian penal code,380,"Theft in dwelling house, etc.",Provides a higher punishment for theft committed in a dwelling house place of worship ship or aircraft. This is seen as an aggravated form of theft due to the nature of the premises.
+441,Indian penal code,381,Theft by clerk or servant of property in possession of master,Specifies that a clerk or servant who commits theft of property in the possession of their master (employer) is to be punished more severely reflecting the breach of trust.
+442,Indian penal code,382,"Theft after preparation made for causing death, hurt, or restraint in order to the committing of the theft",Imposes a heavier penalty for theft if the thief has made preparations to cause harm or death to the victim indicating an intent to use force during the commission of the theft.
+443,Indian penal code,383,Extortion,Defines extortion as the act of intentionally putting someone in fear of harm with the intent of unlawfully taking property or money from them.
+444,Indian penal code,384,Punishment for extortion,Specifies the punishment for the offense of extortion which may involve imprisonment (up to 3 years) or a fine or both.
+445,Indian penal code,385,Putting person in fear of injury in order to commit extortion,Provides a higher punishment for extortion when the person is put in fear of injury or harm with the intent to extort property or money.
+446,Indian penal code,386,Extortion by putting a person in fear of death or grievous hurt,Specifies that extortion committed by putting a person in fear of death or grievous hurt carries a heavier penalty reflecting the extreme nature of the threat.
+447,Indian penal code,387,"Putting person in fear of death or grievous hurt, in order to commit extortion",Describes extortion where the victim is put in fear of death or grievous harm specifically for the purpose of extorting money or property.
+448,Indian penal code,388,"Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",Defines extortion committed through the threat of false accusation of an offense punishable by death or life imprisonment or other severe penalties.
+449,Indian penal code,389,"Putting person in fear of accusation of offence, in order to commit extortion",Deals with extortion by putting a person in fear of being falsely accused of a serious offense to extort money or property from them.
+450,Indian penal code,390,Robbery,Defines robbery as the theft or extortion with violence or the threat of violence making it a more severe crime.
+451,Indian penal code,391,Dacoity,Defines dacoity as robbery committed by five or more persons acting together with the use of force.
+452,Indian penal code,392,Punishment for robbery,Specifies the punishment for robbery which may include imprisonment for a term (up to 10 years) and/or a fine.
+453,Indian penal code,393,Attempt to commit robbery,Provides the punishment for attempting to commit robbery which may involve imprisonment and/or a fine.
+454,Indian penal code,394,Voluntarily causing hurt in committing robbery,Specifies that if hurt is voluntarily caused while committing robbery the punishment will be more severe.
+455,Indian penal code,395,Punishment for dacoity,Specifies the punishment for dacoity which includes imprisonment for up to life and a fine.
+456,Indian penal code,396,Dacoity with murder,Defines the crime of dacoity with murder where murder is committed during the commission of a dacoity. The punishment is death or life imprisonment.
+457,Indian penal code,397,"Robbery, or dacoity, with attempt to cause death or grievous hurt",Specifies that if robbery or dacoity is committed with the attempt to cause death or grievous hurt the punishment is more severe.
+458,Indian penal code,398,Attempt to commit robbery or dacoity when armed with deadly weapon,Provides punishment for attempting to commit robbery or dacoity while being armed with a deadly weapon.
+459,Indian penal code,399,Making preparation to commit dacoity,Defines the act of preparing to commit dacoity which involves being armed with weapons or forming a group to commit the crime.
+460,Indian penal code,400,Punishment for belonging to gang of dacoits,Specifies the punishment for belonging to a gang of dacoits which may include imprisonment for a term of up to 10 years and a fine.
+461,Indian penal code,401,Punishment for belonging to gang of thieves,Specifies the punishment for belonging to a gang of thieves which may also involve imprisonment for a term of up to 7 years and a fine.
+462,Indian penal code,402,Assembling for purpose of committing dacoity,Defines assembling for the purpose of committing dacoity which is an offense even if the dacoity is not successfully carried out and provides punishment for this act.
+463,Indian penal code,403,Dishonest misappropriation of property,Defines the act of dishonestly misappropriating property that is not one's own.
+464,Indian penal code,404,Dishonest misappropriation of property possessed by deceased person at the time of his death,Specifies the offense of misappropriating property belonging to a deceased person.
+465,Indian penal code,405,Criminal breach of trust,Defines criminal breach of trust as the violation of trust in managing or controlling someone else's property.
+466,Indian penal code,406,Punishment for criminal breach of trust,Specifies the punishment for criminal breach of trust including imprisonment and/or a fine.
+467,Indian penal code,407,"Criminal breach of trust by carrier, etc.",Defines criminal breach of trust when committed by a carrier warehouseman or wholesaler.
+468,Indian penal code,408,Criminal breach of trust by clerk or servant,Specifies the criminal breach of trust when committed by a clerk or servant.
+469,Indian penal code,409,"Criminal breach of trust by public servant or by banker, merchant, or agent",Defines criminal breach of trust by a public servant banker merchant or agent.
+470,Indian penal code,410,Stolen property,Defines stolen property as property that has been unlawfully taken without consent.
+471,Indian penal code,411,Dishonestly receiving stolen property,Defines the offense of dishonestly receiving stolen property knowing it to be stolen.
+472,Indian penal code,412,Dishonestly receiving property stolen in the commission of a dacoity,Specifies the offense of receiving property that has been stolen during a dacoity.
+473,Indian penal code,413,Habitually dealing in stolen property,Defines the offense of habitually dealing in stolen property which is a more serious crime.
+474,Indian penal code,414,Assisting in concealment of stolen property,Specifies the crime of helping conceal stolen property or assisting someone involved in the crime.
+475,Indian penal code,415,Cheating,Defines cheating as intentionally deceiving someone to gain a benefit or cause harm.
+476,Indian penal code,416,Cheating by personation,Defines cheating by personation which involves deceiving someone by pretending to be someone else.
+477,Indian penal code,417,Punishment for cheating,Specifies the punishment for cheating which may include imprisonment and/or fines.
+478,Indian penal code,418,Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect,Defines cheating committed by a person who is responsible for protecting someone's interest but knowingly causes them harm.
+479,Indian penal code,419,Punishment for cheating by personation,Specifies the punishment for cheating by personation which includes imprisonment and/or fines.
+480,Indian penal code,420,Cheating and dishonestly inducing delivery of property,Defines cheating and the act of dishonestly inducing the delivery of property from someone.
+481,Indian penal code,421,Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors,Defines the fraudulent removal or concealment of property to prevent creditors from accessing it.
+482,Indian penal code,422,Dishonestly or fraudulently preventing debt being available for creditors,Specifies the act of fraudulently preventing a debt from being available to creditors.
+483,Indian penal code,423,Dishonest or fraudulent execution of deed of transfer containing false statement of consideration,Defines the crime of fraudulent execution of a deed with false statements regarding consideration.
+484,Indian penal code,424,Dishonest or fraudulent removal or concealment of property,Specifies the offense of dishonestly or fraudulently removing or concealing property with ill intent.
+485,Indian penal code,425,Mischief,Defines mischief as causing damage to property without lawful excuse or authority.
+486,Indian penal code,426,Punishment for mischief,Specifies the punishment for mischief which can include imprisonment and/or a fine.
+487,Indian penal code,427,Mischief causing damage to the amount of fifty rupees,Defines the offense of mischief causing damage worth at least 50 rupees.
+488,Indian penal code,428,Mischief by killing or maiming animal of the value of ten rupees,Specifies the offense of killing or maiming an animal worth at least 10 rupees.
+489,Indian penal code,429,"Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees",Defines mischief caused by killing or maiming cattle or any animal worth at least 50 rupees.
+490,Indian penal code,430,Mischief by injury to works of irrigation or by wrongfully diverting water,Specifies mischief caused by injuring irrigation works or wrongfully diverting water.
+491,Indian penal code,431,"Mischief by injury to public road, bridge, river or channel",Defines mischief caused by damaging a public road bridge river or channel.
+492,Indian penal code,432,Mischief by causing inundation or obstruction to public drainage attended with damage,Specifies mischief causing flooding or obstruction to public drainage leading to damage.
+493,Indian penal code,433,"Mischief by destroying, moving or rendering less useful a light-house or sea-mark",Defines the offense of mischief involving a lighthouse or sea-mark that affects navigation.
+494,Indian penal code,434,"Mischief by destroying or moving, etc., a land-mark fixed by public authority",Specifies mischief caused by destroying or moving a landmark set by public authority.
+495,Indian penal code,435,Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees,Defines mischief caused by fire or explosive substance with intent to damage property worth at least 100 rupees.
+496,Indian penal code,436,"Mischief by fire or explosive substance with intent to destroy house, etc.",Specifies mischief by fire or explosive substances with the intent to destroy a house or similar property.
+497,Indian penal code,437,Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden,Defines mischief intended to destroy or render unsafe a decked vessel or one over 20 tons.
+498,Indian penal code,438,Punishment for the mischief described in section 437 committed by fire or explosive substance,Specifies the punishment for mischief described in Section 437 if committed using fire or explosives.
+499,Indian penal code,439,"Punishment for intentionally running vessel aground, or ashore with intent to commit theft, etc.",Defines the punishment for intentionally running a vessel aground to commit theft or other crimes.
+500,Indian penal code,440,Mischief committed after preparation made for causing death or hurt,Specifies mischief committed after preparation for causing death or hurt making the offense more severe.
+501,Indian penal code,441,Criminal trespass,Defines criminal trespass as entering or remaining on property without lawful authority or consent.
+502,Indian penal code,442,House-trespass,Defines house-trespass as entering a building or its enclosure with the intent to commit an offense.
+503,Indian penal code,443,Lurking house-trespass,Defines lurking house-trespass as secretly entering a house or its enclosure with the intent to commit an offense.
+504,Indian penal code,444,Lurking house-trespass by night,Specifies the offense of lurking house-trespass when committed at night enhancing the severity of the crime.
+505,Indian penal code,445,House-breaking,Defines house-breaking as breaking into a house or a building with the intent to commit an offense.
+506,Indian penal code,446,House-breaking by night,Specifies house-breaking when it occurs by night making the offense more serious.
+507,Indian penal code,447,Punishment for criminal trespass,Specifies the punishment for criminal trespass which may include imprisonment or fines.
+508,Indian penal code,448,Punishment for house-trespass,Specifies the punishment for house-trespass with imprisonment or fines depending on the circumstances.
+509,Indian penal code,449,House-trespass in order to commit offense punishable with death,Defines house-trespass committed with the intent to commit an offense punishable with death (e.g. murder).
+510,Indian penal code,450,House-trespass in order to commit offense punishable with imprisonment for life,Defines house-trespass committed with the intent to commit an offense punishable with life imprisonment (e.g. rape).
+511,Indian penal code,451,House-trespass in order to commit offense punishable with imprisonment,Defines house-trespass committed with the intent to commit any other offense punishable with imprisonment (e.g. theft).
+512,Indian penal code,452,"House-trespass after preparation for hurt, assault or wrongful restraint",Defines house-trespass where the offender has made preparation to cause hurt assault or wrongful restraint.
+513,Indian penal code,453,Punishment for lurking house-trespass or house-breaking,Specifies the punishment for lurking house-trespass or house-breaking.
+514,Indian penal code,454,Lurking house-trespass or house-breaking or burglary in order to commit offense punishable with imprisonment,Defines lurking house-trespass or house-breaking or burglary committed with the intent to commit an offense punishable with imprisonment.
+515,Indian penal code,455,"Lurking house-trespass or house-breaking after preparation for hurt, assault or wrongful restraint",Specifies lurking house-trespass or house-breaking when the offender has made preparations for hurt assault or wrongful restraint.
+516,Indian penal code,456,Punishment for lurking house-trespass or house-breaking by night,Defines the punishment for lurking house-trespass or house-breaking committed during the night.
+517,Indian penal code,457,Lurking house-trespass or house-breaking by night or burglary in order to commit offense punishable with imprisonment,Defines lurking house-trespass or house-breaking by night with the intent to commit an offense punishable with imprisonment.
+518,Indian penal code,458,"Lurking house-trespass or house-breaking by night or burglary after preparation for hurt, assault, or wrongful restraint",Specifies lurking house-trespass or house-breaking by night after making preparations to commit hurt assault or wrongful restraint.
+519,Indian penal code,459,Grievous hurt caused whilst committing lurking house-trespass or house-breaking,Defines grievous hurt caused during the commission of lurking house-trespass or house-breaking.
+520,Indian penal code,460,All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them,Specifies joint responsibility when death or grievous hurt is caused by one of the persons involved in lurking house-trespass or house-breaking.
+521,Indian penal code,461,Dishonestly breaking open receptacle containing property,Defines the offense of dishonestly breaking open a receptacle containing property.
+522,Indian penal code,462,Punishment for same offence when committed by person entrusted with custody,Specifies the punishment for dishonestly breaking open a receptacle when committed by a person entrusted with custody.
+523,Indian penal code,463,Forgery,Defines forgery as making a false document or false electronic record with the intent to deceive.
+524,Indian penal code,464,Making a false document,Defines making a false document as one which is intended to deceive others.
+525,Indian penal code,465,Punishment for forgery,Specifies the punishment for the offense of forgery.
+526,Indian penal code,466,"Forgery of record of Court or of public register, etc.",Defines forgery involving court records or public registers making such documents false.
+527,Indian penal code,467,"Forgery of valuable security, will, etc.",Defines forgery of valuable securities wills and similar important documents.
+528,Indian penal code,468,Forgery for purpose of cheating,Specifies the offense of forgery with the intent to cheat others.
+529,Indian penal code,469,Forgery for purpose of harming reputation,Specifies the offense of forgery with the intent to harm someone's reputation.
+530,Indian penal code,470,Forged document,Defines a forged document as any document that is false and created with intent to deceive.
+531,Indian penal code,471,Using as genuine a forged document or electronic record,Defines the offense of using a forged document or electronic record as though it were genuine.
+532,Indian penal code,472,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467",Defines the offense of making or possessing counterfeit seals or similar devices with the intent to commit forgery.
+533,Indian penal code,473,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise",Defines the offense of making or possessing counterfeit seals with the intent to commit forgery for other purposes.
+534,Indian penal code,474,"Having possession of document described in sections 466 or 467, knowing it to be forged and intending to use it as genuine",Specifies the offense of possessing forged documents under sections 466 or 467 with intent to use them as genuine.
+535,Indian penal code,475,"Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material",Defines the offense of counterfeiting devices or marks used for authenticating documents described in section 467.
+536,Indian penal code,476,"Counterfeiting device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material",Defines the offense of counterfeiting devices or marks used for authenticating documents other than those in section 467.
+537,Indian penal code,477,"Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",Specifies fraudulent cancellation or destruction of wills authority to adopt or valuable securities.
+538,Indian penal code,477A,Falsification of accounts,Defines the offense of falsifying financial or business accounts.
+539,Indian penal code,479,Property mark,Defines property marks as symbols used to indicate ownership or origin of goods.
+540,Indian penal code,481,Using a false property mark,Defines the offense of using a false property mark to misrepresent ownership or origin.
+541,Indian penal code,482,Punishment for using a false property mark,Specifies the punishment for using a false property mark.
+542,Indian penal code,483,Counterfeiting a property mark used by another,Defines the offense of counterfeiting a property mark that is used by someone else.
+543,Indian penal code,484,Counterfeiting a mark used by a public servant,Specifies the offense of counterfeiting a mark used by a public servant.
+544,Indian penal code,485,Making or possession of any instrument for counterfeiting a property mark,Defines the offense of making or possessing instruments to counterfeit a property mark.
+545,Indian penal code,486,Selling goods marked with a counterfeit property mark,Specifies the offense of selling goods marked with a counterfeit property mark.
+546,Indian penal code,487,Making a false mark upon any receptacle containing goods,Defines the offense of making a false mark on a receptacle containing goods.
+547,Indian penal code,488,Punishment for making use of any such false mark,Specifies the punishment for making use of a false property mark.
+548,Indian penal code,489,Tampering with property mark with intent to cause injury,Defines the offense of tampering with a property mark with the intent to cause injury.
+549,Indian penal code,489A,Counterfeiting currency-notes or bank-notes,Defines counterfeiting currency notes or banknotes as creating fake currency with intent to deceive.
+550,Indian penal code,489B,"Using as genuine, forged or counterfeit currency-notes or bank-notes",Specifies the offense of using forged or counterfeit currency as though it were genuine.
+551,Indian penal code,489C,Possession of forged or counterfeit currency notes or bank-notes,Defines the offense of possessing forged or counterfeit currency or bank-notes.
+552,Indian penal code,489D,Making or possessing instruments or materials for forging or counterfeiting currency-notes or bank-notes,Specifies the offense of making or possessing materials for counterfeiting currency or bank-notes.
+553,Indian penal code,489E,Making or using documents resembling currency-notes or bank-notes,Defines the offense of making or using documents that resemble currency-notes or bank-notes.
+554,Indian penal code,491,Breach of contract to attend on and supply wants of helpless person,Defines the offense of breaching a contract to attend to and supply the needs of a helpless person.
+555,Indian penal code,493,Cohabitation caused by a man deceitfully inducing a belief of lawful marriage,Defines the offense where a man deceitfully causes a woman to believe that she is legally married to him resulting in cohabitation.
+556,Indian penal code,494,Marrying again during lifetime of husband or wife,Specifies the offense of marrying another person while one�s spouse is still alive which is a form of bigamy.
+557,Indian penal code,495,Same offence with concealment of former marriage from person with whom subsequent marriage is contracted,Defines the offense when someone marries again while their previous spouse is alive concealing the earlier marriage from the second spouse.
+558,Indian penal code,496,Marriage ceremony fraudulently gone through without lawful marriage,Defines the offense where a person goes through a marriage ceremony with another without a legal marriage taking place essentially deceiving the person.
+559,Indian penal code,497,Adultery,Defines the offense of adultery where a man has sexual relations with a married woman without the consent of her husband.
+560,Indian penal code,498,Enticing or taking away or detaining with criminal intent a married woman,Defines the offense of enticing taking away or detaining a married woman with the intent of committing a criminal act typically involving criminal intent like adultery or kidnapping.
+561,Indian penal code,498A,Husband or relative of husband of a woman subjecting her to cruelty,Defines the offense where a husband or relative of the husband subjects a woman to cruelty or domestic violence which includes mental or physical abuse harassment or torture or any act that is likely to drive the woman to suicide or cause her harm.
+562,Indian penal code,499,Defamation,Defines defamation as an act of intentionally tarnishing the reputation of a person by making or publishing false statements that could harm that person's reputation.
+563,Indian penal code,500,Punishment for defamation,Specifies the punishment for the offense of defamation which may include imprisonment up to two years or a fine or both.
+564,Indian penal code,501,Printing or engraving matter known to be defamatory,Defines the offense of printing or engraving defamatory matter with the knowledge that the material is intended to damage the reputation of a person.
+565,Indian penal code,502,Sale of printed or engraved substance containing defamatory matter,Defines the offense of selling printed or engraved substances (such as books newspapers etc.) that contain defamatory material thereby further distributing harm to the reputation of a person.
+566,Indian penal code,503,Criminal intimidation,Defines criminal intimidation as an act of threatening someone with injury to their person reputation or property with intent to cause alarm or fear of injury.
+567,Indian penal code,504,Intentional insult with intent to provoke breach of the peace,Defines the offense of intentional insult that causes provocation with the intention of provoking a breach of the peace.
+568,Indian penal code,505,Statements conducing to public mischief,Specifies offenses related to making statements that cause public mischief such as creating fear or alarm in the public or disturbing public tranquility.
+569,Indian penal code,505(1),"Statements creating or promoting enmity, hatred or ill-will between classes",Defines the offense of making statements that promote enmity hatred or ill-will between different communities or classes of society.
+570,Indian penal code,505(2),"Offence under sub-section (1) committed in place of worship, etc.",Provides a higher penalty for promoting enmity or hatred in sensitive places such as places of worship or religious institutions.
+571,Indian penal code,506,Punishment for criminal intimidation,Specifies the punishment for criminal intimidation. If the intimidation involves death or grievous hurt it can result in a longer sentence.
+572,Indian penal code,506(2),"If threat be to cause death or grievous hurt, etc.",Enhances the punishment for criminal intimidation when the threat involves causing death or grievous hurt.
+573,Indian penal code,507,Criminal intimidation by an anonymous communication,Defines the offense of criminal intimidation carried out through anonymous communication such as letters emails or calls.
+574,Indian penal code,508,Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure,Defines an act where a person is intentionally intimidated by inducing them to believe that they will suffer divine displeasure (e.g. using religious threats for coercion).
+575,Indian penal code,509,"Word, gesture, or act intended to insult the modesty of a woman",Defines the offense of insulting the modesty of a woman through words gestures or acts that are intended to disrespect or degrade her.
+576,Indian penal code,510,Misconduct in public by a drunken person,Defines the offense of misconduct in public places by a drunken person such as being disorderly or causing disturbance due to intoxication.
+577,Indian penal code,511,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment,This section deals with attempts to commit offences that are punishable with imprisonment for life or other imprisonment. It provides a punishment for an attempted crime even if the crime is not completed. The punishment for an attempt is typically half of the punishment prescribed for the completed offence.
+578,Constitution of India,Article 368,Power of Parliament to amend the Constitution and procedure therefor,This article grants Parliament the power to amend the Constitution and lays down the procedure for amendment including different types of majorities required for different provisions.
+579,Information Technology Act 2000,66,Computer-related Offences,"If any person dishonestly or fraudulently or online scam does any act referred to in this section it shall be punishable with imprisonment of either description for a term which may extend to three years or with a fine which may extend to one lakh rupees or with both."
+580,Information Technology Act 2000,66A,Sending Offensive Messages through Communication Service, Any person who sends by means of a computer resource or communication device any information that is grossly offensive or has menacing character shall be punished with imprisonment for a term which may extend to three years and with a fine which may extend to five lakh rupees.
+581,Information Technology Act 2000,67,Publishing or Transmitting Obscene Material in Electronic Form,Whoever publishes or transmits or causes to be published or transmitted in the electronic form any material that is lascivious or appeals to the prurient interest or is intended to harm the reputation of any person shall be punishable with imprisonment for a term which may extend to five years and with a fine which may extend to one lakh rupees.
+582,Indian Penal Code,354D,Stalking,Any man who follows ar woman and contacts or harrasment via social media or cyberstalking or attempts to contact her to foster personal interaction repeatedly despite a clear indication of disinterest or monitors the woman's use of the internet email or other forms of electronic communication shall be punished with imprisonment of either description for a term which may extend to three years and with a fine.
+583,Indian Penal Code,499,Defamation,Whoever by words either spoken or intended to be read or by signs or by visible representations makes or publishes any imputation concerning any person intending to harm or knowing or having reason to believe that such imputation will harm the reputation of such person shall be punished with imprisonment of either description for a term which may extend to two years or with a fine or with both.
+584,Indian Penal Code,507,Criminal Intimidation by Anonymous Communication,Whoever commits the offence of criminal intimidation by means of anonymous communication like phishing which is online scam shall be punished with imprisonment for a term which may extend to two years or with a fine or with both.
+585,Transfer of Property Act 1882,106,Notice for Termination of Lease,A lease of immovable property can be terminated by giving a 15-day notice for monthly leases and a 6-month notice for yearly leases unless the contract states otherwise.
