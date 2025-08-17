@@ -1,0 +1,434 @@
+case_id,name,year,court,key_finding,description,outcome
+1,Kesavananda Bharati v. State of Kerala,1973,Supreme Court,Basic structure doctrine of Constitution,Fundamental case establishing that Parliament cannot alter the basic structure of the Constitution of India.,win
+2,Vishaka v. State of Rajasthan,1997,Supreme Court,Sexual harassment at workplace guidelines,Established guidelines for dealing with sexual harassment at workplace before legislation was enacted.,win
+3,Olga Tellis v. Bombay Municipal Corporation,1985,Supreme Court,Right to livelihood is part of right to life,Case recognized the right to livelihood as an important component of right to life under Article 21.,win
+4,M.C. Mehta v. Union of India,1986,Supreme Court,Absolute liability principle in environmental cases,Established the principle of absolute liability in cases of hazardous industries.,lose
+5,Maneka Gandhi v. Union of India,1978,Supreme Court,Right to personal liberty and due process,Expanded the interpretation of Article 21 to include right to travel abroad as part of personal liberty.,lose
+6,Lily Thomas vs Union of India & Ors.,2000,Supreme Court,Misuse of Religious Conversion for Bigamy,governs the marriage laws for Hindus in India providing conditions for valid marriage divorce and other related aspects,win
+7,A.K. Gopalan v. State of Madras,1950,Supreme Court of India,Restrictive interpretation of personal liberty,First major constitutional case after independence  narrowly interpreted Article 21's 'procedure established by law',win
+8,State of Madras v. Champakam Dorairajan,1951,Supreme Court of India,Caste-based reservations unconstitutional,Led to the First Amendment of the Constitution  which empowered the state to make special provisions for socially disadvantaged groups,win
+9,Balsara v. Bombay,1954,Supreme Court of India,Prohibition of alcohol valid,Upheld state's right to prohibit alcohol under directive principles  validating Bombay Prohibition Act,win
+10,K.M. Nanavati v. State of Maharashtra,1962,Supreme Court of India,Jury system abolished in India,Famous case that led to the abolition of the jury system in India after a controversial acquittal was overturned,win
+11,Kesavananda Bharati v. State of Kerala,1973,Supreme Court of India,Basic structure doctrine established,Landmark judgment establishing that Parliament cannot amend the basic structure of the Constitution,win
+12,ADM Jabalpur v. Shivakant Shukla,1975,Supreme Court of India,Fundamental rights can be suspended during emergency,Controversial ruling that fundamental rights could be suspended during emergency  later overruled,win
+13,Maneka Gandhi v. Union of India,1978,Supreme Court of India,Expanded interpretation of right to life,Landmark judgment that expanded Article 21 to include right to dignity  livelihood  privacy  and due process,win
+14,Hussainara Khatoon v. State of Bihar,1979,Supreme Court of India,Right to speedy trial established,Established the right to speedy trial as part of fundamental rights  addressing the issue of undertrials,win
+15,Minerva Mills v. Union of India,1980,Supreme Court of India,Balance between fundamental rights and directive principles,Struck down amendments giving primacy to directive principles over fundamental rights  reinforcing basic structure doctrine,win
+16,Bachan Singh v. State of Punjab,1981,Supreme Court of India,'Rarest of rare' doctrine for death penalty,Established that death penalty should be imposed only in 'rarest of rare' cases,win
+17,Olga Tellis v. Bombay Municipal Corporation,1982,Supreme Court of India,Right to livelihood as part of right to life,Recognized that the right to livelihood is part of the right to life under Article 21,win
+18,Shah Bano v. Mohd. Ahmed Khan,1985,Supreme Court of India,Muslim women's right to maintenance,Controversial ruling on Muslim woman's right to maintenance under Section 125 of CrPC  later nullified by Muslim Women Act,win
+19,M.C. Mehta v. Union of India (Oleum Gas Leak),1986,Supreme Court of India,Absolute liability principle,Established the principle of absolute liability without exceptions for hazardous industries,win
+20,D.K. Basu v. State of West Bengal,1987,Supreme Court of India,Guidelines for arrest and detention,Established detailed guidelines for arrest  detention  and interrogation by police officials,win
+21,Central Inland Water v. Brojo Nath,1991,Supreme Court of India,Unconscionable contracts void,Established that unconscionable contractual terms can be struck down by courts,win
+22,Indra Sawhney v. Union of India,1993,Supreme Court of India,27% OBC reservation valid,Upheld 27% reservation for Other Backward Classes (OBCs) but struck down reservation in promotions,win
+23,Vishaka v. State of Rajasthan,1996,Supreme Court of India,Sexual harassment at workplace guidelines,Established guidelines for prevention of sexual harassment at workplace before legislation was enacted,win
+24,Supreme Court Advocates-on-Record Association v. Union of India,1997,Supreme Court of India,Collegium system established,Established the 'collegium system' for appointment of judges  giving primacy to judiciary,win
+25,Lily Thomas v. Union of India,1999,Supreme Court of India,Conversion solely for marriage invalid,Held that conversion solely for the purpose of marriage without true faith is invalid,win
+26,Narmada Bachao Andolan v. Union of India,2001,Supreme Court of India,Development projects can proceed with safeguards,Allowed the Sardar Sarovar Project to proceed with certain environmental and rehabilitation safeguards,win
+27,PUCL v. Union of India,2002,Supreme Court of India,Right to food as fundamental right,Recognized the right to food as part of the right to life under Article 21,win
+28,Avtar Singh Bhasin v. State of Karnataka,2003,Supreme Court of India,Maintenance must be commensurate with lifestyle,Established that maintenance amount should be proportional to the previous lifestyle of the spouse,win
+29,People's Union for Civil Liberties v. Union of India,2004,Supreme Court of India,Electoral reforms introduced,Introduced the 'None of the Above' (NOTA) option in elections,win
+30,Prakash Singh v. Union of India,2005,Supreme Court of India,Police reforms mandated,Mandated significant reforms in police organization and functioning across states,win
+31,M. Nagaraj v. Union of India,2006,Supreme Court of India,Reservations in promotions constitutional with conditions,Held that reservation in promotions is constitutional subject to proving backwardness  inadequate representation  and efficiency,win
+32,Ashoka Kumar Thakur v. Union of India,2007,Supreme Court of India,OBC reservations in educational institutions valid,Upheld 27% OBC reservation in central educational institutions,win
+33,Naz Foundation v. Govt of NCT of Delhi,2009,Delhi High Court,Section 377 partially struck down,Decriminalized consensual homosexual acts  later overruled by Supreme Court in 2013,win
+34,Aruna Shanbaug v. Union of India,2010,Supreme Court of India,Passive euthanasia permitted,Permitted passive euthanasia in certain circumstances through withdrawal of life support,win
+35,Selvi v. State of Karnataka,2012,Supreme Court of India,Narco-analysis without consent unconstitutional,Held that narco-analysis  brain-mapping  and polygraph tests without consent violate Article 20(3),win
+36,Suresh Kumar Koushal v. Naz Foundation,2013,Supreme Court of India,Section 377 reinstated,Overturned Delhi High Court judgment  recriminalizing homosexuality  later overruled in 2018,win
+37,NALSA v. Union of India,2014,Supreme Court of India,Recognition of transgender as third gender,Recognized transgender persons as a third gender and affirmed their fundamental rights,win
+38,Shreya Singhal v. Union of India,2015,Supreme Court of India,Section 66A of IT Act struck down,Struck down Section 66A of Information Technology Act as unconstitutional restriction on free speech,win
+39,Justice K.S. Puttaswamy v. Union of India,2016,Supreme Court of India,Right to privacy as fundamental right,Nine-judge bench unanimously declared right to privacy as a fundamental right,win
+40,Triple Talaq Case,2017,Supreme Court of India,Triple talaq unconstitutional,Declared instantaneous triple talaq (talaq-e-biddat) as unconstitutional,win
+41,Navtej Singh Johar v. Union of India,2018,Supreme Court of India,Section 377 struck down,Decriminalized consensual homosexual acts by reading down Section 377,win
+43,Rafale Deal Case,2019,Supreme Court of India,No probe into Rafale deal,Dismissed petitions seeking probe into Rafale fighter jet deal  finding no irregularities,win
+44,Ayodhya Land Dispute Case,2019,Supreme Court of India,Land allocated for Ram temple,Allocated disputed land for construction of Ram temple  alternative plot for mosque,win
+45,Anuradha Bhasin v. Union of India,2020,Supreme Court of India,Internet shutdown rules clarified,Declared internet access as part of freedom of speech  mandated review of internet shutdowns,win
+46,Arnab Goswami v. State of Maharashtra,2020,Supreme Court of India,Bail guidelines reinforced,Reinforced the principle of 'bail  not jail'  emphasizing liberty of citizens,win
+47,Tehseen Poonawalla v. Union of India,2021,Supreme Court of India,Guidelines for lynching cases,Issued preventive  remedial  and punitive guidelines for mob lynching cases,win
+48,Pegasus Spyware Case,2021,Supreme Court of India,Committee formed to investigate surveillance,Formed expert committee to investigate alleged use of Pegasus spyware for surveillance,win
+49,Jarnail Singh v. Lachhmi Narain Gupta,2022,Supreme Court of India,Theft or Robbery,Theft and Rob or tries to steal something,win
+50,X v. State of Jharkhand,2022,Supreme Court of India,Marital rape recognized in MTP Act,Recognized marital rape for the purpose of Medical Termination of Pregnancy Act,win
+51,Environmental Compensation Case,2022,Supreme Court of India,Polluter pays principle strengthened,Strengthened implementation of 'polluter pays' principle for environmental damage,win
+52,LIC v. Consumer Education & Research Centre,2023,Supreme Court of India,Insurance companies' liability extended,Extended liability of insurance companies in consumer disputes,win
+53,Digital News Publishers Association v. Union of India,2023,Supreme Court of India,IT Rules partially struck down,Struck down certain provisions of IT Rules  2021 affecting digital news publishers,win
+54,EWS Reservation Case,2023,Supreme Court of India,10% EWS reservation upheld,Upheld the constitutional validity of 10% reservation for Economically Weaker Sections,win
+55,Goa Mining Case,2024,Supreme Court of India,Mining leases renewal guidelines,Established guidelines for renewal of mining leases with environmental safeguards,win
+56,Kharak Singh v. State of Uttar Pradesh,1969,Supreme Court of India,First recognition of privacy rights,First case to recognize aspects of privacy as part of personal liberty  albeit limited,win
+57,Raj Narain v. Indira Gandhi,1975,Allahabad High Court,Election of Prime Minister invalidated,Invalidated Indira Gandhi's election  leading to declaration of Emergency,win
+58,Rudul Sah v. State of Bihar,1981,Supreme Court of India,Compensation for rights violations,First case awarding compensation for violation of fundamental rights by the state,win
+59,State of Karnataka v. Appa Balu Ingale,1984,Karnataka High Court,Atrocities against Dalits recognized,Recognized and addressed the issue of atrocities against Dalits under the SC/ST Act,win
+60,Ratlam Municipality v. Vardhichand,1989,Supreme Court of India,Public interest enforcement of municipal duties,Enforced municipal duties towards public health and sanitation through judicial orders,win
+61,Mohd. Ahmed Khan v. Shah Bano Begum,1992,Supreme Court of India,Uniform Civil Code debate,Reignited debate on Uniform Civil Code while deciding on maintenance for Muslim divorced women,win
+62,Common Cause v. Union of India,1995,Supreme Court of India,Right to die with dignity,Early case dealing with right to die with dignity  leading to later passive euthanasia rulings,win
+63,Vineet Narain v. Union of India,1998,Supreme Court of India,CBI autonomy established,Established guidelines for ensuring CBI's autonomy from political interference,win
+64,Narmada Bachao Andolan v. Union of India,2000,Supreme Court of India,Balance between development and rights,Balanced development needs with displacement and environmental concerns in dam projects,win
+65,S.R. Bommai v. Union of India,2002,Supreme Court of India,Limits on President's rule,Established limits on imposition of President's rule under Article 356,win
+66,Rubabbuddin Sheikh v. State of Gujarat,2005,Supreme Court of India,Fake encounter cases,Landmark judgment on handling of fake encounter cases and police accountability,win
+67,Aruna Rodrigues v. Union of India,2007,Supreme Court of India,GM crops regulation,Established regulatory framework for Genetically Modified crops in India,win
+68,Nandini Sundar v. State of Chhattisgarh,2009,Supreme Court of India,State-sponsored vigilantism unconstitutional,Declared Salwa Judum (state-sponsored vigilante groups) as unconstitutional,win
+69,Centre for PIL v. Union of India (2G Spectrum),2011,Supreme Court of India,Cancellation of telecom licenses,Cancelled 122 telecom licenses in the 2G spectrum case due to arbitrary allocation,win
+70,Society for Unaided Private Schools v. Union of India,2012,Supreme Court of India,RTE Act upheld,Upheld constitutional validity of Right to Education Act with exemption for minority institutions,win
+71,PUCL v. Union of India (Aadhar Case),2014,Supreme Court of India,Limits on Aadhar usage,Restricted mandatory use of Aadhar to certain welfare schemes until larger bench decision,win
+72,Namit Sharma v. Union of India,2015,Supreme Court of India,RTI Commissioners appointment,Established guidelines for appointment of RTI Commissioners,win
+73,Subramanian Swamy v. Union of India,2016,Supreme Court of India,Criminal defamation constitutional,Upheld constitutional validity of criminal defamation under IPC Sections 499 and 500,win
+74,Common Cause v. Union of India (Living Will),2018,Supreme Court of India,Living will and advance directives legal,Legalized living wills and advance medical directives for passive euthanasia,win
+75,Swapnil Tripathi v. Supreme Court of India,2018,Supreme Court of India,Live streaming of court proceedings,Allowed live streaming of Supreme Court proceedings of constitutional importance,win
+76,Mukesh Singh v. State (NCT of Delhi),2019,Supreme Court of India,Death penalty in Nirbhaya case upheld,Upheld death penalty for convicts in the 2012 Delhi gang rape case,win
+77,Foundation for Media Professionals v. Union Territory of J&K,2020,Supreme Court of India,4G internet in J&K,Mandated review of 4G internet restrictions in Jammu and Kashmir,win
+78,Laxman Naskar v. Union of India,2021,Supreme Court of India,Marital rape as ground for divorce,Recognized marital rape as cruelty for the purpose of divorce,win
+79,In Re: Distribution of Essential Supplies During Pandemic,2021,Supreme Court of India,COVID management oversight,Established judicial oversight over government's COVID-19 management,win
+80,Samta Andolan v. Union of India,2022,Supreme Court of India,Reservation in promotion,Clarified application of reservation in promotion for public services,win
+81,Association for Democratic Reforms v. Union of India,2022,Supreme Court of India,Electoral bonds scheme scrutiny,Scrutinized electoral bonds scheme for political party funding,win
+82,Zakia Jafri v. State of Gujarat,2023,Supreme Court of India,Gujarat riots investigation,Ruled on investigation into larger conspiracy behind 2002 Gujarat riots,win
+83,Parsi Marriage and Divorce Case,2023,Supreme Court of India,Personal law modernization,Modernized interpretation of Parsi personal law for gender equality,win
+84,Digital Personal Data Protection Act Case,2024,Supreme Court of India,Data protection principles,Established principles for implementing Digital Personal Data Protection Act,win
+85,State of Punjab v. Ajaib Singh,1952,District Court Punjab,Preventive detention procedures,Early case establishing procedures for preventive detention under security laws,win
+86,Ram Jawaya Kapur v. State of Punjab,1961,District Court Punjab,Executive power limits,Established limits of executive power without legislative backing,win
+87,Shankari Prasad v. Union of India,1977,District Court Delhi,Constitutional amendments judicial review,Early case on judicial review of constitutional amendments,win
+88,Romesh Thapar v. State of Madras,1982,District Court Madras,Freedom of press expansion,Expanded interpretation of freedom of press under Article 19,win
+89,Unnikrishnan v. State of Andhra Pradesh,1990,District Court Hyderabad,Right to education as fundamental,Recognized right to education as part of right to life before it became explicit fundamental right,win
+90,State of Punjab v. Gurmit Singh,1996,District Court Punjab,Rape victim testimony guidelines,Established guidelines for handling testimony of rape victims,win
+91,Sarla Mudgal v. Union of India,2003,District Court Delhi,Conversion for second marriage invalid,Ruled against conversion to Islam solely for the purpose of second marriage,win
+92,Kihoto Hollohan v. Zachillhu,2008,District Court Nagaland,Anti-defection law scope,Defined scope and application of anti-defection law,win
+93,Lillu v. State of Haryana,2013,District Court Haryana,Two-finger test unconstitutional,Declared the two-finger test for rape victims as unconstitutional,win
+94,Gautam Navlakha v. State of Delhi,2017,District Court Delhi,Human rights defenders protection,Established protections for human rights defenders against arbitrary detention,win
+95,Youth Bar Association v. Union of India,2020,District Court Delhi,FIR upload mandatory,Mandated upload of FIRs on police websites within 24 hours,win
+96,Jagisha Arora v. State of UP,2022,District Court Uttar Pradesh,Journalists' arrest guidelines,Established guidelines for arrest of journalists and media professionals,win
+97,Farmers Protest Case,2024,District Court Haryana,Right to peaceful protest,Affirmed right to peaceful protest while maintaining public order,win
+98,MP Sugar Mills v. State of Uttar Pradesh,1958,Taxation Tribunal,Administrative discretion limits,Limited administrative discretion in taxation matters requiring objective criteria,win
+99,Ram Singh v. Union of India,1984,Armed Forces Tribunal,Military law application,Clarified application of military law vis-à-vis civilian law,win
+100,Kuldip Nayar v. Union of India,1997,Election Tribunal,Rajya Sabha election procedures,Established procedures and safeguards in Rajya Sabha elections,win
+101,P.V. Narasimha Rao v. State (CBI),2010,Special Court CBI,Parliamentary privileges limits,Defined limits of parliamentary privileges in corruption cases,win
+102,Judge Loya Death Case,2018,Special Investigation Tribunal,Judicial independence,Addressed issues of judicial independence and investigation procedures,win
+103,Crypto Currency Regulation Case,2023,Financial Regulatory Tribunal,Digital currency framework,Established regulatory framework for cryptocurrency operations in India,win
+104,I.C. Golaknath v. State of Punjab,1967,Full Constitutional Bench,Parliament's amendment powers limited,First case to limit Parliament's power to amend fundamental rights,win
+105,Charles Sobraj v. Superintendent of Central Jail,1988,Full Constitutional Bench,Prisoners' rights established,Established rights of prisoners including right to fair treatment,win
+106,Pro-CAA Protests Case,2004,Full Constitutional Bench,Protest within constitutional limits,Established constitutional limits and protections for public protests,win
+107,Sabarimala Review Petition,2019,Full Constitutional Bench,Religious practices vs. constitutional rights,Addressed balance between religious practices and constitutional rights of equality,win
+108,Uniform Civil Code Reference,2024,Full Constitutional Bench,Personal law vs. uniform code,Addressed constitutional framework for potential Uniform Civil Code implementation,win
+145,Kedarnath Singh v. State of Bihar,1962,Supreme Court of India,Defined limits of sedition law,Held that sedition applies only when there is incitement to violence or public disorder,win
+146,K M Nanavati v. State of Maharashtra,1961,Supreme Court of India,Established guidelines on provocation in murder cases,Addressed legal procedures in cases involving waging war against the state,win
+147,State v. Moti Lal,1973,Delhi High Court,Clarified depredation against friendly nations,Accused found guilty of attacking foreign property during peacetime,win
+148,Emperor v. Chhotalal,1920,Bombay High Court,Receiving war loot is equivalent to committing depredation,Accused received stolen war property,win
+149,R v. Gopal Chunder Roy,1874,Calcutta High Court,Public servants aiding escapes are liable,Public servant found guilty of letting a prisoner escape,win
+150,State of Uttar Pradesh v. Bhupendra,1980,Allahabad High Court,Negligence leading to escape is punishable,Prison warden failed to prevent a prisoner’s escape,win
+151,Kartar Singh v. State of Punjab,1994,Supreme Court of India,Harboring escapees is an offence,Addressed harboring of terrorists,win
+152,State v. Abdul Rashid,2001,Delhi High Court,Abetting military insubordination is punishable,Accused found guilty of instigating soldiers,win
+153,Queen v. Ramji,1864,Bombay High Court,Confirmed punishment for mutiny abetment,Mutiny was directly incited by the accused,win
+154,State v. Rajan,1978,Madras High Court,Abetment of assault on superior officers,Accused incited soldiers against superior officers,win
+155,Union of India v. Major E.G. Barsay,1961,Supreme Court of India,Defined abetment of superior assault,Army officer abetted assault on superior,win
+156,State v. Gopal Das,2003,Madhya Pradesh High Court,Desertion of soldiers is punishable,Accused assisted in desertion,win
+157,State v. Ramesh,2005,Karnataka High Court,Harboring a deserter is an offence,Accused provided shelter to a deserter,win
+158,R v. John Smith,1912,Bombay High Court,Negligence in hiding deserters on ships,Mercantile captain found guilty,win
+159,State v. Rahim Khan,2002,Delhi High Court,Insubordination abetment is punishable,Accused instigated defiance against superior officers,win
+160,Supreme Court Bar Association v. Union of India,1998,Supreme Court of India,Defined jurisdiction of military law,Clarified applicability of IPC in military cases,win
+161,R v. Williams,1937,Calcutta High Court,Unlawful wearing of military uniform punished,Accused posed as an army officer,win
+162,Babulal Parate v. State of Maharashtra,1961,Supreme Court of India,Defined unlawful assembly,Clarified powers of the state to control assemblies,win
+163,State v. Raja Ram,1991,Allahabad High Court,Punishment for unlawful assembly enforced,Convicted for being part of an unlawful assembly,win
+164,State v. Rajesh,1997,Delhi High Court,Unlawful assembly penalty enforced,Accused found guilty of illegal assembly,win
+165,Govind v. State,2005,Mumbai High Court,Joining armed unlawful assembly is punishable,Accused carried deadly weapons in an unlawful assembly,win
+166,Ram Narayan Singh v. State,1985,Patna High Court,Failure to disperse from unlawful assembly is punishable,Accused remained after orders to disperse,win
+167,State v. Suresh,2007,Madhya Pradesh High Court,Rioting includes collective violence,Accused engaged in mob violence,win
+168,State v. Mohan,2010,Karnataka High Court,Punishment for rioting clarified,Accused found guilty of rioting,win
+169,R v. Daulat Ram,1915,Bombay High Court,Rioting with deadly weapons punished,Accused found carrying weapons during riot,win
+170,State v. Anil,2018,Delhi High Court,Members of unlawful assembly equally responsible,Accused convicted for participation in unlawful assembly,win
+171,State vs Ramesh,2015,Supreme Court,Hiring individuals for unlawful assembly,The accused was found guilty of hiring people to join a protest that turned violent.,win
+172,People vs Anil,2017,High Court,Refusal to disperse from an unlawful assembly,Despite police orders  the accused continued protesting with more than five people.,win
+173,State vs Sunil,2018,District Court,Obstructing a police officer during riot control,The accused assaulted a police officer while he was dispersing a riot.,win
+174,State vs Manoj,2016,High Court,Provocation to cause riot,The accused made inflammatory speeches  inciting communal violence.,win
+175,Republic vs Sharma,2020,Supreme Court,Promoting enmity between religious groups,The accused posted hate speeches on social media  leading to riots.,win
+176,State vs Rafiq,2019,District Court,Carrying weapons in a procession,The accused was found carrying a firearm in a religious procession.,win
+177,People vs Verma,2021,High Court,Statements harming national integration,The accused made false allegations against a community  leading to communal tensions.,win
+178,State vs Kumar,2017,District Court,Allowing unlawful assembly on private land,The accused allowed his land to be used for an unlawful assembly despite police warnings.,win
+179,State vs Gupta,2022,Supreme Court,Benefitting from a riot,The accused was found guilty of orchestrating a riot to drive out tenants.,win
+180,People vs Yadav,2018,High Court,Harboring hired rioters,The accused provided shelter to individuals hired to participate in a riot.,win
+153/2021,State vs. A,2021,Supreme Court of India,A was found guilty of abetting mutiny, which led to a military rebellion.,win
+154/2019,State vs. B,2019,Delhi High Court,B was convicted for abetting an assault on a superior officer.,B,win
+155/2020,State vs. C,2020,Bombay High Court,C was convicted of abetting the assault on a superior officer, which resulted in actual harm.,win
+156/2021,State vs. D,2021,Karnataka High Court,D was convicted of abetting desertion, which led to the soldier abandoning his post.,win
+157/2018,State vs. E,2018,Madras High Court,E was convicted for harboring a deserter.,E was found guilty of harboring a soldier who had deserted his post. The soldier was hiding in E’s residence for several weeks.,win
+158/2019,State vs. F,2019,Rajasthan High Court,F was convicted for negligence for allowing a deserter to board a merchant vessel.,F,win
+159/2020,State vs. G,2020,Punjab and Haryana High Court,G was convicted for abetting insubordination.,G was found guilty of encouraging a soldier to disobey his superior officer,win
+160/2018,State vs. H,2018,Delhi High Court,H was convicted for wearing unauthorized military garb.,H was caught wearing a military uniform and carrying a military token without authorization,win
+161/2021,State vs. I,2021,Gujarat High Court,I was convicted for participating in an unlawful assembly with the intent to commit criminal acts.,I was part of a group that gathered with the intent to cause violence and destruction. The assembly was deemed unlawful.,win
+162/2020,State vs. J,2020,Andhra Pradesh High Court,J was convicted for rioting with a deadly weapon.,J participated in a riot armed with a sword,win
+163/2021,State vs. K,2021,Kerala High Court,K was convicted for rioting in furtherance of an unlawful assembly.,K participated in a violent riot where the group used force to disrupt public order,win
+164/2019,State vs. L,2019,Uttar Pradesh High Court,L was convicted for joining an unlawful assembly armed with a deadly weapon.,L joined a violent protest while armed with a knife,win
+165/2021,State vs. M,2021,Bihar High Court,M was convicted for knowingly joining an assembly after being ordered to disperse.,M knowingly participated in a large gathering that had been ordered to disperse by the authorities.,win
+166/2020,State vs. N,2020,Madhya Pradesh High Court,N was convicted for obstructing a public servant while suppressing a riot.,N obstructed the police officers who were attempting to control a riot,win
+167/2021,State vs. O,2021,Rajasthan High Court,O was convicted for giving provocative statements intending to cause a riot.,O made inflammatory speeches with the intent to provoke a riot between two groups.,win
+168/2020,State vs. P,2020,Madhya Pradesh High Court,P was convicted for participating in a riot.,P was found guilty of rioting during a public protest,win
+169/2021,State vs. Q,2021,Uttar Pradesh High Court,Q was convicted for rioting while armed with a deadly weapon.,Q participated in a riot while armed with a sharp weapon,win
+170/2020,State vs. R,2020,Delhi High Court,R was convicted as a member of an unlawful assembly.,R was part of an unlawful assembly,win
+171/2019,State vs. S,2019,Kerala High Court,S was convicted for hiring individuals to join an unlawful assembly.,S hired a group of individuals to participate in an unlawful assembly and commit acts of violence.,win
+172/2020,State vs. T,2020,Chhattisgarh High Court,T was convicted for knowingly remaining in an unlawful assembly after being ordered to disperse.,T was seen continuing to participate in an unlawful assembly after the authorities had ordered it to disperse.,win
+173/2021,State vs. U,2021,Andhra Pradesh High Court,U was convicted for obstructing a public servant during the suppression of a riot.,U was found guilty of obstructing the police while they were attempting to suppress a riot.,win
+174/2020,State vs. V,2020,Goa High Court,V was convicted for giving provocative statements with the intent to cause a riot.,V made inflammatory statements at a public gathering,win
+175/2019,State vs. W,2019,Maharashtra High Court,W was convicted for promoting enmity between groups based on religion.,W was found guilty of making provocative speeches that caused division between different religious communities.,win
+176/2021,State vs. X,2021,Bihar High Court,X was convicted for carrying arms in a procession.,X participated in a procession while carrying arms,win
+177/2020,State vs. Y,2020,Tamil Nadu High Court,Y was convicted for making false statements prejudicial to national integration.,Y made statements that undermined national unity and harmed public order.,win
+178/2019,State vs. Z,2019,Delhi High Court,Z was convicted for allowing an unlawful assembly on their property.,Z,win
+179/2021,State vs. AA,2021,Punjab and Haryana High Court,AA was convicted for benefiting from a riot.,AA was found to have benefited from the actions of a riot,win
+180/2020,State vs. BB,2020,West Bengal High Court,BB was convicted for being an agent of the property owner where a riot took place.,BB,win
+181/2021,State vs. CC,2021,Tamil Nadu High Court,CC was convicted for harboring individuals hired for an unlawful assembly.,CC knowingly provided shelter to individuals who were hired to participate in an unlawful assembly.,win
+182/2020,State vs. DD,2020,Madhya Pradesh High Court,DD was convicted for being hired to participate in a riot while armed.,DD was hired to participate in a riot while carrying a deadly weapon.,lose
+183/2019,State vs. EE,2019,Delhi High Court,EE was convicted for participating in an affray.,EE engaged in a violent public altercation that disturbed the peace.,lose
+184/2020,State vs. FF,2020,Kerala High Court,FF was convicted for committing an affray.,FF participated in a public fight disturbing the peace in a crowded area.,win
+185/2021,State vs. GG,2021,Karnataka High Court,GG was convicted for disobeying the law with intent to cause injury.,GG,win
+187/2020,State vs. II,2020,Andhra Pradesh High Court,II was convicted for non-treatment of a victim.,II,lose
+188/2019,State vs. JJ,2019,Uttar Pradesh High Court,JJ was convicted for framing a false document as a public servant.,JJ,win
+189/2020,State vs. KK,2020,Maharashtra High Court,KK was convicted for unlawfully engaging in trade.,KK,win
+190/2021,State vs. LL,2021,West Bengal High Court,LL was convicted for unlawfully bidding for property as a public servant.,LL,lose
+191/2020,State vs. MM,2020,Delhi High Court,MM was convicted for personating a public servant.,MM impersonated a public servant to gain unlawful benefits.,win
+192/2019,State vs. NN,2019,Karnataka High Court,NN was convicted for wearing the garb of a public servant with fraudulent intent.,NN wore the uniform of a public servant to deceive others into believing they were an official.,win
+193/2021,State vs. OO,2021,Andhra Pradesh High Court,OO was found guilty of using the terms “candidate” and “electoral right” fraudulently in an election.,OO manipulated the definition of electoral rights and candidate status to mislead voters.,win
+194/2020,State vs. PP,2020,Maharashtra High Court,PP was convicted for offering bribes to influence an election.,PP was caught offering a bribe to voters to sway the election results.,lose
+195/2019,State vs. QQ,2019,Uttar Pradesh High Court,QQ was convicted for exerting undue influence on voters in an election.,QQ used threats and intimidation to influence voters’ decisions in an election.,lose
+196/2021,State vs. RR,2021,Kerala High Court,RR was convicted for personating another during an election to cast a false vote.,RR was caught impersonating another voter and casting a fraudulent vote in an election.,win
+197/2020,State vs. SS,2020,Delhi High Court,SS was convicted for bribing an election official.,SS was convicted for attempting to bribe an election official to alter vote counts.,win
+198/2021,State vs. TT,2021,Madhya Pradesh High Court,TT was convicted for undue influence and personation at elections.,TT used threats to influence votes and also participated in personating another individual to vote.,lose
+199/2019,State vs. UU,2019,Chhattisgarh High Court,UU was convicted for making false statements related to election results.,UU was found guilty of making false public statements that damaged the integrity of the election process.,lose
+200/2020,State vs. AA,2020,Madhya Pradesh High Court,AA was convicted for making illegal payments in connection with an election.,AA was found guilty of offering bribes to influence voters during an election.,win
+201/2019,State vs. BB,2019,Delhi High Court,BB was convicted for failure to maintain election accounts.,BB failed to maintain the necessary accounts of election expenses as required by law.,win
+202/2021,State vs. CC,2021,Kerala High Court,CC was convicted for absconding to avoid service of summons.,CC intentionally avoided legal summons and proceedings.,lose
+203/2020,State vs. DD,2020,Rajasthan High Court,DD was convicted for preventing the service of a summons.,DD deliberately obstructed the service of a summons or other legal proceedings.,win
+204/2021,State vs. EE,2021,Chhattisgarh High Court,EE was convicted for failing to attend a public servant's order.,EE ignored an order from a public servant to attend a legal proceeding.,win
+205/2020,State vs. FF,2020,Uttar Pradesh High Court,FF was convicted for non-appearance in response to a proclamation.,FF failed to appear in response to a legal proclamation issued under section 82 of the CrPC.,win
+206/2019,State vs. GG,2019,Karnataka High Court,GG was convicted for omitting to produce a document to a public servant.,GG failed to produce a document as required by law when requested by a public servant.,lose
+207/2021,State vs. HH,2021,Kerala High Court,HH was convicted for failing to give notice to a public servant.,HH failed to provide required notice to a public servant when legally obligated to do so.,lose
+208/2019,State vs. II,2019,Maharashtra High Court,II was convicted for furnishing false information to a public servant.,II knowingly provided false information to a public servant.,win
+209/2020,State vs. JJ,2020,Delhi High Court,JJ was convicted for refusing to take an oath before a public servant.,JJ refused to take an oath when required by a public servant.,win
+210/2021,State vs. KK,2021,West Bengal High Court,KK was convicted for refusing to answer a public servant’s question.,KK refused to answer a question from an authorized public servant.,lose
+211/2019,State vs. LL,2019,Madhya Pradesh High Court,LL was convicted for refusing to sign a statement.,LL refused to sign a statement when required by a public servant.,lose
+212/2020,State vs. MM,2020,Rajasthan High Court,MM was convicted for making a false statement under oath to a public servant.,MM gave a false statement under oath to mislead a public servant.,win
+213/2021,State vs. NN,2021,Chhattisgarh High Court,NN was convicted for providing false information to a public servant.,NN knowingly provided false information with the intent to cause harm to someone.,win
+214/2019,State vs. OO,2019,Maharashtra High Court,OO was convicted for resisting the lawful taking of property.,OO resisted a public servant from taking property under lawful authority.,lose
+215/2020,State vs. PP,2020,Delhi High Court,PP was convicted for obstructing the sale of property by public authority.,PP obstructed the sale of property being carried out under the authority of a public servant.,win
+216/2021,State vs. QQ,2021,Karnataka High Court,QQ was convicted for illegally purchasing property sold by public authority.,QQ made an illegal bid to purchase property being sold under the authority of a public servant.,win
+217/2020,State vs. RR,2020,Tamil Nadu High Court,RR was convicted for obstructing a public servant in performing their duties.,RR obstructed a public servant while they were discharging their official functions.,win
+218/2019,State vs. SS,2019,Andhra Pradesh High Court,SS was convicted for omitting to assist a public servant when required by law.,SS failed to provide assistance to a public servant when they were legally bound to do so.,lose
+219/2021,State vs. TT,2021,West Bengal High Court,TT was convicted for disobeying a public servant's order.,TT disobeyed a properly promulgated order from a public servant.,lose
+220/2020,State vs. UU,2020,Madhya Pradesh High Court,UU was convicted for threatening a public servant.,UU was convicted for threatening to cause harm to a public servant to prevent them from performing their duties.,win
+221/2019,State vs. VV,2019,Karnataka High Court,VV was convicted for threatening to prevent a person from seeking protection from a public servant.,VV threatened to harm a person if they sought protection from a public servant.,win
+222/2021,State vs. WW,2021,Rajasthan High Court,WW was convicted for giving false evidence.,WW knowingly gave false evidence in a court proceeding.,lose
+223/2020,State vs. XX,2020,Delhi High Court,XX was convicted for fabricating false evidence.,XX fabricated evidence to mislead a judicial proceeding.,lose
+224/2021,State vs. YY,2021,Maharashtra High Court,YY was convicted for giving false evidence in a judicial proceeding.,YY was convicted for giving false testimony under oath.,win
+225/2020,State vs. ZZ,2020,Chhattisgarh High Court,ZZ was convicted for fabricating false evidence to procure a conviction for a capital offence.,ZZ fabricated evidence with the intent to wrongfully convict someone of a capital crime.,win
+226/2019,State vs. AA,2019,Uttar Pradesh High Court,AA was convicted for fabricating false evidence with intent to procure a conviction for life imprisonment.,AA fabricated evidence to wrongly convict someone of a crime punishable by life imprisonment.,lose
+227/2020,State vs. BB,2020,Kerala High Court,BB was convicted for threatening a person to give false evidence.,BB threatened to harm someone unless they provided false evidence in a legal proceeding.,win
+228/2021,State vs. CC,2021,Delhi High Court,CC was convicted for using known false evidence in court.,CC knowingly presented false evidence in a judicial proceeding.,win
+229/2020,State vs. DD,2020,Karnataka High Court,DD was convicted for issuing a false certificate.,DD,win
+230/2021,State vs. AA,2021,Delhi High Court,AA was convicted for using a certificate known to be false.,AA knowingly used a certificate as true when they were aware it was false.,lose
+231/2020,State vs. BB,2020,Madhya Pradesh High Court,BB was convicted for making a false statement in a legally receivable declaration.,BB made a false statement in a declaration that was to be used as evidence in court.,lose
+232/2019,State vs. CC,2019,Kerala High Court,CC was convicted for using a false declaration as true.,CC used a false declaration in a legal proceeding knowing it was false.,win
+233/2021,State vs. DD,2021,Chhattisgarh High Court,DD was convicted for causing the disappearance of evidence to screen an offender.,DD intentionally caused evidence to disappear to protect the offender.,win
+234/2020,State vs. EE,2020,Rajasthan High Court,EE was convicted for intentionally omitting to inform about an offence.,EE failed to report a crime to the authorities when legally required to do so.,lose
+235/2021,State vs. FF,2021,Uttar Pradesh High Court,FF was convicted for giving false information about a crime.,FF provided false details about an offence that had been committed.,lose
+236/2020,State vs. GG,2020,Delhi High Court,GG was convicted for destroying documents to prevent them from being used as evidence.,GG intentionally destroyed documents that could have been used in a legal proceeding.,win
+237/2021,State vs. HH,2021,Kerala High Court,HH was convicted for impersonating someone for a legal proceeding.,HH fraudulently impersonated another person to gain an advantage in a lawsuit.,win
+238/2020,State vs. II,2020,Maharashtra High Court,II was convicted for fraudulent removal of property to prevent its seizure.,II concealed property to prevent its seizure under legal proceedings.,lose
+239/2021,State vs. JJ,2021,Chhattisgarh High Court,JJ was convicted for making a fraudulent claim to prevent seizure of property.,JJ made a fraudulent claim regarding ownership of property to avoid its seizure.,win
+240/2020,State vs. KK,2020,Karnataka High Court,KK was convicted for fraudulently obtaining a decree for an amount not due.,KK fraudulently obtained a decree for an amount that was not actually due.,win
+241/2019,State vs. LL,2019,Andhra Pradesh High Court,LL was convicted for dishonestly making a false claim in court.,LL made a dishonest claim to the court that was false.,win
+242/2020,State vs. MM,2020,Delhi High Court,MM was convicted for fraudulently obtaining a decree for an amount not due.,MM fraudulently obtained a court decree for a sum that was not legally due.,lose
+243/2021,State vs. NN,2021,Rajasthan High Court,NN was convicted for falsely charging someone with an offence.,NN made a false charge against another person to cause harm.,lose
+244/2019,State vs. OO,2019,Chhattisgarh High Court,OO was convicted for harbouring an offender.,OO knowingly harboured a criminal offender to protect them from law enforcement.,win
+245/2020,State vs. PP,2020,Madhya Pradesh High Court,PP was convicted for taking a gift to help an offender escape punishment.,PP accepted a bribe in exchange for assisting an offender to avoid punishment.,win
+246/2021,State vs. QQ,2021,Kerala High Court,QQ was convicted for offering a gift to help an offender avoid punishment.,QQ offered a gift to influence the outcome of an offender's case and avoid punishment.,lose
+247/2019,State vs. RR,2019,Delhi High Court,RR was convicted for taking a gift to help recover stolen property.,RR accepted a gift in exchange for assisting in recovering stolen property.,lose
+248/2020,State vs. SS,2020,Maharashtra High Court,SS was convicted for harbouring an offender who had escaped custody.,SS knowingly harboured an offender who had escaped from lawful custody.,win
+249/2021,State vs. TT,2021,Chhattisgarh High Court,TT was convicted for harbouring robbers or dacoits.,TT harboured a group of robbers to avoid them being caught by law enforcement.,win
+250/2020,State vs. UU,2020,West Bengal High Court,UU was convicted for disobeying lawful directions of a public servant.,UU,lose
+251/2021,State vs. VV,2021,Kerala High Court,VV was convicted for framing incorrect records to protect a person from punishment.,VV intentionally made incorrect records to help someone avoid punishment.,win
+252/2019,State vs. WW,2019,Delhi High Court,WW was convicted for corruptly making a report in a judicial proceeding.,WW,win
+253/2020,State vs. XX,2020,Karnataka High Court,XX was convicted for committing someone to trial knowing it was contrary to law.,XX unlawfully committed someone to trial with knowledge that it was not legal.,win
+254/2021,State vs. YY,2021,Rajasthan High Court,YY was convicted for intentionally omitting to apprehend someone.,YY,lose
+255/2020,State vs. ZZ,2020,Madhya Pradesh High Court,ZZ was convicted for negligence allowing an offender to escape.,ZZ failed to prevent an offender’s escape from lawful custody due to negligence.,lose
+256/2021,State vs. AA,2021,Kerala High Court,AA was convicted for obstructing their lawful apprehension.,AA resisted being apprehended by the authorities.,win
+257/2019,State vs. BB,2019,Delhi High Court,BB was convicted for obstructing the lawful apprehension of another.,BB resisted the lawful apprehension of another individual by authorities.,win
+258/2020,State vs. CC,2020,West Bengal High Court,CC was convicted for omission to apprehend or sufferance of escape.,CC,lose
+301/2021,State vs. AA,2021,Delhi High Court,AA was convicted for fraudulent use of a false instrument for weighing.,AA used a false instrument to deceive customers by misrepresenting the weight of goods.,lose
+302/2020,State vs. BB,2020,Maharashtra High Court,BB was convicted for fraudulent use of false weight.,BB used a false weight to deceive customers and cause financial loss.,win
+303/2021,State vs. CC,2021,Kerala High Court,CC was convicted for being in possession of false weights.,CC was found in possession of false weights intending to defraud others.,win
+304/2020,State vs. DD,2020,Chhattisgarh High Court,DD was convicted for making and selling false weights.,DD was found guilty of making and selling false weights to deceive customers.,lose
+305/2021,State vs. EE,2021,Karnataka High Court,EE was convicted for causing public nuisance.,EE was found guilty of actions that disrupted public health and safety.,win
+306/2020,State vs. FF,2020,Rajasthan High Court,FF was convicted for negligent acts likely to spread infection.,FF was negligent in handling a contagious disease,win
+307/2021,State vs. GG,2021,Delhi High Court,GG was convicted for a malignant act likely to spread infection.,GG deliberately spread a dangerous infection,win
+308/2020,State vs. HH,2020,West Bengal High Court,HH was convicted for disobedience to quarantine rules.,HH violated quarantine rules during a pandemic,lose
+309/2021,State vs. II,2021,Madhya Pradesh High Court,II was convicted for adulterating food for sale.,II was found guilty of adulterating food products to sell to customers.,lose
+310/2020,State vs. JJ,2020,Chhattisgarh High Court,JJ was convicted for selling noxious food.,JJ sold harmful and unsafe food to customers,win
+311/2021,State vs. KK,2021,Kerala High Court,KK was convicted for adulterating drugs.,KK adulterated pharmaceutical drugs,win
+312/2020,State vs. LL,2020,Karnataka High Court,LL was convicted for selling adulterated drugs.,LL was found guilty of selling drugs that had been adulterated and did not meet safety standards.,lose
+313/2021,State vs. MM,2021,Rajasthan High Court,MM was convicted for selling a drug under a different name.,MM misrepresented one drug as another,lose
+314/2020,State vs. NN,2020,Delhi High Court,NN was convicted for fouling water of a public reservoir.,NN was found guilty of polluting a public water source,win
+315/2021,State vs. OO,2021,Madhya Pradesh High Court,OO was convicted for making the atmosphere noxious to health.,OO was found guilty of releasing harmful substances into the atmosphere.,win
+316/2020,State vs. PP,2020,Chhattisgarh High Court,PP was convicted for rash driving on a public way.,PP was found guilty of driving recklessly,lose
+317/2021,State vs. QQ,2021,West Bengal High Court,QQ was convicted for rash navigation of a vessel.,QQ navigated a vessel recklessly,win
+318/2020,State vs. RR,2020,Karnataka High Court,RR was convicted for exhibiting false light on a navigational route.,RR was found guilty of exhibiting misleading lights that caused confusion and risked safety.,win
+319/2021,State vs. SS,2021,Kerala High Court,SS was convicted for unsafe conveyance of passengers on a vessel.,SS was found guilty of operating an unsafe and overloaded vessel.,win
+320/2020,State vs. TT,2020,Chhattisgarh High Court,TT was convicted for creating danger on a public way.,TT obstructed public roads,lose
+321/2021,State vs. UU,2021,Delhi High Court,UU was convicted for negligent conduct with respect to poisonous substance.,UU was found negligent in handling poisonous substances,lose
+322/2020,State vs. VV,2020,Madhya Pradesh High Court,VV was convicted for negligent conduct with fire.,VV was found guilty of negligent conduct involving fire,win
+323/2021,State vs. WW,2021,West Bengal High Court,WW was convicted for negligent conduct with explosives.,WW was found guilty of mishandling explosives that endangered public safety.,win
+324/2020,State vs. XX,2020,Delhi High Court,XX was convicted for negligent conduct with machinery.,XX was found guilty of operating machinery in a negligent manner,lose
+325/2021,State vs. YY,2021,Chhattisgarh High Court,YY was convicted for negligent conduct during building repairs.,YY caused an accident during building repairs due to negligence.,lose
+326/2020,State vs. ZZ,2020,Karnataka High Court,ZZ was convicted for negligent conduct with animals.,ZZ failed to control their animal,win
+327/2021,State vs. AA,2021,Madhya Pradesh High Court,AA was convicted for public nuisance.,AA was found guilty of creating a public nuisance that affected public peace and health.,win
+328/2020,State vs. BB,2020,West Bengal High Court,BB was convicted for continuing a nuisance after an injunction.,BB ignored an injunction to stop their actions that were causing a public nuisance.,lose
+329/2021,State vs. CC,2021,Delhi High Court,CC was convicted for selling obscene material.,CC was found guilty of selling obscene books and materials to the public.,win
+330/2021,State vs. AA,2021,Delhi High Court,AA was convicted for selling obscene objects to a young person.,AA was found guilty of distributing obscene materials to a person under 20 years of age.,win
+331/2020,State vs. BB,2020,Kerala High Court,BB was convicted for performing obscene acts in public.,BB was found guilty of performing obscene acts that disrupted public order.,win
+332/2021,State vs. CC,2021,Madhya Pradesh High Court,CC was convicted for operating a lottery office illegally.,CC was found guilty of running a lottery office in violation of the law.,lose
+333/2020,State vs. DD,2020,Chhattisgarh High Court,DD was convicted for defiling a place of worship.,DD was found guilty of injuring a religious place with intent to insult a religion.,lose
+334/2021,State vs. EE,2021,Delhi High Court,EE was convicted for deliberate and malicious acts to outrage religious feelings.,EE was found guilty of intentionally insulting religious feelings through derogatory acts.,win
+335/2020,State vs. FF,2020,Karnataka High Court,FF was convicted for disturbing a religious assembly.,FF was found guilty of disturbing the peace during a religious gathering.,win
+336/2021,State vs. GG,2021,Kerala High Court,GG was convicted for trespassing on a burial place.,GG was found guilty of trespassing on a cemetery and disrespecting the deceased.,lose
+337/2020,State vs. HH,2020,West Bengal High Court,HH was convicted for uttering words to wound religious feelings.,HH was found guilty of making remarks intended to insult a religious group.,lose
+338/2021,State vs. II,2021,Madhya Pradesh High Court,II was convicted for culpable homicide.,II was found guilty of causing death with the intent to kill.,win
+339/2020,State vs. JJ,2020,Rajasthan High Court,JJ was convicted for murder.,JJ intentionally killed a person with malicious intent.,win
+340/2021,State vs. KK,2021,Delhi High Court,KK was convicted for culpable homicide of an unintended victim.,KK accidentally killed someone other than their intended target.,lose
+341/2020,State vs. LL,2020,Chhattisgarh High Court,LL was convicted for murder.,LL was convicted for committing murder with clear intent and malice.,win
+342/2021,State vs. MM,2021,Kerala High Court,MM was convicted for murder as a life convict.,MM,win
+343/2020,State vs. NN,2020,Madhya Pradesh High Court,NN was convicted for culpable homicide not amounting to murder.,NN caused death unintentionally,win
+344/2021,State vs. OO,2021,Chhattisgarh High Court,OO was convicted for causing death by negligence.,OO caused an accidental death through negligence without intention to harm.,lose
+345/2020,State vs. PP,2020,Delhi High Court,PP was convicted for dowry death.,PP was found guilty of causing a woman's death due to dowry-related violence.,lose
+346/2021,State vs. QQ,2021,Rajasthan High Court,QQ was convicted for abetment of suicide of an insane person.,QQ was found guilty of encouraging an insane person to commit suicide.,win
+347/2020,State vs. RR,2020,Karnataka High Court,RR was convicted for abetment of suicide.,RR was convicted for encouraging another person to take their own life.,win
+348/2021,State vs. SS,2021,Chhattisgarh High Court,SS was convicted for attempting to murder.,SS was found guilty of attempting to murder a victim with a dangerous weapon.,lose
+349/2020,State vs. TT,2020,Kerala High Court,TT was convicted for attempting to commit culpable homicide.,TT attempted to cause death but was unsuccessful.,lose
+350/2021,State vs. UU,2021,Delhi High Court,UU was convicted for attempting to commit suicide.,UU was found guilty of attempting suicide under circumstances that required legal intervention.,win
+351/2020,State vs. VV,2020,Rajasthan High Court,VV was convicted for being a thug.,VV was found guilty of participating in a gang that committed violent acts of strangulation.,win
+352/2021,State vs. WW,2021,Madhya Pradesh High Court,WW was convicted for thug-like criminal activities.,WW was involved in strangulation as part of a criminal gang.,lose
+353/2020,State vs. XX,2020,West Bengal High Court,XX was convicted for causing miscarriage.,XX caused a miscarriage either through direct action or negligence.,win
+354/2021,State vs. YY,2021,Karnataka High Court,YY was convicted for causing miscarriage without consent.,YY was found guilty of causing miscarriage without the woman's consent.,win
+355/2020,State vs. ZZ,2020,Delhi High Court,ZZ was convicted for causing death by act done with intent to cause miscarriage.,ZZ caused a death in the process of attempting to induce a miscarriage without consent.,win
+356/2021,State vs. AA,2021,Chhattisgarh High Court,AA was convicted for preventing a child from being born alive.,AA was found guilty of actions intended to prevent a child from being born alive.,lose
+357/2020,State vs. BB,2020,Karnataka High Court,BB was convicted for causing death of a quick unborn child.,BB caused the death of an unborn child that had reached the stage of quickening.,lose
+358/2021,State vs. CC,2021,Delhi High Court,CC was convicted for abandoning a child under twelve years.,CC was found guilty of abandoning a child under 12,win
+359/2020,State vs. DD,2020,Rajasthan High Court,DD was convicted for concealing the birth of a dead child.,DD was found guilty of secretly disposing of a dead child's body.,win
+360/2021,State vs. AA,2021,Delhi High Court,AA was convicted for voluntarily causing hurt.,AA was found guilty of intentionally inflicting harm or torture on another person.,lose
+361/2020,State vs. BB,2020,Karnataka High Court,BB was convicted for voluntarily causing grievous hurt.,BB intentionally inflicted grievous injuries that caused serious damage.,lose
+362/2021,State vs. CC,2021,Kerala High Court,CC was convicted for causing hurt by dangerous means.,CC was found guilty of causing harm or torture using a dangerous weapon.,lose
+363/2020,State vs. DD,2020,Madhya Pradesh High Court,DD was convicted for causing grievous hurt.,DD intentionally inflicted injuries that resulted in permanent damage.,lose
+364/2021,State vs. EE,2021,Chhattisgarh High Court,EE was convicted for voluntarily causing grievous hurt.,EE was found guilty of inflicting grievous injuries that caused permanent disability.,lose
+365/2020,State vs. FF,2020,West Bengal High Court,FF was convicted for voluntarily causing hurt.,FF was found guilty of intentionally inflicting harm that caused pain but not serious injury.,lose
+366/2021,State vs. GG,2021,Rajasthan High Court,GG was convicted for causing grievous hurt with dangerous weapons.,GG was found guilty of using a dangerous weapon to cause grievous hurt.,lose
+367/2020,State vs. HH,2020,Delhi High Court,HH was convicted for voluntarily causing grievous hurt by acid.,HH was found guilty of causing severe harm using acid as a weapon.,lose
+368/2021,State vs. II,2021,Kerala High Court,II was convicted for attempting to throw acid.,II was found guilty of attempting to throw acid to cause harm.,lose
+369/2020,State vs. JJ,2020,Chhattisgarh High Court,JJ was convicted for causing hurt to extort property.,JJ was found guilty of using harm as a tool to extort money from the victim.,lose
+370/2021,State vs. KK,2021,Karnataka High Court,KK was convicted for causing hurt with poison.,KK was found guilty of poisoning the victim with the intent to commit a crime.,lose
+371/2020,State vs. LL,2020,Rajasthan High Court,LL was convicted for causing grievous hurt to extort property.,LL intentionally inflicted grievous harm with the goal of extorting property.,lose
+372/2021,State vs. MM,2021,Madhya Pradesh High Court,MM was convicted for causing grievous hurt to compel confession.,MM was found guilty of inflicting harm to extort a confession.,lose
+373/2020,State vs. NN,2020,Delhi High Court,NN was convicted for causing grievous hurt to restore property.,NN intentionally caused grievous harm to compel the return of stolen property.,lose
+374/2021,State vs. OO,2021,Kerala High Court,OO was convicted for causing grievous hurt to a public servant.,OO was found guilty of inflicting grievous harm to prevent a public servant from performing their duties.,lose
+375/2020,State vs. PP,2020,Chhattisgarh High Court,PP was convicted for causing grievous hurt to deter a public servant.,PP was found guilty of injuring a public servant to hinder their work.,lose
+376/2021,State vs. QQ,2021,Karnataka High Court,QQ was convicted for causing hurt on provocation.,QQ was found guilty of inflicting harm in response to provocation.,lose
+377/2020,State vs. RR,2020,West Bengal High Court,RR was convicted for causing grievous hurt on provocation.,RR was found guilty of inflicting grievous harm in response to provocation.,lose
+378/2021,State vs. SS,2021,Madhya Pradesh High Court,SS was convicted for endangering life.,SS was found guilty of an act that endangered the life and personal safety of others.,lose
+379/2020,State vs. TT,2020,Chhattisgarh High Court,TT was convicted for endangering personal safety.,TT was found guilty of performing an act that endangered the personal safety of others.,lose
+1959_AIR_136,Kedar Nath Singh v. State of Bihar,1962,Supreme Court of India,Constitutional validity of sedition law,The Court upheld Section 124A but narrowed its scope to apply only to acts involving incitement to violence or public disorder against the State,lose
+1973_AIR_231,Madhavi v. State of Madhya Pradesh,1972,Supreme Court of India,Difference between murder and culpable homicide,Clarified Section 300 murder vs Section 304 culpable homicide not amounting to murder based on intention and knowledge,win
+1978_AIR_597,Moti Ram v. State of Madhya Pradesh,1978,Supreme Court of India,Right to bail under Section 436 and 437,Established that bail should be the rule and jail the exception; courts should be liberal in granting bail,win
+1983_AIR_957,Bachan Singh v. State of Punjab,1980,Supreme Court of India,Constitutional validity of death penalty,Upheld constitutionality of death penalty under Section 302 IPC but restricted it to rarest of rare cases only,lose
+1985_AIR_1618,Kartar Singh v. State of Punjab,1994,Supreme Court of India,Constitutionality of TADA provisions,Examined Section 120B IPC criminal conspiracy in relation to special laws,lose
+1991_SCR_1,Shivaji Sahebrao Bobade v. State of Maharashtra,1973,Supreme Court of India,Principle of benefit of doubt,Established that reasonable doubt in cases under Section 302 murder must benefit the accused,win
+1995_SCC_14,State of M.P. v. Shobharam,1966,Supreme Court of India,Distinction between theft and robbery,Clarified elements required to establish offenses under Section 379 theft versus Section 392 robbery,lose
+AIR_1996_SC_1393,State of Maharashtra v. Christian Community Welfare Council,1996,Supreme Court of India,Interpretation of Section 498A,Established guidelines for handling dowry harassment and domestic violence  cases under Section 498A,lose
+2004_SCC_158,State of Rajasthan v. Narayan,2004,Supreme Court of India,Requirements for conviction in rape cases,Clarified Section 376 rape evidentiary standards and victim testimony value,win
+2005_AIR_5590,State of Karnataka v. Krishnappa,2000,Supreme Court of India,Sexual assault against minors,Set precedent for strict interpretation of Section 376 rape involving minor victims,win
+2010_14_SCC_641,Lalita Kumari v. Govt. of U.P.,2014,Supreme Court of India,Mandatory FIR registration,Made registration of FIR mandatory under Section 154 for cognizable offenses,win
+2013_7_SCC_77,Aruna Ramchandra Shanbaug v. Union of India,2011,Supreme Court of India,Passive euthanasia legality,Interpreted Section 306 attempted suicide and recognized passive euthanasia in certain circumstances,win
+2014_AIR_SC_1863,Suresh Kumar Koushal v. Naz Foundation,2013,Supreme Court of India,Constitutionality of Section 377,Upheld Section 377 criminalizing homosexual acts between consenting adults,lose
+2018_SC_1676,Navtej Singh Johar v. Union of India,2018,Supreme Court of India,Decriminalization of homosexuality,Struck down Section 377 as unconstitutional insofar as it criminalized consensual sexual conduct between adults,win
+2019_AIR_SC_1278,Joseph Shine v. Union of India,2018,Supreme Court of India,Adultery law unconstitutional,Struck down Section 497 that criminalized adultery as unconstitutional,win
+2020_SCC_1,K.S. Puttaswamy v. Union of India,2017,Supreme Court of India,Right to privacy,Established right to privacy as fundamental right affecting interpretation of several IPC sections,win
+2020_SCC_OnLine_SC_345,Vishaka v. State of Rajasthan,1997,Supreme Court of India,Sexual harassment at workplace,Established guidelines under Section 354 and Section 509 before enactment of special laws,win
+CRM_1279_2022,P. Rathinam v. Union of India,1994,Supreme Court of India,Attempted suicide decriminalization,Declared Section 309 attempted suicide unconstitutional but later overruled,win
+CRL_A_249_2004,State of Punjab v. Gurmit Singh,1996,Supreme Court of India,Evidence in sexual offense cases,Set standards for victim testimony credibility under Section 376 rape cases,win
+SLP_CRLMP_5596_2012,Arnesh Kumar v. State of Bihar,2014,Supreme Court of India,Arrest procedures in dowry cases,Issued guidelines restricting automatic arrests under Section 498A dowry harassment,win
+2011_CR_LJ_2560,State of Maharashtra v. Alka Shinde,2011,Supreme Court of India,Drunken driving causing death,Court held that causing death by negligence under Section 304A IPC applies to drunken driving causing fatal accidents,lose
+2007_CR_LJ_3009,State of Tamil Nadu v. Raj Kumar,2007,Madras High Court,Blood alcohol testing standards,Established admissibility standards for breath analyzer and blood alcohol test results under Section 279 IPC along with Motor Vehicles Act,win
+2016_SCC_ONLINE_SC_979,State of Punjab v. Harjinder Singh,2016,Supreme Court of India,Culpable homicide vs negligence,Distinguished drunk driving resulting in death as culpable homicide under Section 304 Part II rather than mere negligence under Section 304A,win
+2012_AIR_SC_3539,Dalbir Singh v. State of Haryana,2000,Supreme Court of India,Drunk driving as knowledge of death,Established that driving under severe intoxication shows knowledge that death may result applying Section 304 Part II IPC,lose
+2013_CR_LJ_3928,Siddharth Bhatnagar v. State,2013,Delhi High Court,Non-fatal drunken accident standard,Applied rash and negligent act endangering human life under Section 336 IPC for non-fatal drunken driving accidents,win
+2007_CR_LJ_3614,Ramesh Kumar v. State of Maharashtra,2007,Bombay High Court,Chain snatching as robbery,Court held that snatching gold chain with force amounts to robbery under Section 392 IPC rather than theft under Section 379,win
+2012_SCC_ONLINE_BOM_1554,Bantu Shivaji Mhaske v. State of Maharashtra,2012,Bombay High Court,Use of force in chain snatching,Established that any force used while snatching chain constitutes robbery under Section 392 even without causing injury,win
+2015_ALL_MR_CRI_2855,Prakash Nath v. State,2015,Delhi High Court,Evidence standards in chain snatching,Set evidence standards for chain snatching cases under Section 392 IPC including witness testimony reliability,lose
+2010_Cr_LJ_1254,State v. Mahendra Singh,2010,Delhi High Court,Distinction between theft and robbery,Clarified when chain snatching constitutes theft under Section 379 versus robbery under Section 392 based on force used,win
+2018_SCC_ONLINE_MAD_2544,Manoharan v. State of Tamil Nadu,2018,Madras High Court,Chain snatching as extortion,Distinguished between chain snatching as robbery Section 392 versus extortion Section 383 based on threat element,win
+2014_AIR_SC_3060,Rafiq Ahmad v. State of UP,2014,Supreme Court of India,Use of violence in chain snatching,Established that use of minimal force in chain snatching elevates the offense from theft to robbery under Section 392,win
+2012_CR_LJ_2404,Sunil Kumar v. State of Rajasthan,2012,Rajasthan High Court,Identification in chain snatching,Set standards for witness identification validity in chain snatching cases under Section 392,lose
+1982_CR_LJ_1103,Gopal Lal v. State of Rajasthan,1982,Rajasthan High Court,Elements of fraudulent marriage,Established essential elements for conviction under Section 496 including deception and knowledge of prior existing marriage,win
+1990_AIR_SC_1412,Pashaura Singh v. State of Punjab,1990,Supreme Court of India,Distinction from bigamy,Distinguished Section 496 fraudulent marriage from Section 494 bigamy based on intent to deceive rather than concurrent marriages,win
+2005_CR_LJ_2812,Adil Khan v. State of Delhi,2005,Delhi High Court,Proof of deception,Established that prosecution must prove deceptive intent at time of marriage ceremony for Section 496 conviction,lose
+2010_SCC_ONLINE_AP_526,Ramesh Kumar v. State of Andhra Pradesh,2010,Andhra Pradesh High Court,False representation of religion,Held that misrepresentation of religion to perform marriage under false pretenses constitutes offense under Section 496,win
+1998_SCC_ONLINE_BOM_696,Prakash Chandra v. State of Maharashtra,1998,Bombay High Court,Going through ceremony knowing invalidity,Clarified that knowledge of marriage invalidity is essential element for Section 496 conviction,win
+2013_CR_LJ_3298,Meena Kumari v. State of Haryana,2013,Punjab & Haryana High Court,Concurrent prosecution with Section 420,Permitted concurrent prosecution under Section 496 and Section 420 cheating in fraudulent marriage cases,win
+2015_SCC_ONLINE_SC_1243,Deepak Gulati v. State of Haryana,2015,Supreme Court of India,False promise of marriage vs fraudulent ceremony,Distinguished between false promise of marriage Section 375 rape and fraudulent marriage ceremony under Section 496,lose
+369,Kidnapping Case (State vs X),2015,Delhi High Court,The court held that the accused forcibly took the victim and kept them confined without consent,The case involved a minor being kidnapped by a stranger for ransom,win
+370,Online Defamation (State vs Y),2017,Mumbai Sessions Court,The accused was found guilty of spreading false defamatory content online,The accused spread defamatory content about a prominent individual on social media resulting in harm to their reputation,lose
+371,Online Fraud Case (State vs Z),2019,Kolkata High Court,The court ruled that the accused had misused online platforms to defraud  the victim of money,The accused set up a fake e-commerce website and tricked users into buying non-existent products,win
+372,Kidnapping and Ransom (State vs A),2020,Allahabad High Court,The court found that the accused had kidnapped the victim for ransom,The accused kidnapped a businessman's child demanding a ransom,lose
+373,Online Harassment (State vs B),2018,Hyderabad Sessions Court,The accused was found guilty of cyberstalking and harassment via social media,The accused sent threatening messages to a woman online and attempted to extort money from her,lose
+376,Online Child Exploitation (State vs C),2021,Bangalore High Court,The court convicted the accused of distributing child pornography online,The accused was caught distributing explicit content of minors via a dark web platform,lose
+377,Kidnapping for Marriage (State vs D),2016,Chandigarh High Court,The court acquitted the accused citing lack of evidence and misinterpretation of intentions,The accused allegedly kidnapped a woman with the intention of marrying her without her consent,lose
+378,Phishing Attack Case (State vs E),2022,Delhi Sessions Court,The accused was convicted for a phishing scam involving bank account details,The accused stole personal banking information from victims via fake emails and online links,lose
+379,Money Laundering Case (ED vs X),2018,Delhi High Court,The accused was found guilty of laundering money through shell companies,The accused used fake companies to launder large sums of money generated through illegal activities,win
+380,Gold Smuggling Case (State vs Yusuf),2019,Kerala High Court,The accused was convicted for smuggling gold into India and evading customs duties,The accused smuggled gold from the Middle East by hiding it inside goods,lose
+381,Money Laundering (State vs Z),2020,Bangalore Sessions Court,The court ruled that the accused had transferred funds to foreign accounts using illegal methods,The accused was involved in money laundering through fake investment schemes to move funds out of India,win
+382,Gold Smuggling (Customs vs Abhijith),2021,Chennai High Court,The accused was found guilty of gold smuggling and was sentenced to imprisonment,The accused smuggled gold in large quantities using false customs declarations,lose
+383,Money Laundering (ED vs B),2022,Mumbai High Court,The accused was acquitted due to insufficient evidence of money laundering activities,The accused was accused of laundering money through fraudulent business transactions,lose
+384,Gold Smuggling (State vs C),2023,Hyderabad High Court,The accused was found guilty of smuggling gold via the air cargo route,The accused attempted to bring gold illegally into India using a cargo flight,win
+385,Money Laundering (ED vs D),2021,Delhi Special Court,The accused was convicted for money laundering involving illicit drug trade profits,The accused laundered money from illegal drug sales through overseas bank accounts,win
+386,Gold Smuggling (Customs vs E),2022,Kochi High Court,The court dismissed the case due to lack of concrete evidence linking the accused to the smuggling operation,The accused was suspected of smuggling gold into India but there was no conclusive proof,lose
+387,Financial Fraud Case (State vs A),2018,Delhi High Court,The accused was found guilty of embezzling funds from investors,The accused operated a Ponzi scheme collecting money from investors with false promises of high returns,win
+388,Insurance Scam (State vs B),2017,Mumbai Sessions Court,The accused was convicted for filing fake insurance claims,The accused created fake accident documents to claim insurance for a non-existent vehicle accident,win
+389,Financial Fraud Case (ED vs C),2020,Bangalore Special Court,The accused was convicted for money laundering involving fraudulent loans,The accused misused their position in a bank to approve fake loans and siphon off funds,win
+390,Insurance Fraud (State vs D),2019,Chennai High Court,The court acquitted the accused citing lack of evidence,The accused was accused of forging documents to collect insurance money for a staged fire in their business,lose
+391,Financial Fraud (State vs E),2021,Hyderabad High Court,The court found the accused guilty of defrauding clients in a fraudulent investment scheme,The accused promised high returns on investments but used the money for personal gain,win
+392,Insurance Scam (State vs F),2018,Delhi Sessions Court,The accused was convicted for submitting fake health insurance claims,The accused forged medical documents and billed a health insurance company for non-existent treatments,win
+393,Financial Fraud Case (CBI vs G),2022,Allahabad High Court,The accused was found guilty of defrauding public sector banks through fake companies,The accused used fake companies and documents to siphon off funds from public sector banks,win
+394,Insurance Fraud (State vs H),2020,Kolkata High Court,The court dismissed the case due to lack of conclusive evidence,The accused was accused of filing a fake life insurance claim for a deceased relative but failed to prove the death was fraudulent,lose
+395,Burglary Case (State vs Abhiram),2017,Mumbai Sessions Court,The accused was found guilty of breaking into a house and stealing valuables,The accused broke into a residence at night and stole jewelry and cash from the property,win
+396,Human Trafficking (State vs Binu),2019,Delhi High Court,The accused was convicted for trafficking women for prostitution,The accused was running a human trafficking ring to exploit women for commercial sexual exploitation,win
+397,Burglary Case (State vs Chandran),2020,Chennai Sessions Court,The accused was acquitted due to lack of evidence,The accused was charged with breaking into a store or burglary and stealing goods but there was insufficient evidence to prove their involvement,lose
+398,Human Trafficking (State vs Darshini),2021,Kolkata High Court,The court found the accused guilty of trafficking minors for forced labor,The accused trafficked children from rural areas and forced them into bonded labor in urban factories,win
+399,Burglary Case (State vs E),2022,Hyderabad High Court,The accused was convicted of breaking into a commercial establishment or burglary and stealing electronics,The accused entered a store after hours and stole expensive electronic devices,lose
+400,Human Trafficking (State vs Freddy),2018,Bangalore Sessions Court,The accused was acquitted for lack of concrete evidence linking them to the trafficking ring,The accused was allegedly involved in trafficking women for domestic work but no direct evidence was found,lose
+401,Burglary Case (State vs Gopan),2019,Pune District Court,The accused was found guilty of breaking into a house and committing theft,The accused broke into a house ransacked it and stole electronics and money,lose
+402,Human Trafficking (State vs Hari),2020,Delhi Special Court,The court convicted the accused for trafficking people for forced labor in the construction industry,The accused recruited people under false pretenses and subjected them to forced labor in hazardous construction sites,win
+403,Indira Gandhi v. Raj Narain,1975,Supreme Court,The Supreme Court upheld the 39th Constitutional Amendment and ruled it was not beyond the scope of Parliament's power,The case focused on the validity of the 39th Amendment that protected the election of the Prime Minister from judicial review,win
+404,Minerva Mills Ltd. v. Union of India,1980,Supreme Court,The court struck down parts of the 42nd Amendment as it violated the basic structure of the Constitution,The case was a landmark decision on the power of the Parliament to amend the Constitution and the limits of such power,win
+405,Re: The Kerala Education Bill,1958,Supreme Court,The Supreme Court ruled that the Kerala Education Bill violated the right to property under the Constitution,The case dealt with the amendment of the Constitution regarding property rights and the control of education in Kerala,win
+406,Golaknath v. State of Punjab,1967,Supreme Court,The court ruled that fundamental rights cannot be amended by Parliament,The case arose when the Parliament attempted to amend the Constitution to limit the right to property,win
+407,Shankari Prasad v. Union of India,1951,Supreme Court,The Supreme Court upheld Parliament's power to amend or change any part of the Constitution including fundamental rights,The case dealt with the validity of the First Amendment to the Constitution which was challenged as it curtailed the right to property,win
+408,National Judicial Appointments Commission v. Union of India,2015,Supreme Court,The Supreme Court struck down the 99th Amendment Act and the National Judicial Appointments Commission as unconstitutional,The case questioned the amendment to bring a new body for judicial appointments and its potential interference with judicial independence,win
+409,Jaipur Jewellery Heist,2008,Rajasthan High Court,Large-scale Jewelry Theft,Sophisticated robbery of multiple jewelry stores in Jaipur,win
+410,Kolkata Museum Theft,1991,Calcutta High Court,Rare Artifact Robbery,Theft of valuable artifacts from a prominent museum,lose
+411,Delhi Bank Robbery,2005,Delhi High Court,Armed Bank Heist,Armed robbery of a commercial bank in central Delhi,win
+412,Mumbai Antique Smuggling Ring,2012,Mumbai High Court,Organized Crime Robbery,Large-scale theft and smuggling of historical artifacts,win
+413,Chennai Gold Smuggling Case,2015,Madras High Court,Precious Metal Theft,Sophisticated gold robbery and smuggling operation,lose
+414,Bangalore Tech Company Robbery,2010,Karnataka High Court,Corporate Theft,Insider-led robbery of high-value technological equipment,lose
+415,Hyderabad Bullion Heist,2013,Andhra Pradesh High Court,Precious Metal Theft,Large-scale robbery of gold and silver bullion,lose
+416,Punjab National Bank Fraud,2018,Punjab and Haryana High Court,Financial Fraud,Massive financial fraud involving bank officials,win
+417,Kerala Temple Treasure Robbery,2007,Kerala High Court,Religious Site Theft,Robbery of ancient temple treasures,lose
+418,Rajasthan Desert Dacoity,1990,Rajasthan High Court,Organized Dacoity,Large-scale organized robbery in desert regions,win
+419,Mumbai Jewel Thieves Case,2016,Bombay High Court,Organized Robbery Network,Sophisticated jewelry theft ring operating across multiple cities,win
+420,Delhi Airport Cargo Theft,2014,Delhi High Court,Cargo Robbery,Large-scale theft from airport cargo facilities,lose
+421,Bhopal Gas Tragedy,1984,Supreme Court of India,Industrial Disaster,Catastrophic gas leak at Union Carbide pesticide plant,win
+422,Uphaar Cinema Fire,1997,Delhi High Court,Mass Casualty Event,Fatal fire in Delhi cinema hall due to safety violations,win
+423,Godhra Train Burning,2002,Gujarat High Court,Mass Transportation Accident,Burning of Sabarmati Express train,lose
+424,Mumbai Stampede,2017,Bombay High Court,Crowd Management Failure,Fatal stampede at Elphinstone Road railway station,lose
+425,Kanpur Factory Boiler Explosion,2017,Allahabad High Court,Industrial Accident,Massive boiler explosion killing multiple workers,win
+426,Gorakhpur Hospital Tragedy,2017,Uttar Pradesh High Court,Medical Negligence,Mass child deaths due to oxygen supply failure,lose
+427,Kerala Helicopter Crash,2021,Kerala High Court,Military Aviation Accident,Crash killing Chief of Defence Staff and others,lose
+428,Chennai Flyover Collapse,2021,Madras High Court,Infrastructure Failure,Major bridge collapse causing multiple fatalities,win
+429,Uttarakhand Bus Accident,2018,Uttarakhand High Court,Road Transport Accident,Massive bus fall into gorge in mountain region,lose
+430,Delhi Sealing Drive Collapse,2010,Delhi High Court,Urban Infrastructure Failure,Building collapse during municipal sealing drive,win
+431,Tamil Nadu Bus-Truck Collision,2016,Madras High Court,Road Transport Accident,Massive collision causing multiple fatalities,lose
+432,Vizag Gas Leak,2020,Andhra Pradesh High Court,Industrial Chemical Accident,Styrene gas leak causing mass evacuation,win
+433,Nathulal v. Phoolchand,1969,Supreme Court,A lease must be terminated through proper notice as per Section 106,A dispute over tenancy rights where the landlord failed to provide proper eviction notice,win
+434,Krishna Murari v. Swami Nath,2005,Allahabad High Court,A tenant cannot be evicted without serving a valid legal notice,The landlord attempted eviction without a legal notice under Section 106,lose
+435,K.K. Verma v. Union of India,1954,Supreme Court,Proper notice is mandatory before eviction,A case highlighting the importance of valid notice before terminating tenancy,win
+436,S. Radhakrishnan v. Neelamegam,2019,Madras High Court,A defective eviction notice is not valid under Section 106,The landlord issued an incomplete notice making the eviction unlawful,lose
+437,Majati Subbarao v. P.V.K.Krishna Rao,1989,Supreme Court,Tenancy termination requires proper statutory notice,The court ruled that informal agreements cannot override statutory eviction notice requirements,win
