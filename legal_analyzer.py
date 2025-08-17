@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import spacy
-from collections import Counter
 from sentence_transformers import SentenceTransformer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -173,3 +171,4 @@ class LegalAnalyzer:
             'applicableLaws': applicable_laws,
             'outcomeAnalysis': outcome_analysis
         }
+
